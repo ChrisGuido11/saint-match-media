@@ -1,0 +1,94 @@
+{
+  "folder": "2026-10-03-saint-theodora-guerin",
+  "slug": "theodora-guerin",
+  "reel": {
+    "file": "theodora-guerin-final.mp4",
+    "md5": "24be1ece4b9916be93eeb61643d4e796",
+    "bytes": 24586942,
+    "duration_s": 48.0,
+    "probe": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        {
+          "codec_name": "aac",
+          "profile": "LC"
+        }
+      ],
+      "format": {
+        "duration": "48.000000",
+        "size": "24586942"
+      }
+    },
+    "boxes": [
+      "ftyp",
+      "moov",
+      "free",
+      "mdat"
+    ]
+  },
+  "stills": [
+    {
+      "file": "beat-01.png",
+      "md5": "8d78c7436faaea6ccd51def92f2dc37d",
+      "bytes": 893170
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "4e82fa0194a420c8c45ae683b02d2233",
+      "bytes": 958907
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "754d659ac47a08cf490e48468b4afa08",
+      "bytes": 1652479
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "2db79f94a85deefb6787960a0f0110cd",
+      "bytes": 1132798
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "2e1a9d6e6a5d821edf2110be92fb05fe",
+      "bytes": 1311530
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "23db3aebad20f581fc2b7476567c0914",
+      "bytes": 910880
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "140ee781beed55ebc6d8fea5b0c83ea5",
+      "bytes": 1212508
+    }
+  ],
+  "endcard": {
+    "file": "app-store-real.png",
+    "md5": "0c50d2f77d2fa369ddf346f52ce4e5a1",
+    "bytes": 435368
+  },
+  "cover": {
+    "file": "cover.png",
+    "md5": "c4592b2ed88743678d5be0c26ab7c9e5",
+    "bytes": 1636282
+  },
+  "contact": {},
+  "poster_clean": {
+    "file": "poster-clean.png",
+    "md5": "bb24c4cf23e8b26c0b40c0c5dad58591",
+    "bytes": 1616027
+  },
+  "contact_sheet": {
+    "file": "contact-sheet.png",
+    "md5": "8955b3a06dd745f671d3846a697a8e98",
+    "bytes": 1553521
+  }
+}

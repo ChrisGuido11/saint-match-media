@@ -1,0 +1,94 @@
+{
+  "folder": "2026-10-03-gospel-luke-10-17-24",
+  "slug": "luke-10-17-24",
+  "reel": {
+    "file": "luke-10-17-24-final.mp4",
+    "md5": "2ae50dfd1df038ff46900dbb558e9021",
+    "bytes": 17487647,
+    "duration_s": 39.21,
+    "probe": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "profile": "High",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        {
+          "codec_name": "aac",
+          "profile": "LC"
+        }
+      ],
+      "format": {
+        "duration": "39.210000",
+        "size": "17487647"
+      }
+    },
+    "boxes": [
+      "ftyp",
+      "moov",
+      "free",
+      "mdat"
+    ]
+  },
+  "stills": [
+    {
+      "file": "beat-01.png",
+      "md5": "ee4d791fa1ee14d534563b1e0e19f4fc",
+      "bytes": 1103228
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "70d3bed6170143df7880e764d7d31c0a",
+      "bytes": 834348
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "686b512fbb49fca4aa084ce57884be27",
+      "bytes": 675899
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "d6b2e26a6a61166535a9da23189d7015",
+      "bytes": 714747
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "0bbc439aff309b558fa47eeb4a46ca51",
+      "bytes": 728965
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "ec9d8f265e0f80a2eb5e9b74620db0b6",
+      "bytes": 929571
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "fb0b504a4ba88376f0081a9c2abbc2cb",
+      "bytes": 962099
+    }
+  ],
+  "endcard": {
+    "file": "app-store-real.png",
+    "md5": "0c50d2f77d2fa369ddf346f52ce4e5a1",
+    "bytes": 435368
+  },
+  "cover": {
+    "file": "cover.png",
+    "md5": "afddba069959ab00f675a064e8c7a5fd",
+    "bytes": 1276282
+  },
+  "contact": {},
+  "poster_clean": {
+    "file": "poster-clean.png",
+    "md5": "845bbc4d1047fb6c90ebcb3c30a515da",
+    "bytes": 1269524
+  },
+  "contact_sheet": {
+    "file": "contact-sheet.png",
+    "md5": "c6a86f42c1dedf3e6f3371df18751dfe",
+    "bytes": 1261829
+  }
+}
