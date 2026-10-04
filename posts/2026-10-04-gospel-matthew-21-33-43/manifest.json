@@ -27,6 +27,15 @@
       "art": "style-v3-bibleproject",
       "motion": "soft still animation (flicker, glow pulse, twinkle, 2-layer parallax)",
       "faststart": true
+    },
+    "matthew-21-33-43-v4bp-andrew-b.mp4": {
+      "md5": "101c89ef5f1362f65a5f43a1f180dbf5",
+      "bytes": 27695870,
+      "duration_s": 44.4,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "note": "beat 01 regen: no head-glow discs on chief priests",
+      "faststart": true
     }
   }
 }
