@@ -6,7 +6,7 @@
   "durationSec": 40.0,
   "width": 1080,
   "height": 1920,
-  "note": "v5im hybrid freeze-figures; v5raw raw Imagine compare",
+  "note": "v5im-b lock-to-still hybrid; v5raw compare; v5im ghosting superseded",
   "files": {
     "sign-of-the-cross-v3art-andrew.mp4": {
       "md5": "a13481fd4abadec49499ebfe0a09e825",
@@ -41,6 +41,15 @@
       "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
       "art": "style-v3-bibleproject",
       "motion": "raw Imagine clips as-is for compare. Same VO, captions, timings. Not wired to the app.",
+      "faststart": true
+    },
+    "sign-of-the-cross-v5im-b-andrew.mp4": {
+      "md5": "39db0a9a49978a9cc138e9c071676235",
+      "bytes": 37750820,
+      "duration_s": 40.0,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "motion": "v5im-b: lock Imagine clip to still, dilated frozen figures, one shared push-in. Beat 01 raw. 02-07 hybrid-lock. 08-09 still Ken Burns.",
       "faststart": true
     }
   },
