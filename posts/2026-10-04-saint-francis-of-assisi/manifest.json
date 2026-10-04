@@ -18,6 +18,15 @@
       "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs credits; Luis WGINef1wh4Hi6O62bfO8 requested)",
       "art": "style-v2",
       "faststart": true
+    },
+    "saint-francis-of-assisi-v4bp-andrew.mp4": {
+      "md5": "bfc763cd2c2e1306bc2ff6d9af485529",
+      "bytes": 31281694,
+      "duration_s": 52.466667,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "motion": "soft still animation (flicker, glow pulse, twinkle, 2-layer parallax)",
+      "faststart": true
     }
   }
 }
