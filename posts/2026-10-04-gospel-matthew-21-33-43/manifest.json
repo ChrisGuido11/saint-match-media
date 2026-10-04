@@ -18,6 +18,15 @@
       "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs credits; Luis WGINef1wh4Hi6O62bfO8 requested)",
       "art": "style-v2",
       "faststart": true
+    },
+    "matthew-21-33-43-v4bp-andrew.mp4": {
+      "md5": "86ee0ca55d3b5135326334b89f40a488",
+      "bytes": 27810193,
+      "duration_s": 44.4,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "motion": "soft still animation (flicker, glow pulse, twinkle, 2-layer parallax)",
+      "faststart": true
     }
   }
 }
