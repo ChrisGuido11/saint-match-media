@@ -9,5 +9,15 @@
   "height": 1920,
   "codec": "h264",
   "audio": "aac",
-  "faststart": true
+  "faststart": true,
+  "files": {
+    "saint-francis-of-assisi-v3art-andrew.mp4": {
+      "md5": "70bfbb4dfc7ceba6f65f0c58b98d5d57",
+      "bytes": 33810601,
+      "duration_s": 52.47,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs credits; Luis WGINef1wh4Hi6O62bfO8 requested)",
+      "art": "style-v2",
+      "faststart": true
+    }
+  }
 }
