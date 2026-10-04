@@ -24,6 +24,66 @@
       "art": "style-v3-bibleproject",
       "motion": "soft still animation (flicker, glow pulse, twinkle, 2-layer parallax)",
       "faststart": true
+    },
+    "sign-of-the-cross-v5im-andrew.mp4": {
+      "md5": "9dfba44941413b29fb36b8632ef403c8",
+      "bytes": 37824328,
+      "duration_s": 40.0,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "motion": "Grok Imagine clips beat-01-v5im through beat-07-v5im, lanczos 1080x1920, light unsharp, no glow/parallax/blur",
+      "faststart": true
+    }
+  },
+  "clips_v5im": {
+    "beat-01-v5im.mp4": {
+      "md5": "1986e6b04ec3b4e097593385db7a233f",
+      "bytes": 3273306,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
+    },
+    "beat-02-v5im.mp4": {
+      "md5": "1bb62ac6c58a6011af7a63f3b9deea40",
+      "bytes": 2407112,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
+    },
+    "beat-03-v5im.mp4": {
+      "md5": "c59980f906600a1ef28a9b53cccc87c7",
+      "bytes": 3453372,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
+    },
+    "beat-04-v5im.mp4": {
+      "md5": "002ac818640d3a32d8ff94acd0096041",
+      "bytes": 3919171,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
+    },
+    "beat-05-v5im.mp4": {
+      "md5": "40cf426e7180a808750c32795c24b1dc",
+      "bytes": 3983951,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
+    },
+    "beat-06-v5im.mp4": {
+      "md5": "173230bcb61c686572e763665f9d736b",
+      "bytes": 3436960,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
+    },
+    "beat-07-v5im.mp4": {
+      "md5": "e57352e21d2c7ac85493a9f9edbcc15e",
+      "bytes": 2815802,
+      "width": 720,
+      "height": 1280,
+      "duration_s": 6.04
     }
   }
 }
