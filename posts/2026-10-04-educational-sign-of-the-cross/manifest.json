@@ -6,7 +6,7 @@
   "durationSec": 40.0,
   "width": 1080,
   "height": 1920,
-  "note": "aha remake v2",
+  "note": "v5im hybrid freeze-figures; v5raw raw Imagine compare",
   "files": {
     "sign-of-the-cross-v3art-andrew.mp4": {
       "md5": "a13481fd4abadec49499ebfe0a09e825",
@@ -26,12 +26,21 @@
       "faststart": true
     },
     "sign-of-the-cross-v5im-andrew.mp4": {
-      "md5": "9dfba44941413b29fb36b8632ef403c8",
-      "bytes": 37824328,
+      "md5": "3fb007fb7bc400c33ad4d11dad8d927a",
+      "bytes": 37787917,
       "duration_s": 40.0,
       "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
       "art": "style-v3-bibleproject",
-      "motion": "Grok Imagine clips beat-01-v5im through beat-07-v5im, lanczos 1080x1920, light unsharp, no glow/parallax/blur",
+      "motion": "hybrid: Imagine clip background (glow, stars, light) plus frozen still figures. Beat 01 raw clip. Beats 02-04,06-07 match-cam hybrid. Beat 05 undo-cam hybrid. Beats 08-09 still Ken Burns. No blur/parallax.",
+      "faststart": true
+    },
+    "sign-of-the-cross-v5raw-andrew.mp4": {
+      "md5": "515d95a4ae31318af9a0ee74c32ce2d4",
+      "bytes": 37819166,
+      "duration_s": 40.0,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "motion": "raw Imagine clips as-is for compare. Same VO, captions, timings. Not wired to the app.",
       "faststart": true
     }
   },
