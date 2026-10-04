@@ -9,5 +9,15 @@
   "height": 1920,
   "codec": "h264",
   "audio": "aac",
-  "faststart": true
+  "faststart": true,
+  "files": {
+    "matthew-21-33-43-v3art-andrew.mp4": {
+      "md5": "760e42622f33e146fbdf3d01269ca8d7",
+      "bytes": 31073674,
+      "duration_s": 44.4,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs credits; Luis WGINef1wh4Hi6O62bfO8 requested)",
+      "art": "style-v2",
+      "faststart": true
+    }
+  }
 }
