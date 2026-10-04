@@ -15,6 +15,15 @@
       "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
       "art": "style-v2",
       "faststart": true
+    },
+    "sign-of-the-cross-v4bp-andrew.mp4": {
+      "md5": "05af594cf27a783ac57c2a8924df38e9",
+      "bytes": 25625116,
+      "duration_s": 40.0,
+      "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (voice v3 blocked: ElevenLabs key missing)",
+      "art": "style-v3-bibleproject",
+      "motion": "soft still animation (flicker, glow pulse, twinkle, 2-layer parallax)",
+      "faststart": true
     }
   }
 }
