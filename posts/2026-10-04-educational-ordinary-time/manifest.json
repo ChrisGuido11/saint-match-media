@@ -1,0 +1,15 @@
+{
+  "folder": "2026-10-04-educational-ordinary-time",
+  "slug": "ordinary-time",
+  "reel": "ordinary-time-final.mp4",
+  "md5": "b2c8f13994e88ac457a8e6b3a11ec5c2",
+  "bytes": 19453230,
+  "duration_s": 44.67,
+  "width": 1080,
+  "height": 1920,
+  "codec": "h264",
+  "audio": "aac",
+  "faststart": true,
+  "voice": "en-US-AndrewMultilingualNeural +10%",
+  "piano_bed": "last, -19dB under voice"
+}
