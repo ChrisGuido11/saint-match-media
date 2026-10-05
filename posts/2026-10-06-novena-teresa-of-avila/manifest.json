@@ -1,0 +1,15 @@
+{
+ "folder": "2026-10-06-novena-teresa-of-avila",
+ "slug": "novena-teresa-of-avila",
+ "reel": "novena-teresa-of-avila-final.mp4",
+ "md5": "76d2e96a5f8ad93f4715c4d0b6c8b850",
+ "bytes": 32508857,
+ "duration_s": 50.333,
+ "width": 1080,
+ "height": 1920,
+ "codec": "h264",
+ "audio": "aac",
+ "faststart": true,
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing; Luis WGINef1wh4Hi6O62bfO8 requested)",
+ "art": "style-v3-bibleproject"
+}
