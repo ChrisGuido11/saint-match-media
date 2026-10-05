@@ -1,0 +1,15 @@
+{
+ "folder": "2026-10-07-novena-margaret-mary-alacoque",
+ "slug": "novena-margaret-mary-alacoque",
+ "reel": "novena-margaret-mary-alacoque-final.mp4",
+ "md5": "2871be61501332a99648f2487ca8aa70",
+ "bytes": 29780695,
+ "duration_s": 51.9,
+ "width": 1080,
+ "height": 1920,
+ "codec": "h264",
+ "audio": "aac",
+ "faststart": true,
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing; Luis WGINef1wh4Hi6O62bfO8 requested)",
+ "art": "style-v3-bibleproject"
+}
