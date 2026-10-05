@@ -1,16 +1,22 @@
 {
- "folder": "2026-10-05-gospel-luke-10-25-37",
- "slug": "luke-10-25-37",
- "reel": "luke-10-25-37-final.mp4",
- "md5": "2179a15c61f074f23082bbf6ad5663b8",
- "bytes": 60124180,
- "duration_s": 98.267,
- "width": 1080,
- "height": 1920,
- "codec": "h264",
- "audio": "aac",
- "faststart": true,
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing; Luis WGINef1wh4Hi6O62bfO8 requested)",
- "art": "style-v3-bibleproject",
- "usccb_diff": "PASS verbatim Luke 10:25-37"
+  "folder": "2026-10-05-gospel-luke-10-25-37",
+  "slug": "luke-10-25-37",
+  "art": "style-v3-bibleproject-cast-lock",
+  "stills": "RENDERED",
+  "reel": "PENDING",
+  "character_gate": "PASS",
+  "motion_gate": "PENDING",
+  "cast": [
+    "cast/jesus.png",
+    "cast/scholar.png",
+    "cast/victim.png",
+    "cast/priest.png",
+    "cast/levite.png",
+    "cast/samaritan.png",
+    "cast/innkeeper.png"
+  ],
+  "beats": 22,
+  "width": 1080,
+  "height": 1920,
+  "note": "CAST LOCK remake 2026-10-05. New stills and cast. No Imagine. No new reel. Old reel left in place for the already-scheduled Buffer posts."
 }
