@@ -1,11 +1,11 @@
 {
   "folder": "2026-10-05-gospel-luke-10-25-37",
   "slug": "luke-10-25-37",
-  "art": "style-v3-bibleproject-cast-lock",
+  "art": "style-v3-bibleproject-cast-lock-imagine",
   "stills": "RENDERED",
-  "reel": "PENDING",
+  "reel": "RENDERED",
   "character_gate": "PASS",
-  "motion_gate": "PENDING",
+  "motion_gate": "PASS",
   "cast": [
     "cast/jesus.png",
     "cast/scholar.png",
@@ -18,5 +18,19 @@
   "beats": 22,
   "width": 1080,
   "height": 1920,
-  "note": "CAST LOCK remake 2026-10-05. New stills and cast. No Imagine. No new reel. Old reel left in place for the already-scheduled Buffer posts."
+  "note": "Imagine rebuild 2026-10-05. Old Ken Burns reel left in place. Buffer not edited.",
+  "file": "luke-10-25-37-v2-imagine-andrew.mp4",
+  "md5": "3be08f2d474656b782ba9c635b657a7a",
+  "bytes": 92666870,
+  "duration_s": 98.267,
+  "video": "h264-high-yuv420p",
+  "audio": "aac-lc-48k-stereo",
+  "faststart": true,
+  "voice": "reused edge-tts en-US-AndrewMultilingualNeural +10% from luke-10-25-37-final.mp4",
+  "story_motion": "raw-clip beat-01..22",
+  "end_motion": "still-kb beat-23..24 app-store-real.png",
+  "clips_commits": [
+    "35c9e5f",
+    "bfb7025"
+  ]
 }
