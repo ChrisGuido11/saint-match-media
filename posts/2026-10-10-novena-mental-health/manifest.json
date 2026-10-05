@@ -1,0 +1,15 @@
+{
+ "folder": "2026-10-10-novena-mental-health",
+ "slug": "novena-mental-health",
+ "reel": "novena-mental-health-final.mp4",
+ "md5": "1b22a14d0f3338145d3abf32c63d0ddb",
+ "bytes": 24038962,
+ "duration_s": 43.9,
+ "width": 1080,
+ "height": 1920,
+ "codec": "h264",
+ "audio": "aac",
+ "faststart": true,
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing; Luis WGINef1wh4Hi6O62bfO8 requested)",
+ "art": "style-v3-bibleproject"
+}
