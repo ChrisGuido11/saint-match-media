@@ -1,0 +1,15 @@
+{
+ "folder": "2026-10-05-saint-faustina-kowalska",
+ "slug": "saint-faustina-kowalska",
+ "reel": "saint-faustina-kowalska-final.mp4",
+ "md5": "4cf56c22d8f4b4111833bb4d759a47b4",
+ "bytes": 27604208,
+ "duration_s": 48.533,
+ "width": 1080,
+ "height": 1920,
+ "codec": "h264",
+ "audio": "aac",
+ "faststart": true,
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing; Luis WGINef1wh4Hi6O62bfO8 requested)",
+ "art": "style-v3-bibleproject"
+}
