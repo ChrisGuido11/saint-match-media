@@ -6,38 +6,38 @@
  "stills": [
   {
    "file": "beat-01.png",
-   "md5": "f1f60098bcf25b14b6410def3b2b688c",
-   "bytes": 1406447
+   "md5": "eb1501de67228b9cc3cb585a2d22c727",
+   "bytes": 1684972
   },
   {
    "file": "beat-02.png",
-   "md5": "06bda2b92e00d7b5d3eeecb752283d59",
-   "bytes": 1405984
+   "md5": "24d0390cb4a40dd2a8d2a3b71aa6dbe7",
+   "bytes": 1567700
   },
   {
    "file": "beat-03.png",
-   "md5": "6ece78c554f0fd546ec8abda17fb25d5",
-   "bytes": 1897857
+   "md5": "65db1139f8cc6e34b53c5aea02b3b8d9",
+   "bytes": 1546641
   },
   {
    "file": "beat-04.png",
-   "md5": "a25ad4f134927aca77586d12f5ff4fa9",
-   "bytes": 1308199
+   "md5": "6392505ee4db0cd25fab42b4e22741e0",
+   "bytes": 1355176
   },
   {
    "file": "beat-05.png",
-   "md5": "c68b0b37671756856c448b5825738ac6",
-   "bytes": 1491880
+   "md5": "2cc72f42d26d2bb52a4ee886486458c4",
+   "bytes": 1831874
   },
   {
    "file": "beat-06.png",
-   "md5": "84e4ba91f4f268cadf6b9e80f8da2037",
-   "bytes": 1297995
+   "md5": "4ea130376034d3ed8b91371a9a592d37",
+   "bytes": 946707
   },
   {
    "file": "beat-07.png",
-   "md5": "8cbf630be1985f550a213636cae6aac2",
-   "bytes": 1294318
+   "md5": "437af260d707f0bc33d2fbe0109f6bcf",
+   "bytes": 1727512
   }
  ],
  "contact_sheet_md5": "dfb661073ceaa13a3c1e888c8f127618",
@@ -45,10 +45,10 @@
  "height": 1920,
  "character_gate": "PASS",
  "motion_gate": "PASS",
- "file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4",
- "md5": "f820a3d69582c95a572bd4d53bd186c4",
- "bytes": 34557274,
- "duration_s": 46.333,
+ "file": "educational-genuflect-tabernacle-v2-imagine.mp4",
+ "md5": "d01efd58372320c424f99f40ae962e8e",
+ "bytes": 29650918,
+ "duration_s": 39.917,
  "video": "h264-high-yuv420p",
  "audio": "aac-lc-48k-stereo",
  "faststart": true,
@@ -56,5 +56,6 @@
  "story_motion": "raw-clip beat-01..07",
  "end_motion": "still-kb app-store-real.png",
  "clips_commit": "b30f002",
- "note": "Imagine rebuild 2026-10-06. Kit raw-clip path. Piano pad last at -19 dB."
+ "note": "Visual Facts remake 2026-10-06. Imagine reel educational-genuflect-tabernacle-v2-imagine.mp4 (md5 d01efd58372320c424f99f40ae962e8e). Stills beat-01..07 refreshed.",
+ "prior_file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4"
 }
