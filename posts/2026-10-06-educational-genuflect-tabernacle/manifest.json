@@ -1,9 +1,8 @@
 {
  "folder": "2026-10-06-educational-genuflect-tabernacle",
  "slug": "educational-genuflect-tabernacle",
- "art": "style-v3-bibleproject",
- "reel": null,
- "reel_note": "Not shipped. Motion gate pending. Imagine clips were not on this VM. Ken Burns was not used as a substitute.",
+ "art": "style-v3-bibleproject-cast-lock-imagine",
+ "reel": "RENDERED",
  "stills": [
   {
    "file": "beat-01.png",
@@ -43,5 +42,19 @@
  ],
  "contact_sheet_md5": "dfb661073ceaa13a3c1e888c8f127618",
  "width": 1080,
- "height": 1920
+ "height": 1920,
+ "character_gate": "PASS",
+ "motion_gate": "PASS",
+ "file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4",
+ "md5": "f820a3d69582c95a572bd4d53bd186c4",
+ "bytes": 34557274,
+ "duration_s": 46.333,
+ "video": "h264-high-yuv420p",
+ "audio": "aac-lc-48k-stereo",
+ "faststart": true,
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10%",
+ "story_motion": "raw-clip beat-01..07",
+ "end_motion": "still-kb app-store-real.png",
+ "clips_commit": "b30f002",
+ "note": "Imagine rebuild 2026-10-06. Kit raw-clip path. Piano pad last at -19 dB."
 }

@@ -1,9 +1,8 @@
 {
  "folder": "2026-10-06-gospel-luke-10-38-42",
  "slug": "gospel-luke-10-38-42",
- "art": "style-v3-bibleproject",
- "reel": null,
- "reel_note": "Not shipped. Motion gate pending. Imagine clips were not on this VM. Ken Burns was not used as a substitute.",
+ "art": "style-v3-bibleproject-cast-lock-imagine",
+ "reel": "RENDERED",
  "stills": [
   {
    "file": "beat-01.png",
@@ -48,5 +47,19 @@
  ],
  "contact_sheet_md5": "24f3c72b8c021c7d1d62c8541352953a",
  "width": 1080,
- "height": 1920
+ "height": 1920,
+ "character_gate": "PASS",
+ "motion_gate": "PASS",
+ "file": "luke-10-38-42-v2-imagine-andrew.mp4",
+ "md5": "1a251a6ffe1220383a9c382b26a76067",
+ "bytes": 33256099,
+ "duration_s": 43.9,
+ "video": "h264-high-yuv420p",
+ "audio": "aac-lc-48k-stereo",
+ "faststart": true,
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10%",
+ "story_motion": "raw-clip beat-01..08",
+ "end_motion": "still-kb app-store-real.png",
+ "clips_commit": "b30f002",
+ "note": "Imagine rebuild 2026-10-06. Kit raw-clip path. Piano pad last at -19 dB."
 }
