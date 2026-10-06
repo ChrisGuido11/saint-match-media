@@ -1,7 +1,7 @@
 {
  "folder": "2026-10-06-educational-genuflect-tabernacle",
  "slug": "educational-genuflect-tabernacle",
- "art": "style-v3-bibleproject-cast-lock-imagine",
+ "art": "style-v3-bibleproject-cast-lock-imagine-visual-facts-pass",
  "reel": "RENDERED",
  "stills": [
   {
@@ -45,17 +45,26 @@
  "height": 1920,
  "character_gate": "PASS",
  "motion_gate": "PASS",
- "file": "educational-genuflect-tabernacle-v2-imagine.mp4",
- "md5": "d01efd58372320c424f99f40ae962e8e",
- "bytes": 29650918,
- "duration_s": 39.917,
+ "file": "educational-genuflect-tabernacle-v2-imagine-vo.mp4",
+ "md5": "9dcebddc6777b3ac037c2f9de509e792",
+ "bytes": 34171527,
+ "duration_s": 46.336,
  "video": "h264-high-yuv420p",
  "audio": "aac-lc-48k-stereo",
  "faststart": true,
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10%",
- "story_motion": "raw-clip beat-01..07",
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs Luis quota exceeded)",
+ "story_motion": "raw-clip beat-01..07 remake Imagine",
  "end_motion": "still-kb app-store-real.png",
  "clips_commit": "b30f002",
- "note": "Visual Facts remake 2026-10-06. Imagine reel educational-genuflect-tabernacle-v2-imagine.mp4 (md5 d01efd58372320c424f99f40ae962e8e). Stills beat-01..07 refreshed.",
- "prior_file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4"
+ "note": "VO+karaoke remake on Visual Facts PASS stills/clips. Replaces silent v2-imagine and glow-cone andrew/final. Buffer should attach educational-genuflect-tabernacle-v2-imagine-vo.mp4.",
+ "prior_file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4",
+ "also_as": [
+  "educational-genuflect-tabernacle-final.mp4",
+  "educational-genuflect-tabernacle-v2-imagine-andrew.mp4"
+ ],
+ "captions": "cream-white karaoke Style-v3",
+ "piano_bed": true,
+ "visual_facts_gate": "PASS, 2026-10-06 PT",
+ "prior_silent_file": "educational-genuflect-tabernacle-v2-imagine.mp4",
+ "prior_silent_md5": "d01efd58372320c424f99f40ae962e8e"
 }
