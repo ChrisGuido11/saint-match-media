@@ -1,0 +1,47 @@
+{
+ "folder": "2026-10-06-educational-genuflect-tabernacle",
+ "slug": "educational-genuflect-tabernacle",
+ "art": "style-v3-bibleproject",
+ "reel": null,
+ "reel_note": "Not shipped. Motion gate pending. Imagine clips were not on this VM. Ken Burns was not used as a substitute.",
+ "stills": [
+  {
+   "file": "beat-01.png",
+   "md5": "f1f60098bcf25b14b6410def3b2b688c",
+   "bytes": 1406447
+  },
+  {
+   "file": "beat-02.png",
+   "md5": "06bda2b92e00d7b5d3eeecb752283d59",
+   "bytes": 1405984
+  },
+  {
+   "file": "beat-03.png",
+   "md5": "6ece78c554f0fd546ec8abda17fb25d5",
+   "bytes": 1897857
+  },
+  {
+   "file": "beat-04.png",
+   "md5": "a25ad4f134927aca77586d12f5ff4fa9",
+   "bytes": 1308199
+  },
+  {
+   "file": "beat-05.png",
+   "md5": "c68b0b37671756856c448b5825738ac6",
+   "bytes": 1491880
+  },
+  {
+   "file": "beat-06.png",
+   "md5": "84e4ba91f4f268cadf6b9e80f8da2037",
+   "bytes": 1297995
+  },
+  {
+   "file": "beat-07.png",
+   "md5": "8cbf630be1985f550a213636cae6aac2",
+   "bytes": 1294318
+  }
+ ],
+ "contact_sheet_md5": "dfb661073ceaa13a3c1e888c8f127618",
+ "width": 1080,
+ "height": 1920
+}

@@ -1,0 +1,52 @@
+{
+ "folder": "2026-10-06-gospel-luke-10-38-42",
+ "slug": "gospel-luke-10-38-42",
+ "art": "style-v3-bibleproject",
+ "reel": null,
+ "reel_note": "Not shipped. Motion gate pending. Imagine clips were not on this VM. Ken Burns was not used as a substitute.",
+ "stills": [
+  {
+   "file": "beat-01.png",
+   "md5": "40bf0b56f436827f326674276930dbba",
+   "bytes": 1455794
+  },
+  {
+   "file": "beat-02.png",
+   "md5": "62e694da0c0c7a6d375f414f61b62042",
+   "bytes": 1984856
+  },
+  {
+   "file": "beat-03.png",
+   "md5": "da94433122b5d34cd9f9c2b93b2df3ba",
+   "bytes": 1632655
+  },
+  {
+   "file": "beat-04.png",
+   "md5": "9a291d7c54a46f193934621345fe0445",
+   "bytes": 1831847
+  },
+  {
+   "file": "beat-05.png",
+   "md5": "bcd4a399e7e2c4073acce2de408c72bc",
+   "bytes": 1418087
+  },
+  {
+   "file": "beat-06.png",
+   "md5": "1842fa9f2a27cd4a751deb661a534d4b",
+   "bytes": 1723674
+  },
+  {
+   "file": "beat-07.png",
+   "md5": "b7c2a70fc143157287f7e0fd641882d8",
+   "bytes": 1076573
+  },
+  {
+   "file": "beat-08.png",
+   "md5": "2b5a0d9dd2aab191aa9bff91526caab2",
+   "bytes": 1517625
+  }
+ ],
+ "contact_sheet_md5": "24f3c72b8c021c7d1d62c8541352953a",
+ "width": 1080,
+ "height": 1920
+}

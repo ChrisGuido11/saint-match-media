@@ -1,0 +1,47 @@
+{
+ "folder": "2026-10-06-saint-bruno",
+ "slug": "saint-bruno",
+ "art": "style-v3-bibleproject",
+ "reel": null,
+ "reel_note": "Not shipped. Motion gate pending. Imagine clips were not on this VM. Ken Burns was not used as a substitute.",
+ "stills": [
+  {
+   "file": "beat-01.png",
+   "md5": "4548e2cc17e5c315d7a627a2e2720c92",
+   "bytes": 1416130
+  },
+  {
+   "file": "beat-02.png",
+   "md5": "2fdaecf6947fe1efb4345e7a416a4023",
+   "bytes": 1186047
+  },
+  {
+   "file": "beat-03.png",
+   "md5": "3ef3e3b09da8873168f0877ba9ce3ba6",
+   "bytes": 2148295
+  },
+  {
+   "file": "beat-04.png",
+   "md5": "329678c4131d77fc074ab691b7a4fdc9",
+   "bytes": 1519640
+  },
+  {
+   "file": "beat-05.png",
+   "md5": "add88133b8bb93616ef04a9f41a686c5",
+   "bytes": 1414175
+  },
+  {
+   "file": "beat-06.png",
+   "md5": "66b6865d364a61788dec1ebb534fea9c",
+   "bytes": 1190159
+  },
+  {
+   "file": "beat-07.png",
+   "md5": "86ac5867e44cb928e2a4723f481f493f",
+   "bytes": 1940238
+  }
+ ],
+ "contact_sheet_md5": "554ac26b0685900d8a1c521983ae3d2f",
+ "width": 1080,
+ "height": 1920
+}
