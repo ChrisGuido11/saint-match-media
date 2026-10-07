@@ -149,9 +149,39 @@
       "bytes": 1943139
     },
     {
+      "file": "beat-01-v6.png",
+      "md5": "d277b5ba38085b0f2126091aca014e22",
+      "bytes": 1198912
+    },
+    {
+      "file": "beat-02-v6.png",
+      "md5": "926bd46051603a112d43fda37eb4117b",
+      "bytes": 1273005
+    },
+    {
+      "file": "beat-03-v6.png",
+      "md5": "5f05d18e762877519c656842f4b15907",
+      "bytes": 1126423
+    },
+    {
+      "file": "beat-04-v6.png",
+      "md5": "893b51aebf30694f09800f1e12bfaf2a",
+      "bytes": 1258022
+    },
+    {
       "file": "beat-05-v6.png",
-      "md5": "bc7d2e5a95b6f88afd9485b66a47846d",
-      "bytes": 1392482
+      "md5": "72b39909b79b029a9369386067219019",
+      "bytes": 1400932
+    },
+    {
+      "file": "beat-06-v6.png",
+      "md5": "e46663696f9f3537a3f8283226d88b87",
+      "bytes": 1379712
+    },
+    {
+      "file": "beat-07-v6.png",
+      "md5": "d2ac53a0e828a68faaa6efce368d6c9d",
+      "bytes": 1407523
     }
   ],
   "motion": "raw-clip 01-07; still-kb 08-09"
