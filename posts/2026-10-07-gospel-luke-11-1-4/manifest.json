@@ -147,6 +147,11 @@
       "file": "imagine-clips/beat-07-v5.mp4",
       "md5": "5c9faadcfc4af03b67776f723f199c7c",
       "bytes": 1943139
+    },
+    {
+      "file": "beat-05-v6.png",
+      "md5": "bc7d2e5a95b6f88afd9485b66a47846d",
+      "bytes": 1392482
     }
   ],
   "motion": "raw-clip 01-07; still-kb 08-09"
