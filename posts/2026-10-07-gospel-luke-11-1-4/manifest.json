@@ -4,7 +4,9 @@
   "width": 1080,
   "height": 1920,
   "reel": null,
-  "note": "Stills only. Imagine is not available on this VM. No shippable reel. Motion gate FAIL.",
+  "duration_s": null,
+  "voice": null,
+  "piano_bed_db": -19,
   "files": [
     {
       "file": "beat-01.png",
@@ -18,28 +20,48 @@
     },
     {
       "file": "beat-03.png",
-      "md5": "791853dee99e44f8bd7926ed9b356a7f",
-      "bytes": 1262669
+      "md5": "413516355e49baf4d7e057c620eb7d90",
+      "bytes": 1472845
     },
     {
       "file": "beat-04.png",
-      "md5": "2a40630c65d3dc1bd798c08946428a4f",
-      "bytes": 1378809
+      "md5": "8a5de82ef16f489631beec83499178b0",
+      "bytes": 1506117
     },
     {
       "file": "beat-05.png",
-      "md5": "59fd10eadf55ac9eac6510dc4232a032",
-      "bytes": 1278766
+      "md5": "4e524c12ccff3b32dad545ef8270c581",
+      "bytes": 1561300
     },
     {
       "file": "beat-06.png",
-      "md5": "269e2e825a778813795977aaa46b3e42",
-      "bytes": 1342398
+      "md5": "aadd44f8b26fd9efa03242f515c9747c",
+      "bytes": 1453990
     },
     {
       "file": "beat-07.png",
-      "md5": "6c61c586d8c1a16dbd0b7b91c53c4ada",
-      "bytes": 1315831
+      "md5": "a858271c9a91762c0c51b3f4f5f4e4f0",
+      "bytes": 1639699
+    },
+    {
+      "file": "beat-01.mp4",
+      "md5": "30d5bcb1a5be672484f15ec184c59bba",
+      "bytes": 1033608
+    },
+    {
+      "file": "beat-02.mp4",
+      "md5": "60089643a28b961f3e55456531a91af6",
+      "bytes": 1644500
+    },
+    {
+      "file": "beat-03.mp4",
+      "md5": "4baceb97ca9bf23a17aed096a737eab6",
+      "bytes": 1890043
+    },
+    {
+      "file": "beat-07.mp4",
+      "md5": "b77446851fbd6ef0b9bc38f28a0454cb",
+      "bytes": 1953348
     },
     {
       "file": "cover.png",
@@ -53,8 +75,38 @@
     },
     {
       "file": "contact-sheet.png",
-      "md5": "c457f227be4ee00907f5bebce4261781",
-      "bytes": 941100
+      "md5": "167dd067b6b00268d2465dad7217a51d",
+      "bytes": 1059480
+    },
+    {
+      "file": "beat-03-v5.png",
+      "md5": "413516355e49baf4d7e057c620eb7d90",
+      "bytes": 1472845
+    },
+    {
+      "file": "beat-04-v5.png",
+      "md5": "8a5de82ef16f489631beec83499178b0",
+      "bytes": 1506117
+    },
+    {
+      "file": "beat-05-v5.png",
+      "md5": "4e524c12ccff3b32dad545ef8270c581",
+      "bytes": 1561300
+    },
+    {
+      "file": "beat-06-v5.png",
+      "md5": "aadd44f8b26fd9efa03242f515c9747c",
+      "bytes": 1453990
+    },
+    {
+      "file": "beat-07-v5.png",
+      "md5": "a858271c9a91762c0c51b3f4f5f4e4f0",
+      "bytes": 1639699
+    },
+    {
+      "file": "cast/CAST.md",
+      "md5": "c845d749a9f0b19ccb88683a040323dd",
+      "bytes": 359
     },
     {
       "file": "cast/disciple.png",

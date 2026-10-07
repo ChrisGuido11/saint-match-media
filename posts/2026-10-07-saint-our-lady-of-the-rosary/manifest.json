@@ -3,8 +3,10 @@
   "style": "style-v3",
   "width": 1080,
   "height": 1920,
-  "reel": null,
-  "note": "Stills only. Imagine is not available on this VM. No shippable reel. Motion gate FAIL.",
+  "reel": "saint-our-lady-of-the-rosary-v2-imagine-andrew.mp4",
+  "duration_s": 48.5,
+  "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10%; ELEVENLABS_API_KEY not set",
+  "piano_bed_db": -19,
   "files": [
     {
       "file": "beat-01.png",
@@ -42,6 +44,41 @@
       "bytes": 1370942
     },
     {
+      "file": "beat-01.mp4",
+      "md5": "d626b6f47f00cd8f51764c048ee4ab3f",
+      "bytes": 2202966
+    },
+    {
+      "file": "beat-02.mp4",
+      "md5": "286fcc092617bf6618ce7630bcd12659",
+      "bytes": 1160302
+    },
+    {
+      "file": "beat-03.mp4",
+      "md5": "5bb1d8de3125a22d9833b79b9ba2f01b",
+      "bytes": 1170426
+    },
+    {
+      "file": "beat-04.mp4",
+      "md5": "915be4bc2591e097d43ed7a958466146",
+      "bytes": 2754636
+    },
+    {
+      "file": "beat-05.mp4",
+      "md5": "28f5b178bba7b5f7c98aac739c039d68",
+      "bytes": 1733063
+    },
+    {
+      "file": "beat-06.mp4",
+      "md5": "8466d703290a364ad0d064cf92e7f9c2",
+      "bytes": 1117380
+    },
+    {
+      "file": "beat-07.mp4",
+      "md5": "48afde8939a2f9d297ef3c06df4c3022",
+      "bytes": 2365905
+    },
+    {
       "file": "cover.png",
       "md5": "b8a6a06483f0a5d1f474eee6a4ea3e96",
       "bytes": 1319853
@@ -55,6 +92,11 @@
       "file": "contact-sheet.png",
       "md5": "e413f40548bfc1f562a551ada5607a03",
       "bytes": 939852
+    },
+    {
+      "file": "saint-our-lady-of-the-rosary-v2-imagine-andrew.mp4",
+      "md5": "de5ba0f009bd9fc06ec1b558c35d906d",
+      "bytes": 36232468
     }
   ]
 }
