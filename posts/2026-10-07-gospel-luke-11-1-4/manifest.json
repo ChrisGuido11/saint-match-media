@@ -3,9 +3,9 @@
   "style": "style-v3",
   "width": 1080,
   "height": 1920,
-  "reel": null,
-  "duration_s": null,
-  "voice": null,
+  "reel": "luke-11-1-4-v2-imagine-andrew.mp4",
+  "duration_s": 35.9,
+  "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10%",
   "piano_bed_db": -19,
   "files": [
     {
@@ -117,6 +117,37 @@
       "file": "cast/jesus.png",
       "md5": "8390d990ddd7627858e90e31c42781c5",
       "bytes": 873504
+    },
+    {
+      "file": "luke-11-1-4-v2-imagine-andrew.mp4",
+      "md5": "e20114da14541e2bf2d31d20717cd871",
+      "bytes": 27268499
+    },
+    {
+      "file": "imagine-clips/beat-03-v5.mp4",
+      "md5": "7332a04bacadf02b9972aee7744cda3d",
+      "bytes": 1418160
+    },
+    {
+      "file": "imagine-clips/beat-04-v5.mp4",
+      "md5": "7d1490eb7906a63a2cce7e19091428ee",
+      "bytes": 1720114
+    },
+    {
+      "file": "imagine-clips/beat-05-v5.mp4",
+      "md5": "3e0877089b715f62fed3855f03f6b8ca",
+      "bytes": 2060503
+    },
+    {
+      "file": "imagine-clips/beat-06-v5.mp4",
+      "md5": "1d657aecdc3bd7f989ab363caa38c81d",
+      "bytes": 1973980
+    },
+    {
+      "file": "imagine-clips/beat-07-v5.mp4",
+      "md5": "5c9faadcfc4af03b67776f723f199c7c",
+      "bytes": 1943139
     }
-  ]
+  ],
+  "motion": "raw-clip 01-07; still-kb 08-09"
 }
