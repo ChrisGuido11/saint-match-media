@@ -1,0 +1,70 @@
+{
+  "folder": "2026-10-07-gospel-luke-11-1-4",
+  "style": "style-v3",
+  "width": 1080,
+  "height": 1920,
+  "reel": null,
+  "note": "Stills only. Imagine is not available on this VM. No shippable reel. Motion gate FAIL.",
+  "files": [
+    {
+      "file": "beat-01.png",
+      "md5": "ffba8023c41a6c01718d19266f6e6344",
+      "bytes": 1265595
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "94e376d9e6dea0a0b6003b48985cd625",
+      "bytes": 1495427
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "791853dee99e44f8bd7926ed9b356a7f",
+      "bytes": 1262669
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "2a40630c65d3dc1bd798c08946428a4f",
+      "bytes": 1378809
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "59fd10eadf55ac9eac6510dc4232a032",
+      "bytes": 1278766
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "269e2e825a778813795977aaa46b3e42",
+      "bytes": 1342398
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "6c61c586d8c1a16dbd0b7b91c53c4ada",
+      "bytes": 1315831
+    },
+    {
+      "file": "cover.png",
+      "md5": "ffba8023c41a6c01718d19266f6e6344",
+      "bytes": 1265595
+    },
+    {
+      "file": "app-store-real.png",
+      "md5": "12d678a09ae89ccb018f937d21b16192",
+      "bytes": 881864
+    },
+    {
+      "file": "contact-sheet.png",
+      "md5": "c457f227be4ee00907f5bebce4261781",
+      "bytes": 941100
+    },
+    {
+      "file": "cast/disciple.png",
+      "md5": "0f9c0d0232d8d80df19f2c4d578379a6",
+      "bytes": 1600621
+    },
+    {
+      "file": "cast/jesus.png",
+      "md5": "8390d990ddd7627858e90e31c42781c5",
+      "bytes": 873504
+    }
+  ]
+}

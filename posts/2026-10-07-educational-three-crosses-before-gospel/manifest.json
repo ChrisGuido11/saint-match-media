@@ -1,0 +1,65 @@
+{
+  "folder": "2026-10-07-educational-three-crosses-before-gospel",
+  "style": "style-v3",
+  "width": 1080,
+  "height": 1920,
+  "reel": null,
+  "note": "Stills only. Imagine is not available on this VM. No shippable reel. Motion gate FAIL.",
+  "files": [
+    {
+      "file": "beat-01.png",
+      "md5": "5e56a8c883296db9ccdbec1372f5d1d6",
+      "bytes": 1458327
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "a3d7e9cc1cc7fc7db096e22722f83134",
+      "bytes": 1441509
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "ecbfb260f1eb4253c89f83e4a8a56d56",
+      "bytes": 1352934
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "0c1c048d24b667b74fccd4be931d93e7",
+      "bytes": 1376539
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "0f72640927a3fc2437e8035065aff95a",
+      "bytes": 1437051
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "6c6dade9891bf14c03fb03dd1f09935e",
+      "bytes": 1337927
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "7eef3458dfa00a3b94fce876fa6afd9d",
+      "bytes": 1432633
+    },
+    {
+      "file": "cover.png",
+      "md5": "5e56a8c883296db9ccdbec1372f5d1d6",
+      "bytes": 1458327
+    },
+    {
+      "file": "app-store-real.png",
+      "md5": "12d678a09ae89ccb018f937d21b16192",
+      "bytes": 881864
+    },
+    {
+      "file": "contact-sheet.png",
+      "md5": "f347f2b3534548fba219eef0062132b3",
+      "bytes": 1025234
+    },
+    {
+      "file": "cast/priest.png",
+      "md5": "1e298d67c76bc8ec04c9753acc7b8e60",
+      "bytes": 1414779
+    }
+  ]
+}

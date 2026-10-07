@@ -1,0 +1,60 @@
+{
+  "folder": "2026-10-07-saint-our-lady-of-the-rosary",
+  "style": "style-v3",
+  "width": 1080,
+  "height": 1920,
+  "reel": null,
+  "note": "Stills only. Imagine is not available on this VM. No shippable reel. Motion gate FAIL.",
+  "files": [
+    {
+      "file": "beat-01.png",
+      "md5": "b8a6a06483f0a5d1f474eee6a4ea3e96",
+      "bytes": 1319853
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "e3a22f415ee49cf5718c735db0431ee0",
+      "bytes": 787074
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "db1062a61537d4832804baff1d39151c",
+      "bytes": 1489406
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "f6f4aa6d2360b684c84178d08a8d18e1",
+      "bytes": 1331903
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "5f3cd2490b1be9a6c6c00c6e303b64d1",
+      "bytes": 1412392
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "586fe5b00634e425513d4a8bc6967b7e",
+      "bytes": 1359598
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "46cb1823dcb29f0ecfcfc675c6559feb",
+      "bytes": 1370942
+    },
+    {
+      "file": "cover.png",
+      "md5": "b8a6a06483f0a5d1f474eee6a4ea3e96",
+      "bytes": 1319853
+    },
+    {
+      "file": "app-store-real.png",
+      "md5": "12d678a09ae89ccb018f937d21b16192",
+      "bytes": 881864
+    },
+    {
+      "file": "contact-sheet.png",
+      "md5": "e413f40548bfc1f562a551ada5607a03",
+      "bytes": 939852
+    }
+  ]
+}
