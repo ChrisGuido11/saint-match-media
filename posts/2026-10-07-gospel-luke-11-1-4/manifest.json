@@ -3,7 +3,7 @@
   "style": "style-v3",
   "width": 1080,
   "height": 1920,
-  "reel": "luke-11-1-4-v2-imagine-andrew.mp4",
+  "reel": "luke-11-1-4-v3-imagine-andrew.mp4",
   "duration_s": 35.9,
   "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10%",
   "piano_bed_db": -19,
@@ -182,7 +182,12 @@
       "file": "beat-07-v6.png",
       "md5": "d2ac53a0e828a68faaa6efce368d6c9d",
       "bytes": 1407523
+    },
+    {
+      "file": "luke-11-1-4-v3-imagine-andrew.mp4",
+      "md5": "1f3e734daceaad3236105b5ba72f9464",
+      "bytes": 23288471
     }
   ],
-  "motion": "raw-clip 01-07; still-kb 08-09"
+  "motion": "raw-clip 01-07 from imagine-clips-v6; still-kb 08-09"
 }
