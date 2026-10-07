@@ -1,70 +1,80 @@
 {
- "folder": "2026-10-06-educational-genuflect-tabernacle",
- "slug": "educational-genuflect-tabernacle",
- "art": "style-v3-bibleproject-cast-lock-imagine-visual-facts-pass",
- "reel": "RENDERED",
- "stills": [
-  {
-   "file": "beat-01.png",
-   "md5": "eb1501de67228b9cc3cb585a2d22c727",
-   "bytes": 1684972
+  "folder": "2026-10-06-educational-genuflect-tabernacle",
+  "slug": "educational-genuflect-tabernacle",
+  "art": "style-v3-bibleproject-cast-lock-imagine-visual-facts-pass",
+  "reel": "RENDERED",
+  "stills": [
+    {
+      "file": "beat-01.png",
+      "md5": "eb1501de67228b9cc3cb585a2d22c727",
+      "bytes": 1684972
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "24d0390cb4a40dd2a8d2a3b71aa6dbe7",
+      "bytes": 1567700
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "65db1139f8cc6e34b53c5aea02b3b8d9",
+      "bytes": 1546641
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "6392505ee4db0cd25fab42b4e22741e0",
+      "bytes": 1355176
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "2cc72f42d26d2bb52a4ee886486458c4",
+      "bytes": 1831874
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "abc4809e7a4cbeb64b49956afcab1d11",
+      "bytes": 1667254
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "437af260d707f0bc33d2fbe0109f6bcf",
+      "bytes": 1727512
+    }
+  ],
+  "contact_sheet_md5": "dfb661073ceaa13a3c1e888c8f127618",
+  "width": 1080,
+  "height": 1920,
+  "character_gate": "PASS",
+  "motion_gate": "PASS",
+  "file": "educational-genuflect-tabernacle-v2-imagine-vo.mp4",
+  "md5": "1415d694aec43327ab82987d46e85a40",
+  "bytes": 36550391,
+  "duration_s": 46.336,
+  "video": "h264-high-yuv420p",
+  "audio": "aac-lc-48k-stereo",
+  "faststart": true,
+  "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs Luis quota exceeded)",
+  "story_motion": "raw-clip beat-01..07 remake Imagine",
+  "motion_note": "beat-06 re-animated facing tabernacle 2026-10-06",
+  "beat_06_clip": {
+    "file": "beat-06.mp4",
+    "md5": "bb9e87a0707f36bdb6cf50bbe9c6d6cf",
+    "bytes": 2137393,
+    "audio": "stripped",
+    "prior_file": "beat-06-backfacing-old.mp4"
   },
-  {
-   "file": "beat-02.png",
-   "md5": "24d0390cb4a40dd2a8d2a3b71aa6dbe7",
-   "bytes": 1567700
-  },
-  {
-   "file": "beat-03.png",
-   "md5": "65db1139f8cc6e34b53c5aea02b3b8d9",
-   "bytes": 1546641
-  },
-  {
-   "file": "beat-04.png",
-   "md5": "6392505ee4db0cd25fab42b4e22741e0",
-   "bytes": 1355176
-  },
-  {
-   "file": "beat-05.png",
-   "md5": "2cc72f42d26d2bb52a4ee886486458c4",
-   "bytes": 1831874
-  },
-  {
-   "file": "beat-06.png",
-   "md5": "4ea130376034d3ed8b91371a9a592d37",
-   "bytes": 946707
-  },
-  {
-   "file": "beat-07.png",
-   "md5": "437af260d707f0bc33d2fbe0109f6bcf",
-   "bytes": 1727512
-  }
- ],
- "contact_sheet_md5": "dfb661073ceaa13a3c1e888c8f127618",
- "width": 1080,
- "height": 1920,
- "character_gate": "PASS",
- "motion_gate": "PASS",
- "file": "educational-genuflect-tabernacle-v2-imagine-vo.mp4",
- "md5": "9dcebddc6777b3ac037c2f9de509e792",
- "bytes": 34171527,
- "duration_s": 46.336,
- "video": "h264-high-yuv420p",
- "audio": "aac-lc-48k-stereo",
- "faststart": true,
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs Luis quota exceeded)",
- "story_motion": "raw-clip beat-01..07 remake Imagine",
- "end_motion": "still-kb app-store-real.png",
- "clips_commit": "b30f002",
- "note": "VO+karaoke remake on Visual Facts PASS stills/clips. Replaces silent v2-imagine and glow-cone andrew/final. Buffer should attach educational-genuflect-tabernacle-v2-imagine-vo.mp4.",
- "prior_file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4",
- "also_as": [
-  "educational-genuflect-tabernacle-final.mp4",
-  "educational-genuflect-tabernacle-v2-imagine-andrew.mp4"
- ],
- "captions": "cream-white karaoke Style-v3",
- "piano_bed": true,
- "visual_facts_gate": "PASS, 2026-10-06 PT",
- "prior_silent_file": "educational-genuflect-tabernacle-v2-imagine.mp4",
- "prior_silent_md5": "d01efd58372320c424f99f40ae962e8e"
+  "end_motion": "still-kb app-store-real.png",
+  "clips_commit": "b30f002",
+  "note": "VO+karaoke remake on Visual Facts PASS stills/clips. Replaces silent v2-imagine and glow-cone andrew/final. Buffer should attach educational-genuflect-tabernacle-v2-imagine-vo.mp4.",
+  "prior_file": "educational-genuflect-tabernacle-v2-imagine-andrew.mp4",
+  "also_as": [
+    "educational-genuflect-tabernacle-final.mp4",
+    "educational-genuflect-tabernacle-v2-imagine-andrew.mp4"
+  ],
+  "captions": "cream-white karaoke Style-v3",
+  "piano_bed": true,
+  "visual_facts_gate": "PASS (facing), 2026-10-06 PT",
+  "prior_silent_file": "educational-genuflect-tabernacle-v2-imagine.mp4",
+  "prior_silent_md5": "d01efd58372320c424f99f40ae962e8e",
+  "prior_backfacing_md5": "9dcebddc6777b3ac037c2f9de509e792",
+  "prior_backfacing_bytes": 34171527
 }
