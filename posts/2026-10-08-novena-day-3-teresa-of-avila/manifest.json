@@ -95,9 +95,34 @@
       "bytes": 1596705
     },
     {
+      "file": "hook-01.mp4",
+      "md5": "41f5d749509c6341c33e6df061bcec84",
+      "bytes": 3517563
+    },
+    {
+      "file": "hook-01.png",
+      "md5": "6f42a4e42fccc2a158e2ce9f4d83c258",
+      "bytes": 2105836
+    },
+    {
+      "file": "hook-02.mp4",
+      "md5": "72848be10f5e4f423154f91c1de40227",
+      "bytes": 2383778
+    },
+    {
+      "file": "hook-02.png",
+      "md5": "80b6f46fbc29c40aa5fa946d6c46dfde",
+      "bytes": 1698622
+    },
+    {
       "file": "novena-day-3-teresa-of-avila-imagine-andrew-v2.mp4",
       "md5": "24b12f2ac046a67ef405ca150e2edcb3",
       "bytes": 48296192
+    },
+    {
+      "file": "novena-day-3-teresa-of-avila-imagine-andrew-v3.mp4",
+      "md5": "3e8b21f1e5d4f725f5d2260f0f38b15c",
+      "bytes": 56711806
     },
     {
       "file": "novena-day-3-teresa-of-avila-imagine-andrew.mp4",
@@ -111,5 +136,7 @@
   "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10% (free Andrew, no ElevenLabs)",
   "piano_bed_db": -19,
   "reel_v2_pending_approval": "novena-day-3-teresa-of-avila-imagine-andrew-v2.mp4",
-  "v2_note": "v2 ends on the big-phone novena end card (App Store only). Held until Chris approves the card; Buffer and the app still use v1."
+  "v2_note": "v2 ends on the big-phone novena end card (App Store only). Held until Chris approves the card; Buffer and the app still use v1.",
+  "reel_v3_pending_approval": "novena-day-3-teresa-of-avila-imagine-andrew-v3.mp4",
+  "v3_note": "v3 = v2 plus a 13 s sourced hook story at the front (NOVENA HOOK STORY LOCK, Chris Oct 8 11:44 AM PT): beats 01-02 hook (Aug 2024 tomb opening at Alba de Tormes, ten keys, body reported incorrupt by the Diocese of Avila; NCRegister/CNA Aug 29 2024 and New Advent), beat 03 'Day 3 of the Novena to St. Teresa of Avila.', full Day 3 prayer unchanged, big-phone novena end card (App Store only). 73.97 s, free Andrew +10%. Raw Grok Imagine clips hook-01/02 plus 03-09. Final gate PASS by Grok Bot. Held until Chris approves; Buffer and the app still use v1."
 }
