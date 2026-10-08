@@ -1,8 +1,8 @@
 {
   "folder": "2026-10-08-novena-day-3-teresa-of-avila",
-  "reel": "novena-day-3-teresa-of-avila-imagine-andrew-v3.mp4",
+  "reel": "novena-day-3-teresa-of-avila-imagine-andrew-v4.mp4",
   "duration_s": 73.967,
-  "note": "Oct 8 Imagine reel v3 by Grok Bot, approved by Chris and live in Buffer for 7:47 PM PT: 13 s sourced hook story first (Aug 2024 tomb opening at Alba de Tormes, ten keys, body reported incorrupt by the Diocese of Avila; NCRegister/CNA and New Advent), then the full Day 3 prayer (free Andrew +10%), ending on the big-phone novena end card (App Store only). Raw Grok Imagine clips hook-01/02 plus 03-09, low-RAM segmented assemble (lean2.py). Final gate PASS by Grok Bot.",
+  "note": "Oct 8 Imagine reel v4 by Grok Bot, approved by Chris after the novena screen OTA (group 6a6c0902, 12:53 PM PT): same v3 reel (sourced hook story, full Day 3 prayer, free Andrew) with only the end card swapped to the live scroll layout (intention, video with the tomb poster on top, nothing pinned; App Store only). Final gate PASS by Grok Bot. Buffer 7:47 PM PT on v4.",
   "files": [
     {
       "file": "beat-01.mp4",
@@ -125,6 +125,11 @@
       "bytes": 56711806
     },
     {
+      "file": "novena-day-3-teresa-of-avila-imagine-andrew-v4.mp4",
+      "md5": "3bfcc69d474b7a24a28b48b00c31d84a",
+      "bytes": 56717002
+    },
+    {
       "file": "novena-day-3-teresa-of-avila-imagine-andrew.mp4",
       "md5": "b12d84da2721208290f8f752602f02f3",
       "bytes": 48998620
@@ -135,5 +140,5 @@
   "height": 1920,
   "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10% (free Andrew, no ElevenLabs)",
   "piano_bed_db": -19,
-  "reel_md5": "3e8b21f1e5d4f725f5d2260f0f38b15c"
+  "reel_md5": "3bfcc69d474b7a24a28b48b00c31d84a"
 }
