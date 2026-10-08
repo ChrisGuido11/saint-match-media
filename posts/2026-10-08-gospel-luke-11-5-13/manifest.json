@@ -1,13 +1,23 @@
 {
   "folder": "2026-10-08-gospel-luke-11-5-13",
-  "reel": null,
-  "duration_s": null,
-  "note": "Stills only. Imagine clips were not on this VM. No shippable reel. Oct 8 overnight restill by Grok Bot: beats 01 (Visual facts). Stills only, no reel.",
+  "reel": "luke-11-5-13-imagine-andrew.mp4",
+  "duration_s": 70.633,
+  "note": "Oct 8 Imagine reel by Grok Bot: raw Grok Imagine clips 01-13, Learn the Faith feed end card, karaoke captions, low-RAM segmented assemble (lean2.py). Final gate by Grok Bot.",
   "files": [
+    {
+      "file": "beat-01.mp4",
+      "md5": "71d8d695ba65cec627e663d6d4ad5c60",
+      "bytes": 936050
+    },
     {
       "file": "beat-01.png",
       "md5": "5f022ed7818d1c2091c4b5e90982cb1c",
       "bytes": 915459
+    },
+    {
+      "file": "beat-02.mp4",
+      "md5": "8f6c80a8a8bcd1e9fedb3d230d872b64",
+      "bytes": 2257250
     },
     {
       "file": "beat-02.png",
@@ -15,9 +25,24 @@
       "bytes": 1573117
     },
     {
+      "file": "beat-03-crop.mp4",
+      "md5": "188217918106256777e9a86dc02b8fb4",
+      "bytes": 2467438
+    },
+    {
+      "file": "beat-03.mp4",
+      "md5": "a439a701fee63f91483d971d4902f2bc",
+      "bytes": 1899953
+    },
+    {
       "file": "beat-03.png",
       "md5": "17cfa02428d61883b8a241faa66c3c55",
       "bytes": 1830583
+    },
+    {
+      "file": "beat-04.mp4",
+      "md5": "e76d4c04ccc2294447150bc927cc7419",
+      "bytes": 1595318
     },
     {
       "file": "beat-04.png",
@@ -25,9 +50,19 @@
       "bytes": 1669952
     },
     {
+      "file": "beat-05.mp4",
+      "md5": "56df6cdb336e3867a4606a33ec37b696",
+      "bytes": 2109512
+    },
+    {
       "file": "beat-05.png",
       "md5": "97b5b3e4ea743641c9c026fcc34c73a0",
       "bytes": 1472226
+    },
+    {
+      "file": "beat-06.mp4",
+      "md5": "4a9caba4e35dee353ef109e44d8bd042",
+      "bytes": 1791479
     },
     {
       "file": "beat-06.png",
@@ -35,9 +70,19 @@
       "bytes": 1526366
     },
     {
+      "file": "beat-07.mp4",
+      "md5": "c2de952cbbbfc353c219d7a1b2b4e2ec",
+      "bytes": 2452410
+    },
+    {
       "file": "beat-07.png",
       "md5": "2efbdb41659515b6f2ce54ad441342f5",
       "bytes": 1563880
+    },
+    {
+      "file": "beat-08.mp4",
+      "md5": "abcd2984e3256e682405277ffb41de1b",
+      "bytes": 2076500
     },
     {
       "file": "beat-08.png",
@@ -45,9 +90,19 @@
       "bytes": 1570276
     },
     {
+      "file": "beat-09.mp4",
+      "md5": "f58c5b846f4d3bc705966fa37e435431",
+      "bytes": 1978521
+    },
+    {
       "file": "beat-09.png",
       "md5": "7dae2a0e0303469aed61880d0ab48f08",
       "bytes": 1562520
+    },
+    {
+      "file": "beat-10.mp4",
+      "md5": "e620c195c9aff9f43ccb40e71294c1b5",
+      "bytes": 2412821
     },
     {
       "file": "beat-10.png",
@@ -55,9 +110,19 @@
       "bytes": 1756558
     },
     {
+      "file": "beat-11.mp4",
+      "md5": "133f728f5cf3d70ea8f699b9c15dc628",
+      "bytes": 2777033
+    },
+    {
       "file": "beat-11.png",
       "md5": "948dbaf286ca97b1fe764dbc712761d6",
       "bytes": 1564719
+    },
+    {
+      "file": "beat-12.mp4",
+      "md5": "e5f6214af9db2b2f0fc7f02473066e11",
+      "bytes": 1665601
     },
     {
       "file": "beat-12.png",
@@ -98,6 +163,21 @@
       "file": "contact-sheet.png",
       "md5": "b974ef764c8da3e767601d07fc0ea354",
       "bytes": 1881315
+    },
+    {
+      "file": "cover.png",
+      "md5": "bd21e34560e679b7de6ed24077773470",
+      "bytes": 920998
+    },
+    {
+      "file": "luke-11-5-13-imagine-andrew.mp4",
+      "md5": "fb29190a99e28f15e995a2f8401ec738",
+      "bytes": 60719051
     }
-  ]
+  ],
+  "style": "style-v3",
+  "width": 1080,
+  "height": 1920,
+  "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10% (free Andrew, no ElevenLabs)",
+  "piano_bed_db": -19
 }
