@@ -1,0 +1,103 @@
+{
+  "folder": "2026-10-08-gospel-luke-11-5-13",
+  "reel": null,
+  "duration_s": null,
+  "note": "Stills only. Imagine clips were not on this VM. No shippable reel.",
+  "files": [
+    {
+      "file": "beat-01.png",
+      "md5": "77c3a6a4ae4fe7848267c17bd9e11403",
+      "bytes": 1563920
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "68ed3abaf6da1fee3d4b21c00519960d",
+      "bytes": 1573117
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "17cfa02428d61883b8a241faa66c3c55",
+      "bytes": 1830583
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "03deb1413c4055c63b39e5363503360d",
+      "bytes": 1669952
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "97b5b3e4ea743641c9c026fcc34c73a0",
+      "bytes": 1472226
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "46b4692a3d6c0a0c5dd50dfb6f1d24d6",
+      "bytes": 1526366
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "2efbdb41659515b6f2ce54ad441342f5",
+      "bytes": 1563880
+    },
+    {
+      "file": "beat-08.png",
+      "md5": "d438878ba5e93f8c34cfaa7b1016b867",
+      "bytes": 1570276
+    },
+    {
+      "file": "beat-09.png",
+      "md5": "7dae2a0e0303469aed61880d0ab48f08",
+      "bytes": 1562520
+    },
+    {
+      "file": "beat-10.png",
+      "md5": "a49319cab03768ceb0fedfb968b8f6f2",
+      "bytes": 1756558
+    },
+    {
+      "file": "beat-11.png",
+      "md5": "948dbaf286ca97b1fe764dbc712761d6",
+      "bytes": 1564719
+    },
+    {
+      "file": "beat-12.png",
+      "md5": "4a5ac1c766ccd3e65f8b1b27e4e8f881",
+      "bytes": 1422613
+    },
+    {
+      "file": "cast/child.png",
+      "md5": "a1803c3eca28375184130cba594b8c44",
+      "bytes": 391864
+    },
+    {
+      "file": "cast/disciple.png",
+      "md5": "e9a6270a18b92300c7a33dfa5490df6e",
+      "bytes": 1439512
+    },
+    {
+      "file": "cast/father.png",
+      "md5": "6ef83864a2bbb5f717d587f2a6102e33",
+      "bytes": 1027121
+    },
+    {
+      "file": "cast/friend.png",
+      "md5": "85b4eef3c72f8b32da014760c0bd9e78",
+      "bytes": 1456520
+    },
+    {
+      "file": "cast/jesus.png",
+      "md5": "2c5c5fabdbd875cc309477f3a716e353",
+      "bytes": 1613138
+    },
+    {
+      "file": "cast/sleeper.png",
+      "md5": "2bf6ac336d47d0e3167f997c8960ec82",
+      "bytes": 1331687
+    },
+    {
+      "file": "contact-sheet.png",
+      "md5": "0a956a7351b781f22570cf7bc672af45",
+      "bytes": 1954384
+    }
+  ]
+}

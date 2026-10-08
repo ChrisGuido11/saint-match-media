@@ -1,0 +1,58 @@
+{
+  "folder": "2026-10-08-educational-consecration-bells",
+  "reel": null,
+  "duration_s": null,
+  "note": "Stills only. Imagine clips were not on this VM. No shippable reel.",
+  "files": [
+    {
+      "file": "beat-01.png",
+      "md5": "06228c8e5871a3657b27ca2ed5e2e4df",
+      "bytes": 2228358
+    },
+    {
+      "file": "beat-02.png",
+      "md5": "5d59fcac437aee9d6f0f228c56145541",
+      "bytes": 1602877
+    },
+    {
+      "file": "beat-03.png",
+      "md5": "94753bb53644521f949e042dd056d8cc",
+      "bytes": 1768240
+    },
+    {
+      "file": "beat-04.png",
+      "md5": "6498c3e02156ff6911f132882fd08dfe",
+      "bytes": 1745263
+    },
+    {
+      "file": "beat-05.png",
+      "md5": "1fea3e18a3990b9a98c040972fbda31c",
+      "bytes": 1662082
+    },
+    {
+      "file": "beat-06.png",
+      "md5": "4318785b6a31d9909720e045c59c1af4",
+      "bytes": 2144887
+    },
+    {
+      "file": "beat-07.png",
+      "md5": "cfd997157f722c90322ab83b43b4219d",
+      "bytes": 1436816
+    },
+    {
+      "file": "cast/server.png",
+      "md5": "8a208bbdda9b5360d5a859fe75484d3f",
+      "bytes": 1462139
+    },
+    {
+      "file": "cast/worker.png",
+      "md5": "acfa0a4f7058e53d890e1d6249b458cc",
+      "bytes": 1469538
+    },
+    {
+      "file": "contact-sheet.png",
+      "md5": "32b09dc2be34e9454b93734a77dd5017",
+      "bytes": 1355733
+    }
+  ]
+}
