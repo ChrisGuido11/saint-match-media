@@ -2,12 +2,12 @@
   "folder": "2026-10-08-gospel-luke-11-5-13",
   "reel": null,
   "duration_s": null,
-  "note": "Stills only. Imagine clips were not on this VM. No shippable reel.",
+  "note": "Stills only. Imagine clips were not on this VM. No shippable reel. Oct 8 overnight restill by Grok Bot: beats 01 (Visual facts). Stills only, no reel.",
   "files": [
     {
       "file": "beat-01.png",
-      "md5": "77c3a6a4ae4fe7848267c17bd9e11403",
-      "bytes": 1563920
+      "md5": "5f022ed7818d1c2091c4b5e90982cb1c",
+      "bytes": 915459
     },
     {
       "file": "beat-02.png",
@@ -96,8 +96,8 @@
     },
     {
       "file": "contact-sheet.png",
-      "md5": "0a956a7351b781f22570cf7bc672af45",
-      "bytes": 1954384
+      "md5": "b974ef764c8da3e767601d07fc0ea354",
+      "bytes": 1881315
     }
   ]
 }

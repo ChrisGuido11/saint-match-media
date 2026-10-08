@@ -2,7 +2,7 @@
   "folder": "2026-10-08-novena-day-3-teresa-of-avila",
   "reel": null,
   "duration_s": null,
-  "note": "Stills only. Imagine clips were not on this VM. No shippable reel.",
+  "note": "Stills only. Imagine clips were not on this VM. No shippable reel. Oct 8 overnight restill by Grok Bot: beats 07 (Visual facts). Stills only, no reel.",
   "files": [
     {
       "file": "beat-01.png",
@@ -36,8 +36,8 @@
     },
     {
       "file": "beat-07.png",
-      "md5": "8634d9d6dd231a9e1ca833d5faa19d2a",
-      "bytes": 1610264
+      "md5": "a9d4855742a4bcebd3b7163a9780f45c",
+      "bytes": 1208473
     },
     {
       "file": "cast/pray-er.png",
@@ -51,8 +51,8 @@
     },
     {
       "file": "contact-sheet.png",
-      "md5": "10e1edf6648efeeef3df524f0169b6c3",
-      "bytes": 1327709
+      "md5": "0edeafb53804e6890e2450704dae2de8",
+      "bytes": 1295932
     }
   ]
 }
