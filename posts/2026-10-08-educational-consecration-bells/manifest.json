@@ -1,13 +1,23 @@
 {
   "folder": "2026-10-08-educational-consecration-bells",
-  "reel": null,
-  "duration_s": null,
-  "note": "Stills only. Imagine clips were not on this VM. No shippable reel. Oct 8 overnight restill by Grok Bot: beats 01, 02, 04, 06, 07 (Visual facts). Stills only, no reel.",
+  "reel": "consecration-bells-imagine-andrew.mp4",
+  "duration_s": 45.867,
+  "note": "Oct 8 Imagine reel by Grok Bot: raw Grok Imagine clips 01-07, Learn the Faith feed end card, karaoke captions, low-RAM segmented assemble (lean2.py). Final gate by Grok Bot.",
   "files": [
+    {
+      "file": "beat-01.mp4",
+      "md5": "f46d12fce9731624b9d3f7d8764ca550",
+      "bytes": 2934543
+    },
     {
       "file": "beat-01.png",
       "md5": "89b392b8a569f773465eb18e712fbcec",
       "bytes": 1913494
+    },
+    {
+      "file": "beat-02.mp4",
+      "md5": "f7bb71ea1b7e2b29bc850fa8cd0a6924",
+      "bytes": 2155554
     },
     {
       "file": "beat-02.png",
@@ -15,9 +25,19 @@
       "bytes": 1249772
     },
     {
+      "file": "beat-03.mp4",
+      "md5": "61540909177c1735dd57586c1b2bb471",
+      "bytes": 2924222
+    },
+    {
       "file": "beat-03.png",
       "md5": "94753bb53644521f949e042dd056d8cc",
       "bytes": 1768240
+    },
+    {
+      "file": "beat-04.mp4",
+      "md5": "db0e34f4ed7ee24f660a370333f28106",
+      "bytes": 1950069
     },
     {
       "file": "beat-04.png",
@@ -25,14 +45,29 @@
       "bytes": 1318276
     },
     {
+      "file": "beat-05.mp4",
+      "md5": "cc35313f36938417315cef9f2fa6f4b8",
+      "bytes": 2286705
+    },
+    {
       "file": "beat-05.png",
       "md5": "1fea3e18a3990b9a98c040972fbda31c",
       "bytes": 1662082
     },
     {
+      "file": "beat-06.mp4",
+      "md5": "3f2605bc21ee39076d3d65c1ae08d598",
+      "bytes": 3392856
+    },
+    {
       "file": "beat-06.png",
       "md5": "4ce4ef489034eb42225e247aaef6189c",
       "bytes": 2195257
+    },
+    {
+      "file": "beat-07.mp4",
+      "md5": "8c431fc706287ffceb7d0ffe23839d79",
+      "bytes": 1394034
     },
     {
       "file": "beat-07.png",
@@ -50,9 +85,24 @@
       "bytes": 1469538
     },
     {
+      "file": "consecration-bells-imagine-andrew.mp4",
+      "md5": "a7e06ce3c2e8dc6670dfb0ec039d8774",
+      "bytes": 37387164
+    },
+    {
       "file": "contact-sheet.png",
       "md5": "644a95a6cd036ff090c2718b1b832517",
       "bytes": 1295417
+    },
+    {
+      "file": "cover.png",
+      "md5": "0b0c59e5ca37166cd7f079e969fd2678",
+      "bytes": 1900236
     }
-  ]
+  ],
+  "style": "style-v3",
+  "width": 1080,
+  "height": 1920,
+  "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10% (free Andrew, no ElevenLabs)",
+  "piano_bed_db": -19
 }
