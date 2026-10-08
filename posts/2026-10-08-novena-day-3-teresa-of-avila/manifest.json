@@ -1,13 +1,23 @@
 {
   "folder": "2026-10-08-novena-day-3-teresa-of-avila",
-  "reel": null,
-  "duration_s": null,
-  "note": "Stills only. Imagine clips were not on this VM. No shippable reel. Oct 8 overnight restill by Grok Bot: beats 07 (Visual facts). Stills only, no reel.",
+  "reel": "novena-day-3-teresa-of-avila-imagine-andrew.mp4",
+  "duration_s": 66.733,
+  "note": "Oct 8 Imagine reel by Grok Bot: raw Grok Imagine clips 01-07, Learn the Faith feed end card, karaoke captions, low-RAM segmented assemble (lean2.py). Final gate by Grok Bot.",
   "files": [
+    {
+      "file": "beat-01.mp4",
+      "md5": "bc9b6b3eda3f07ad5b31eab7c1e3007e",
+      "bytes": 2188157
+    },
     {
       "file": "beat-01.png",
       "md5": "df2df7b262b55410f746a9052c69a5e4",
       "bytes": 1704635
+    },
+    {
+      "file": "beat-02.mp4",
+      "md5": "050f835c47ea22cccc71c0b99a7dd554",
+      "bytes": 1972882
     },
     {
       "file": "beat-02.png",
@@ -15,9 +25,19 @@
       "bytes": 1680433
     },
     {
+      "file": "beat-03.mp4",
+      "md5": "b69884a0e27f93bc5aa84ed15796caf7",
+      "bytes": 2224380
+    },
+    {
       "file": "beat-03.png",
       "md5": "b268604c409c60c75eb5ce43f33ef1ba",
       "bytes": 1721635
+    },
+    {
+      "file": "beat-04.mp4",
+      "md5": "7983af3fdb51b68bf1cce2f326d5a209",
+      "bytes": 5099696
     },
     {
       "file": "beat-04.png",
@@ -25,14 +45,29 @@
       "bytes": 2436564
     },
     {
+      "file": "beat-05.mp4",
+      "md5": "7a615f7f2e4ffc49952062323a696db3",
+      "bytes": 2879344
+    },
+    {
       "file": "beat-05.png",
       "md5": "04e14118a20a86fbb232365f3edabfb6",
       "bytes": 1570887
     },
     {
+      "file": "beat-06.mp4",
+      "md5": "28cc7be8a8bd878434d4c28164c346ca",
+      "bytes": 2635736
+    },
+    {
       "file": "beat-06.png",
       "md5": "c32450766c9ca6ffbc09f31079f06ae9",
       "bytes": 1713575
+    },
+    {
+      "file": "beat-07.mp4",
+      "md5": "37e4c70f61339564bb4f1ffd87c3d7f5",
+      "bytes": 1440904
     },
     {
       "file": "beat-07.png",
@@ -53,6 +88,21 @@
       "file": "contact-sheet.png",
       "md5": "0edeafb53804e6890e2450704dae2de8",
       "bytes": 1295932
+    },
+    {
+      "file": "cover.png",
+      "md5": "e5db734abb0385b1dd2b7065f9a51fdd",
+      "bytes": 1596705
+    },
+    {
+      "file": "novena-day-3-teresa-of-avila-imagine-andrew.mp4",
+      "md5": "b12d84da2721208290f8f752602f02f3",
+      "bytes": 48998620
     }
-  ]
+  ],
+  "style": "style-v3",
+  "width": 1080,
+  "height": 1920,
+  "voice": "edge-tts 7.2.8 en-US-AndrewMultilingualNeural +10% (free Andrew, no ElevenLabs)",
+  "piano_bed_db": -19
 }
