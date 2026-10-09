@@ -1,0 +1,677 @@
+{
+ "duration": 41.356009,
+ "words": [
+  {
+   "beat": "01",
+   "word": "In",
+   "start": 0.091,
+   "end": 0.193
+  },
+  {
+   "beat": "01",
+   "word": "Costa",
+   "start": 0.193,
+   "end": 0.5
+  },
+  {
+   "beat": "01",
+   "word": "Rica,",
+   "start": 0.511,
+   "end": 0.977
+  },
+  {
+   "beat": "01",
+   "word": "Floribet",
+   "start": 1.33,
+   "end": 1.795
+  },
+  {
+   "beat": "01",
+   "word": "Mora",
+   "start": 1.795,
+   "end": 2.182
+  },
+  {
+   "beat": "01",
+   "word": "had",
+   "start": 2.295,
+   "end": 2.432
+  },
+  {
+   "beat": "01",
+   "word": "an",
+   "start": 2.432,
+   "end": 2.534
+  },
+  {
+   "beat": "01",
+   "word": "aneurism",
+   "start": 2.534,
+   "end": 3.034
+  },
+  {
+   "beat": "01",
+   "word": "at",
+   "start": 3.045,
+   "end": 3.102
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 3.114,
+   "end": 3.182
+  },
+  {
+   "beat": "01",
+   "word": "base",
+   "start": 3.25,
+   "end": 3.511
+  },
+  {
+   "beat": "01",
+   "word": "of",
+   "start": 3.523,
+   "end": 3.568
+  },
+  {
+   "beat": "01",
+   "word": "her",
+   "start": 3.568,
+   "end": 3.67
+  },
+  {
+   "beat": "01",
+   "word": "brain",
+   "start": 3.67,
+   "end": 4.08
+  },
+  {
+   "beat": "01",
+   "word": "and",
+   "start": 4.318,
+   "end": 4.42
+  },
+  {
+   "beat": "01",
+   "word": "could",
+   "start": 4.432,
+   "end": 4.591
+  },
+  {
+   "beat": "01",
+   "word": "not",
+   "start": 4.602,
+   "end": 4.795
+  },
+  {
+   "beat": "01",
+   "word": "have",
+   "start": 4.795,
+   "end": 4.898
+  },
+  {
+   "beat": "01",
+   "word": "surgery.",
+   "start": 4.898,
+   "end": 5.409
+  },
+  {
+   "beat": "01",
+   "word": "She",
+   "start": 5.784,
+   "end": 5.92
+  },
+  {
+   "beat": "01",
+   "word": "prayed",
+   "start": 5.92,
+   "end": 6.227
+  },
+  {
+   "beat": "01",
+   "word": "for",
+   "start": 6.239,
+   "end": 6.352
+  },
+  {
+   "beat": "01",
+   "word": "Blessed",
+   "start": 6.364,
+   "end": 6.784
+  },
+  {
+   "beat": "01",
+   "word": "John",
+   "start": 6.784,
+   "end": 7.227
+  },
+  {
+   "beat": "01",
+   "word": "Paul",
+   "start": 7.227,
+   "end": 7.67
+  },
+  {
+   "beat": "01",
+   "word": "II.",
+   "start": 7.67,
+   "end": 8.114
+  },
+  {
+   "beat": "01",
+   "word": "A",
+   "start": 8.477,
+   "end": 8.523
+  },
+  {
+   "beat": "01",
+   "word": "doctor",
+   "start": 8.534,
+   "end": 8.875
+  },
+  {
+   "beat": "01",
+   "word": "said",
+   "start": 8.875,
+   "end": 9.034
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 9.034,
+   "end": 9.102
+  },
+  {
+   "beat": "01",
+   "word": "Church",
+   "start": 9.114,
+   "end": 9.477
+  },
+  {
+   "beat": "01",
+   "word": "has",
+   "start": 9.489,
+   "end": 9.625
+  },
+  {
+   "beat": "01",
+   "word": "accepted",
+   "start": 9.625,
+   "end": 10.057
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 10.057,
+   "end": 10.102
+  },
+  {
+   "beat": "01",
+   "word": "cure.",
+   "start": 10.114,
+   "end": 10.523
+  },
+  {
+   "beat": "02",
+   "word": "Day",
+   "start": 11.175,
+   "end": 11.311
+  },
+  {
+   "beat": "02",
+   "word": "1",
+   "start": 11.323,
+   "end": 11.459
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 11.459,
+   "end": 11.505
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 11.505,
+   "end": 11.539
+  },
+  {
+   "beat": "02",
+   "word": "Novena",
+   "start": 11.55,
+   "end": 12.198
+  },
+  {
+   "beat": "02",
+   "word": "to",
+   "start": 12.3,
+   "end": 12.531
+  },
+  {
+   "beat": "02",
+   "word": "St.",
+   "start": 12.531,
+   "end": 12.762
+  },
+  {
+   "beat": "02",
+   "word": "John",
+   "start": 12.762,
+   "end": 12.993
+  },
+  {
+   "beat": "02",
+   "word": "Paul",
+   "start": 13.005,
+   "end": 13.385
+  },
+  {
+   "beat": "02",
+   "word": "II.",
+   "start": 13.385,
+   "end": 13.766
+  },
+  {
+   "beat": "03",
+   "word": "Pope",
+   "start": 14.441,
+   "end": 14.6
+  },
+  {
+   "beat": "03",
+   "word": "Francis",
+   "start": 14.611,
+   "end": 15.066
+  },
+  {
+   "beat": "03",
+   "word": "canonized",
+   "start": 15.077,
+   "end": 15.623
+  },
+  {
+   "beat": "03",
+   "word": "him",
+   "start": 15.623,
+   "end": 15.736
+  },
+  {
+   "beat": "03",
+   "word": "on",
+   "start": 15.85,
+   "end": 16.009
+  },
+  {
+   "beat": "03",
+   "word": "April",
+   "start": 16.134,
+   "end": 16.892
+  },
+  {
+   "beat": "03",
+   "word": "27,",
+   "start": 16.892,
+   "end": 17.649
+  },
+  {
+   "beat": "03",
+   "word": "2014,",
+   "start": 17.649,
+   "end": 18.407
+  },
+  {
+   "beat": "03",
+   "word": "in",
+   "start": 18.77,
+   "end": 19.057
+  },
+  {
+   "beat": "03",
+   "word": "St.",
+   "start": 19.057,
+   "end": 19.344
+  },
+  {
+   "beat": "03",
+   "word": "Peter's",
+   "start": 19.344,
+   "end": 19.631
+  },
+  {
+   "beat": "03",
+   "word": "Square,",
+   "start": 19.631,
+   "end": 19.918
+  },
+  {
+   "beat": "03",
+   "word": "with",
+   "start": 20.191,
+   "end": 20.293
+  },
+  {
+   "beat": "03",
+   "word": "John",
+   "start": 20.293,
+   "end": 20.634
+  },
+  {
+   "beat": "03",
+   "word": "XXIII.",
+   "start": 20.645,
+   "end": 21.498
+  },
+  {
+   "beat": "04",
+   "word": "October",
+   "start": 22.173,
+   "end": 22.684
+  },
+  {
+   "beat": "04",
+   "word": "22",
+   "start": 22.684,
+   "end": 23.195
+  },
+  {
+   "beat": "04",
+   "word": "is",
+   "start": 23.366,
+   "end": 23.457
+  },
+  {
+   "beat": "04",
+   "word": "his",
+   "start": 23.468,
+   "end": 23.605
+  },
+  {
+   "beat": "04",
+   "word": "optional",
+   "start": 23.684,
+   "end": 24.048
+  },
+  {
+   "beat": "04",
+   "word": "memorial",
+   "start": 24.048,
+   "end": 24.582
+  },
+  {
+   "beat": "04",
+   "word": "in",
+   "start": 24.73,
+   "end": 24.798
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 24.798,
+   "end": 24.832
+  },
+  {
+   "beat": "04",
+   "word": "United",
+   "start": 24.832,
+   "end": 25.173
+  },
+  {
+   "beat": "04",
+   "word": "States.",
+   "start": 25.173,
+   "end": 25.718
+  },
+  {
+   "beat": "04",
+   "word": "These",
+   "start": 26.093,
+   "end": 26.264
+  },
+  {
+   "beat": "04",
+   "word": "days",
+   "start": 26.275,
+   "end": 26.48
+  },
+  {
+   "beat": "04",
+   "word": "start",
+   "start": 26.491,
+   "end": 26.684
+  },
+  {
+   "beat": "04",
+   "word": "on",
+   "start": 26.684,
+   "end": 26.775
+  },
+  {
+   "beat": "04",
+   "word": "October",
+   "start": 26.775,
+   "end": 27.343
+  },
+  {
+   "beat": "04",
+   "word": "13.",
+   "start": 27.343,
+   "end": 27.911
+  },
+  {
+   "beat": "05",
+   "word": "This",
+   "start": 28.586,
+   "end": 28.825
+  },
+  {
+   "beat": "05",
+   "word": "reel's",
+   "start": 28.836,
+   "end": 29.12
+  },
+  {
+   "beat": "05",
+   "word": "words",
+   "start": 29.132,
+   "end": 29.461
+  },
+  {
+   "beat": "05",
+   "word": "are",
+   "start": 29.461,
+   "end": 29.609
+  },
+  {
+   "beat": "05",
+   "word": "narration,",
+   "start": 29.609,
+   "end": 30.189
+  },
+  {
+   "beat": "05",
+   "word": "not",
+   "start": 30.552,
+   "end": 30.689
+  },
+  {
+   "beat": "05",
+   "word": "a",
+   "start": 30.689,
+   "end": 30.745
+  },
+  {
+   "beat": "05",
+   "word": "published",
+   "start": 30.757,
+   "end": 31.109
+  },
+  {
+   "beat": "05",
+   "word": "church",
+   "start": 31.109,
+   "end": 31.405
+  },
+  {
+   "beat": "05",
+   "word": "prayer.",
+   "start": 31.405,
+   "end": 31.825
+  },
+  {
+   "beat": "06",
+   "word": "Ask",
+   "start": 32.5,
+   "end": 32.705
+  },
+  {
+   "beat": "06",
+   "word": "his",
+   "start": 32.716,
+   "end": 32.83
+  },
+  {
+   "beat": "06",
+   "word": "intercession.",
+   "start": 32.841,
+   "end": 33.534
+  },
+  {
+   "beat": "06",
+   "word": "Do",
+   "start": 33.909,
+   "end": 33.977
+  },
+  {
+   "beat": "06",
+   "word": "not",
+   "start": 33.977,
+   "end": 34.148
+  },
+  {
+   "beat": "06",
+   "word": "treat",
+   "start": 34.159,
+   "end": 34.375
+  },
+  {
+   "beat": "06",
+   "word": "a",
+   "start": 34.375,
+   "end": 34.443
+  },
+  {
+   "beat": "06",
+   "word": "cure",
+   "start": 34.455,
+   "end": 34.83
+  },
+  {
+   "beat": "06",
+   "word": "as",
+   "start": 34.841,
+   "end": 34.943
+  },
+  {
+   "beat": "06",
+   "word": "something",
+   "start": 34.955,
+   "end": 35.295
+  },
+  {
+   "beat": "06",
+   "word": "owed.",
+   "start": 35.295,
+   "end": 35.591
+  },
+  {
+   "beat": "07",
+   "word": "Search",
+   "start": 36.655,
+   "end": 36.87
+  },
+  {
+   "beat": "07",
+   "word": "Saint",
+   "start": 36.882,
+   "end": 37.155
+  },
+  {
+   "beat": "07",
+   "word": "Match",
+   "start": 37.155,
+   "end": 37.541
+  },
+  {
+   "beat": "07",
+   "word": "on",
+   "start": 37.609,
+   "end": 37.689
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 37.7,
+   "end": 37.757
+  },
+  {
+   "beat": "07",
+   "word": "App",
+   "start": 37.757,
+   "end": 37.973
+  },
+  {
+   "beat": "07",
+   "word": "Store.",
+   "start": 37.973,
+   "end": 38.37
+  },
+  {
+   "beat": "08",
+   "word": "Feel",
+   "start": 39.102,
+   "end": 39.284
+  },
+  {
+   "beat": "08",
+   "word": "it.",
+   "start": 39.284,
+   "end": 39.398
+  },
+  {
+   "beat": "08",
+   "word": "Match",
+   "start": 39.761,
+   "end": 39.955
+  },
+  {
+   "beat": "08",
+   "word": "a",
+   "start": 39.955,
+   "end": 40.0
+  },
+  {
+   "beat": "08",
+   "word": "saint",
+   "start": 40.011,
+   "end": 40.398
+  },
+  {
+   "beat": "08",
+   "word": "who",
+   "start": 40.398,
+   "end": 40.534
+  },
+  {
+   "beat": "08",
+   "word": "lived",
+   "start": 40.534,
+   "end": 40.852
+  },
+  {
+   "beat": "08",
+   "word": "it.",
+   "start": 40.852,
+   "end": 41.034
+  }
+ ]
+}

@@ -1,0 +1,1721 @@
+{
+ "duration": 91.964014,
+ "words": [
+  {
+   "beat": "01",
+   "word": "A",
+   "start": 0.091,
+   "end": 0.136
+  },
+  {
+   "beat": "01",
+   "word": "reading",
+   "start": 0.136,
+   "end": 0.409
+  },
+  {
+   "beat": "01",
+   "word": "from",
+   "start": 0.409,
+   "end": 0.511
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 0.511,
+   "end": 0.557
+  },
+  {
+   "beat": "01",
+   "word": "holy",
+   "start": 0.568,
+   "end": 0.841
+  },
+  {
+   "beat": "01",
+   "word": "Gospel",
+   "start": 0.841,
+   "end": 1.398
+  },
+  {
+   "beat": "01",
+   "word": "according",
+   "start": 1.511,
+   "end": 1.852
+  },
+  {
+   "beat": "01",
+   "word": "to",
+   "start": 1.852,
+   "end": 1.909
+  },
+  {
+   "beat": "01",
+   "word": "Luke.",
+   "start": 1.92,
+   "end": 2.273
+  },
+  {
+   "beat": "02",
+   "word": "When",
+   "start": 2.936,
+   "end": 3.084
+  },
+  {
+   "beat": "02",
+   "word": "Jesus",
+   "start": 3.084,
+   "end": 3.527
+  },
+  {
+   "beat": "02",
+   "word": "had",
+   "start": 3.527,
+   "end": 3.755
+  },
+  {
+   "beat": "02",
+   "word": "driven",
+   "start": 3.868,
+   "end": 4.186
+  },
+  {
+   "beat": "02",
+   "word": "out",
+   "start": 4.198,
+   "end": 4.3
+  },
+  {
+   "beat": "02",
+   "word": "a",
+   "start": 4.3,
+   "end": 4.345
+  },
+  {
+   "beat": "02",
+   "word": "demon,",
+   "start": 4.357,
+   "end": 4.698
+  },
+  {
+   "beat": "02",
+   "word": "some",
+   "start": 5.05,
+   "end": 5.186
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 5.186,
+   "end": 5.243
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 5.243,
+   "end": 5.3
+  },
+  {
+   "beat": "02",
+   "word": "crowd",
+   "start": 5.3,
+   "end": 5.675
+  },
+  {
+   "beat": "02",
+   "word": "said:",
+   "start": 5.675,
+   "end": 6.005
+  },
+  {
+   "beat": "02",
+   "word": "\"By",
+   "start": 6.357,
+   "end": 6.47
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 6.482,
+   "end": 6.573
+  },
+  {
+   "beat": "02",
+   "word": "power",
+   "start": 6.584,
+   "end": 7.039
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 7.05,
+   "end": 7.175
+  },
+  {
+   "beat": "02",
+   "word": "Beelzebul,",
+   "start": 7.175,
+   "end": 7.766
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 8.095,
+   "end": 8.175
+  },
+  {
+   "beat": "02",
+   "word": "prince",
+   "start": 8.175,
+   "end": 8.47
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 8.47,
+   "end": 8.584
+  },
+  {
+   "beat": "02",
+   "word": "demons,",
+   "start": 8.584,
+   "end": 9.13
+  },
+  {
+   "beat": "02",
+   "word": "he",
+   "start": 9.277,
+   "end": 9.368
+  },
+  {
+   "beat": "02",
+   "word": "drives",
+   "start": 9.38,
+   "end": 9.868
+  },
+  {
+   "beat": "02",
+   "word": "out",
+   "start": 9.868,
+   "end": 10.095
+  },
+  {
+   "beat": "02",
+   "word": "demons.\"",
+   "start": 10.175,
+   "end": 10.766
+  },
+  {
+   "beat": "03",
+   "word": "Others,",
+   "start": 11.241,
+   "end": 11.616
+  },
+  {
+   "beat": "03",
+   "word": "to",
+   "start": 11.661,
+   "end": 11.741
+  },
+  {
+   "beat": "03",
+   "word": "test",
+   "start": 11.741,
+   "end": 12.048
+  },
+  {
+   "beat": "03",
+   "word": "him,",
+   "start": 12.059,
+   "end": 12.207
+  },
+  {
+   "beat": "03",
+   "word": "asked",
+   "start": 12.673,
+   "end": 12.911
+  },
+  {
+   "beat": "03",
+   "word": "him",
+   "start": 12.923,
+   "end": 13.048
+  },
+  {
+   "beat": "03",
+   "word": "for",
+   "start": 13.048,
+   "end": 13.195
+  },
+  {
+   "beat": "03",
+   "word": "a",
+   "start": 13.195,
+   "end": 13.23
+  },
+  {
+   "beat": "03",
+   "word": "sign",
+   "start": 13.23,
+   "end": 13.605
+  },
+  {
+   "beat": "03",
+   "word": "from",
+   "start": 13.605,
+   "end": 13.775
+  },
+  {
+   "beat": "03",
+   "word": "heaven.",
+   "start": 13.775,
+   "end": 14.116
+  },
+  {
+   "beat": "03",
+   "word": "But",
+   "start": 14.48,
+   "end": 14.536
+  },
+  {
+   "beat": "03",
+   "word": "he",
+   "start": 14.548,
+   "end": 14.616
+  },
+  {
+   "beat": "03",
+   "word": "knew",
+   "start": 14.616,
+   "end": 14.798
+  },
+  {
+   "beat": "03",
+   "word": "their",
+   "start": 14.798,
+   "end": 14.945
+  },
+  {
+   "beat": "03",
+   "word": "thoughts",
+   "start": 14.945,
+   "end": 15.411
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 15.514,
+   "end": 15.673
+  },
+  {
+   "beat": "03",
+   "word": "said",
+   "start": 15.673,
+   "end": 15.991
+  },
+  {
+   "beat": "03",
+   "word": "to",
+   "start": 15.991,
+   "end": 16.07
+  },
+  {
+   "beat": "03",
+   "word": "them,",
+   "start": 16.07,
+   "end": 16.298
+  },
+  {
+   "beat": "04",
+   "word": "\"Every",
+   "start": 16.886,
+   "end": 17.148
+  },
+  {
+   "beat": "04",
+   "word": "kingdom",
+   "start": 17.159,
+   "end": 17.534
+  },
+  {
+   "beat": "04",
+   "word": "divided",
+   "start": 17.534,
+   "end": 17.943
+  },
+  {
+   "beat": "04",
+   "word": "against",
+   "start": 17.943,
+   "end": 18.295
+  },
+  {
+   "beat": "04",
+   "word": "itself",
+   "start": 18.307,
+   "end": 18.761
+  },
+  {
+   "beat": "04",
+   "word": "will",
+   "start": 18.761,
+   "end": 18.841
+  },
+  {
+   "beat": "04",
+   "word": "be",
+   "start": 18.852,
+   "end": 18.955
+  },
+  {
+   "beat": "04",
+   "word": "laid",
+   "start": 18.955,
+   "end": 19.25
+  },
+  {
+   "beat": "04",
+   "word": "waste",
+   "start": 19.261,
+   "end": 19.739
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 20.114,
+   "end": 20.205
+  },
+  {
+   "beat": "04",
+   "word": "house",
+   "start": 20.205,
+   "end": 20.659
+  },
+  {
+   "beat": "04",
+   "word": "will",
+   "start": 20.659,
+   "end": 20.761
+  },
+  {
+   "beat": "04",
+   "word": "fall",
+   "start": 20.761,
+   "end": 21.182
+  },
+  {
+   "beat": "04",
+   "word": "against",
+   "start": 21.182,
+   "end": 21.466
+  },
+  {
+   "beat": "04",
+   "word": "house.",
+   "start": 21.477,
+   "end": 21.955
+  },
+  {
+   "beat": "05",
+   "word": "And",
+   "start": 22.63,
+   "end": 22.709
+  },
+  {
+   "beat": "05",
+   "word": "if",
+   "start": 22.709,
+   "end": 22.789
+  },
+  {
+   "beat": "05",
+   "word": "Satan",
+   "start": 22.789,
+   "end": 23.22
+  },
+  {
+   "beat": "05",
+   "word": "is",
+   "start": 23.266,
+   "end": 23.391
+  },
+  {
+   "beat": "05",
+   "word": "divided",
+   "start": 23.391,
+   "end": 23.811
+  },
+  {
+   "beat": "05",
+   "word": "against",
+   "start": 23.811,
+   "end": 24.084
+  },
+  {
+   "beat": "05",
+   "word": "himself,",
+   "start": 24.084,
+   "end": 24.652
+  },
+  {
+   "beat": "05",
+   "word": "how",
+   "start": 25.073,
+   "end": 25.198
+  },
+  {
+   "beat": "05",
+   "word": "will",
+   "start": 25.198,
+   "end": 25.323
+  },
+  {
+   "beat": "05",
+   "word": "his",
+   "start": 25.323,
+   "end": 25.425
+  },
+  {
+   "beat": "05",
+   "word": "kingdom",
+   "start": 25.425,
+   "end": 25.777
+  },
+  {
+   "beat": "05",
+   "word": "stand?",
+   "start": 25.777,
+   "end": 26.232
+  },
+  {
+   "beat": "05",
+   "word": "For",
+   "start": 26.618,
+   "end": 26.686
+  },
+  {
+   "beat": "05",
+   "word": "you",
+   "start": 26.686,
+   "end": 26.755
+  },
+  {
+   "beat": "05",
+   "word": "say",
+   "start": 26.766,
+   "end": 26.993
+  },
+  {
+   "beat": "05",
+   "word": "that",
+   "start": 26.993,
+   "end": 27.084
+  },
+  {
+   "beat": "05",
+   "word": "it",
+   "start": 27.095,
+   "end": 27.152
+  },
+  {
+   "beat": "05",
+   "word": "is",
+   "start": 27.164,
+   "end": 27.277
+  },
+  {
+   "beat": "05",
+   "word": "by",
+   "start": 27.289,
+   "end": 27.448
+  },
+  {
+   "beat": "05",
+   "word": "Beelzebul",
+   "start": 27.448,
+   "end": 28.164
+  },
+  {
+   "beat": "05",
+   "word": "that",
+   "start": 28.164,
+   "end": 28.255
+  },
+  {
+   "beat": "05",
+   "word": "I",
+   "start": 28.255,
+   "end": 28.3
+  },
+  {
+   "beat": "05",
+   "word": "drive",
+   "start": 28.3,
+   "end": 28.652
+  },
+  {
+   "beat": "05",
+   "word": "out",
+   "start": 28.652,
+   "end": 28.834
+  },
+  {
+   "beat": "05",
+   "word": "demons.",
+   "start": 28.845,
+   "end": 29.414
+  },
+  {
+   "beat": "06",
+   "word": "If",
+   "start": 30.066,
+   "end": 30.168
+  },
+  {
+   "beat": "06",
+   "word": "I,",
+   "start": 30.18,
+   "end": 30.384
+  },
+  {
+   "beat": "06",
+   "word": "then,",
+   "start": 30.395,
+   "end": 30.782
+  },
+  {
+   "beat": "06",
+   "word": "drive",
+   "start": 30.952,
+   "end": 31.225
+  },
+  {
+   "beat": "06",
+   "word": "out",
+   "start": 31.225,
+   "end": 31.395
+  },
+  {
+   "beat": "06",
+   "word": "demons",
+   "start": 31.395,
+   "end": 31.77
+  },
+  {
+   "beat": "06",
+   "word": "by",
+   "start": 31.77,
+   "end": 31.93
+  },
+  {
+   "beat": "06",
+   "word": "Beelzebul,",
+   "start": 32.032,
+   "end": 32.748
+  },
+  {
+   "beat": "06",
+   "word": "by",
+   "start": 32.918,
+   "end": 33.1
+  },
+  {
+   "beat": "06",
+   "word": "whom",
+   "start": 33.1,
+   "end": 33.361
+  },
+  {
+   "beat": "06",
+   "word": "do",
+   "start": 33.361,
+   "end": 33.43
+  },
+  {
+   "beat": "06",
+   "word": "your",
+   "start": 33.43,
+   "end": 33.577
+  },
+  {
+   "beat": "06",
+   "word": "own",
+   "start": 33.577,
+   "end": 33.714
+  },
+  {
+   "beat": "06",
+   "word": "people",
+   "start": 33.725,
+   "end": 33.975
+  },
+  {
+   "beat": "06",
+   "word": "drive",
+   "start": 33.986,
+   "end": 34.259
+  },
+  {
+   "beat": "06",
+   "word": "them",
+   "start": 34.259,
+   "end": 34.35
+  },
+  {
+   "beat": "06",
+   "word": "out?",
+   "start": 34.35,
+   "end": 34.611
+  },
+  {
+   "beat": "06",
+   "word": "Therefore",
+   "start": 34.998,
+   "end": 35.373
+  },
+  {
+   "beat": "06",
+   "word": "they",
+   "start": 35.373,
+   "end": 35.452
+  },
+  {
+   "beat": "06",
+   "word": "will",
+   "start": 35.464,
+   "end": 35.566
+  },
+  {
+   "beat": "06",
+   "word": "be",
+   "start": 35.566,
+   "end": 35.634
+  },
+  {
+   "beat": "06",
+   "word": "your",
+   "start": 35.645,
+   "end": 35.736
+  },
+  {
+   "beat": "06",
+   "word": "judges.",
+   "start": 35.736,
+   "end": 36.282
+  },
+  {
+   "beat": "07",
+   "word": "But",
+   "start": 36.98,
+   "end": 37.036
+  },
+  {
+   "beat": "07",
+   "word": "if",
+   "start": 37.036,
+   "end": 37.116
+  },
+  {
+   "beat": "07",
+   "word": "it",
+   "start": 37.116,
+   "end": 37.173
+  },
+  {
+   "beat": "07",
+   "word": "is",
+   "start": 37.173,
+   "end": 37.286
+  },
+  {
+   "beat": "07",
+   "word": "by",
+   "start": 37.286,
+   "end": 37.411
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 37.411,
+   "end": 37.491
+  },
+  {
+   "beat": "07",
+   "word": "finger",
+   "start": 37.491,
+   "end": 37.911
+  },
+  {
+   "beat": "07",
+   "word": "of",
+   "start": 37.911,
+   "end": 38.002
+  },
+  {
+   "beat": "07",
+   "word": "God",
+   "start": 38.002,
+   "end": 38.4
+  },
+  {
+   "beat": "07",
+   "word": "that",
+   "start": 38.411,
+   "end": 38.502
+  },
+  {
+   "beat": "07",
+   "word": "I",
+   "start": 38.502,
+   "end": 38.559
+  },
+  {
+   "beat": "07",
+   "word": "drive",
+   "start": 38.559,
+   "end": 39.002
+  },
+  {
+   "beat": "07",
+   "word": "out",
+   "start": 39.014,
+   "end": 39.23
+  },
+  {
+   "beat": "07",
+   "word": "demons,",
+   "start": 39.241,
+   "end": 39.809
+  },
+  {
+   "beat": "07",
+   "word": "then",
+   "start": 40.161,
+   "end": 40.275
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 40.286,
+   "end": 40.377
+  },
+  {
+   "beat": "07",
+   "word": "Kingdom",
+   "start": 40.377,
+   "end": 40.775
+  },
+  {
+   "beat": "07",
+   "word": "of",
+   "start": 40.775,
+   "end": 40.877
+  },
+  {
+   "beat": "07",
+   "word": "God",
+   "start": 40.877,
+   "end": 41.184
+  },
+  {
+   "beat": "07",
+   "word": "has",
+   "start": 41.184,
+   "end": 41.309
+  },
+  {
+   "beat": "07",
+   "word": "come",
+   "start": 41.309,
+   "end": 41.445
+  },
+  {
+   "beat": "07",
+   "word": "upon",
+   "start": 41.445,
+   "end": 41.764
+  },
+  {
+   "beat": "07",
+   "word": "you.",
+   "start": 41.775,
+   "end": 41.98
+  },
+  {
+   "beat": "08",
+   "word": "When",
+   "start": 42.655,
+   "end": 42.723
+  },
+  {
+   "beat": "08",
+   "word": "a",
+   "start": 42.723,
+   "end": 42.78
+  },
+  {
+   "beat": "08",
+   "word": "strong",
+   "start": 42.791,
+   "end": 43.189
+  },
+  {
+   "beat": "08",
+   "word": "man",
+   "start": 43.189,
+   "end": 43.495
+  },
+  {
+   "beat": "08",
+   "word": "fully",
+   "start": 43.495,
+   "end": 43.916
+  },
+  {
+   "beat": "08",
+   "word": "armed",
+   "start": 43.927,
+   "end": 44.325
+  },
+  {
+   "beat": "08",
+   "word": "guards",
+   "start": 44.382,
+   "end": 44.643
+  },
+  {
+   "beat": "08",
+   "word": "his",
+   "start": 44.643,
+   "end": 44.757
+  },
+  {
+   "beat": "08",
+   "word": "palace,",
+   "start": 44.757,
+   "end": 45.28
+  },
+  {
+   "beat": "08",
+   "word": "his",
+   "start": 45.62,
+   "end": 45.711
+  },
+  {
+   "beat": "08",
+   "word": "possessions",
+   "start": 45.723,
+   "end": 46.336
+  },
+  {
+   "beat": "08",
+   "word": "are",
+   "start": 46.336,
+   "end": 46.439
+  },
+  {
+   "beat": "08",
+   "word": "safe.",
+   "start": 46.439,
+   "end": 46.973
+  },
+  {
+   "beat": "09",
+   "word": "But",
+   "start": 47.636,
+   "end": 47.705
+  },
+  {
+   "beat": "09",
+   "word": "when",
+   "start": 47.705,
+   "end": 47.841
+  },
+  {
+   "beat": "09",
+   "word": "one",
+   "start": 47.841,
+   "end": 48.045
+  },
+  {
+   "beat": "09",
+   "word": "stronger",
+   "start": 48.057,
+   "end": 48.557
+  },
+  {
+   "beat": "09",
+   "word": "than",
+   "start": 48.557,
+   "end": 48.648
+  },
+  {
+   "beat": "09",
+   "word": "he",
+   "start": 48.659,
+   "end": 48.795
+  },
+  {
+   "beat": "09",
+   "word": "attacks",
+   "start": 48.807,
+   "end": 49.409
+  },
+  {
+   "beat": "09",
+   "word": "and",
+   "start": 49.625,
+   "end": 49.852
+  },
+  {
+   "beat": "09",
+   "word": "overcomes",
+   "start": 49.909,
+   "end": 50.398
+  },
+  {
+   "beat": "09",
+   "word": "him,",
+   "start": 50.409,
+   "end": 50.602
+  },
+  {
+   "beat": "09",
+   "word": "he",
+   "start": 50.989,
+   "end": 51.045
+  },
+  {
+   "beat": "09",
+   "word": "takes",
+   "start": 51.045,
+   "end": 51.261
+  },
+  {
+   "beat": "09",
+   "word": "away",
+   "start": 51.261,
+   "end": 51.5
+  },
+  {
+   "beat": "09",
+   "word": "the",
+   "start": 51.5,
+   "end": 51.602
+  },
+  {
+   "beat": "09",
+   "word": "armor",
+   "start": 51.614,
+   "end": 52.011
+  },
+  {
+   "beat": "09",
+   "word": "on",
+   "start": 52.023,
+   "end": 52.148
+  },
+  {
+   "beat": "09",
+   "word": "which",
+   "start": 52.159,
+   "end": 52.318
+  },
+  {
+   "beat": "09",
+   "word": "he",
+   "start": 52.33,
+   "end": 52.42
+  },
+  {
+   "beat": "09",
+   "word": "relied",
+   "start": 52.42,
+   "end": 52.989
+  },
+  {
+   "beat": "09",
+   "word": "and",
+   "start": 53.148,
+   "end": 53.239
+  },
+  {
+   "beat": "09",
+   "word": "distributes",
+   "start": 53.239,
+   "end": 53.864
+  },
+  {
+   "beat": "09",
+   "word": "the",
+   "start": 53.875,
+   "end": 53.943
+  },
+  {
+   "beat": "09",
+   "word": "spoils.",
+   "start": 53.955,
+   "end": 54.602
+  },
+  {
+   "beat": "10",
+   "word": "Whoever",
+   "start": 55.266,
+   "end": 55.618
+  },
+  {
+   "beat": "10",
+   "word": "is",
+   "start": 55.618,
+   "end": 55.709
+  },
+  {
+   "beat": "10",
+   "word": "not",
+   "start": 55.709,
+   "end": 56.027
+  },
+  {
+   "beat": "10",
+   "word": "with",
+   "start": 56.027,
+   "end": 56.22
+  },
+  {
+   "beat": "10",
+   "word": "me",
+   "start": 56.22,
+   "end": 56.584
+  },
+  {
+   "beat": "10",
+   "word": "is",
+   "start": 56.709,
+   "end": 56.8
+  },
+  {
+   "beat": "10",
+   "word": "against",
+   "start": 56.8,
+   "end": 57.175
+  },
+  {
+   "beat": "10",
+   "word": "me,",
+   "start": 57.186,
+   "end": 57.402
+  },
+  {
+   "beat": "10",
+   "word": "and",
+   "start": 57.891,
+   "end": 57.982
+  },
+  {
+   "beat": "10",
+   "word": "whoever",
+   "start": 57.982,
+   "end": 58.357
+  },
+  {
+   "beat": "10",
+   "word": "does",
+   "start": 58.368,
+   "end": 58.505
+  },
+  {
+   "beat": "10",
+   "word": "not",
+   "start": 58.505,
+   "end": 58.857
+  },
+  {
+   "beat": "10",
+   "word": "gather",
+   "start": 58.959,
+   "end": 59.289
+  },
+  {
+   "beat": "10",
+   "word": "with",
+   "start": 59.289,
+   "end": 59.402
+  },
+  {
+   "beat": "10",
+   "word": "me",
+   "start": 59.402,
+   "end": 59.505
+  },
+  {
+   "beat": "10",
+   "word": "scatters.",
+   "start": 59.505,
+   "end": 60.13
+  },
+  {
+   "beat": "11",
+   "word": "\"When",
+   "start": 60.975,
+   "end": 61.055
+  },
+  {
+   "beat": "11",
+   "word": "an",
+   "start": 61.066,
+   "end": 61.168
+  },
+  {
+   "beat": "11",
+   "word": "unclean",
+   "start": 61.18,
+   "end": 61.839
+  },
+  {
+   "beat": "11",
+   "word": "spirit",
+   "start": 61.85,
+   "end": 62.373
+  },
+  {
+   "beat": "11",
+   "word": "goes",
+   "start": 62.441,
+   "end": 62.702
+  },
+  {
+   "beat": "11",
+   "word": "out",
+   "start": 62.702,
+   "end": 62.839
+  },
+  {
+   "beat": "11",
+   "word": "of",
+   "start": 62.839,
+   "end": 62.895
+  },
+  {
+   "beat": "11",
+   "word": "someone,",
+   "start": 62.895,
+   "end": 63.407
+  },
+  {
+   "beat": "11",
+   "word": "it",
+   "start": 63.748,
+   "end": 63.85
+  },
+  {
+   "beat": "11",
+   "word": "roams",
+   "start": 63.85,
+   "end": 64.225
+  },
+  {
+   "beat": "11",
+   "word": "through",
+   "start": 64.236,
+   "end": 64.43
+  },
+  {
+   "beat": "11",
+   "word": "arid",
+   "start": 64.441,
+   "end": 64.77
+  },
+  {
+   "beat": "11",
+   "word": "regions",
+   "start": 64.77,
+   "end": 65.248
+  },
+  {
+   "beat": "11",
+   "word": "searching",
+   "start": 65.373,
+   "end": 65.805
+  },
+  {
+   "beat": "11",
+   "word": "for",
+   "start": 65.816,
+   "end": 65.964
+  },
+  {
+   "beat": "11",
+   "word": "rest",
+   "start": 65.964,
+   "end": 66.361
+  },
+  {
+   "beat": "11",
+   "word": "but,",
+   "start": 66.373,
+   "end": 66.645
+  },
+  {
+   "beat": "11",
+   "word": "finding",
+   "start": 66.998,
+   "end": 67.418
+  },
+  {
+   "beat": "11",
+   "word": "none,",
+   "start": 67.418,
+   "end": 67.691
+  },
+  {
+   "beat": "11",
+   "word": "it",
+   "start": 68.157,
+   "end": 68.225
+  },
+  {
+   "beat": "11",
+   "word": "says,",
+   "start": 68.236,
+   "end": 68.68
+  },
+  {
+   "beat": "11",
+   "word": "'I",
+   "start": 69.134,
+   "end": 69.18
+  },
+  {
+   "beat": "11",
+   "word": "shall",
+   "start": 69.18,
+   "end": 69.327
+  },
+  {
+   "beat": "11",
+   "word": "return",
+   "start": 69.327,
+   "end": 69.623
+  },
+  {
+   "beat": "11",
+   "word": "to",
+   "start": 69.634,
+   "end": 69.691
+  },
+  {
+   "beat": "11",
+   "word": "my",
+   "start": 69.691,
+   "end": 69.861
+  },
+  {
+   "beat": "11",
+   "word": "home",
+   "start": 69.861,
+   "end": 70.18
+  },
+  {
+   "beat": "11",
+   "word": "from",
+   "start": 70.18,
+   "end": 70.305
+  },
+  {
+   "beat": "11",
+   "word": "which",
+   "start": 70.305,
+   "end": 70.464
+  },
+  {
+   "beat": "11",
+   "word": "I",
+   "start": 70.464,
+   "end": 70.566
+  },
+  {
+   "beat": "11",
+   "word": "came.'",
+   "start": 70.566,
+   "end": 70.895
+  },
+  {
+   "beat": "12",
+   "word": "But",
+   "start": 71.495,
+   "end": 71.564
+  },
+  {
+   "beat": "12",
+   "word": "upon",
+   "start": 71.575,
+   "end": 71.905
+  },
+  {
+   "beat": "12",
+   "word": "returning,",
+   "start": 71.916,
+   "end": 72.405
+  },
+  {
+   "beat": "12",
+   "word": "it",
+   "start": 72.768,
+   "end": 72.814
+  },
+  {
+   "beat": "12",
+   "word": "finds",
+   "start": 72.814,
+   "end": 73.086
+  },
+  {
+   "beat": "12",
+   "word": "it",
+   "start": 73.098,
+   "end": 73.166
+  },
+  {
+   "beat": "12",
+   "word": "swept",
+   "start": 73.166,
+   "end": 73.495
+  },
+  {
+   "beat": "12",
+   "word": "clean",
+   "start": 73.495,
+   "end": 73.984
+  },
+  {
+   "beat": "12",
+   "word": "and",
+   "start": 74.177,
+   "end": 74.257
+  },
+  {
+   "beat": "12",
+   "word": "put",
+   "start": 74.257,
+   "end": 74.427
+  },
+  {
+   "beat": "12",
+   "word": "in",
+   "start": 74.427,
+   "end": 74.518
+  },
+  {
+   "beat": "12",
+   "word": "order.",
+   "start": 74.518,
+   "end": 74.916
+  },
+  {
+   "beat": "13",
+   "word": "Then",
+   "start": 75.591,
+   "end": 75.682
+  },
+  {
+   "beat": "13",
+   "word": "it",
+   "start": 75.682,
+   "end": 75.784
+  },
+  {
+   "beat": "13",
+   "word": "goes",
+   "start": 75.795,
+   "end": 76.261
+  },
+  {
+   "beat": "13",
+   "word": "and",
+   "start": 76.364,
+   "end": 76.455
+  },
+  {
+   "beat": "13",
+   "word": "brings",
+   "start": 76.466,
+   "end": 76.818
+  },
+  {
+   "beat": "13",
+   "word": "back",
+   "start": 76.818,
+   "end": 77.057
+  },
+  {
+   "beat": "13",
+   "word": "seven",
+   "start": 77.057,
+   "end": 77.523
+  },
+  {
+   "beat": "13",
+   "word": "other",
+   "start": 77.534,
+   "end": 77.761
+  },
+  {
+   "beat": "13",
+   "word": "spirits",
+   "start": 77.761,
+   "end": 78.273
+  },
+  {
+   "beat": "13",
+   "word": "more",
+   "start": 78.409,
+   "end": 78.75
+  },
+  {
+   "beat": "13",
+   "word": "wicked",
+   "start": 78.75,
+   "end": 79.091
+  },
+  {
+   "beat": "13",
+   "word": "than",
+   "start": 79.102,
+   "end": 79.216
+  },
+  {
+   "beat": "13",
+   "word": "itself",
+   "start": 79.216,
+   "end": 79.739
+  },
+  {
+   "beat": "13",
+   "word": "who",
+   "start": 79.75,
+   "end": 79.852
+  },
+  {
+   "beat": "13",
+   "word": "move",
+   "start": 79.852,
+   "end": 80.239
+  },
+  {
+   "beat": "13",
+   "word": "in",
+   "start": 80.364,
+   "end": 80.682
+  },
+  {
+   "beat": "13",
+   "word": "and",
+   "start": 80.795,
+   "end": 80.909
+  },
+  {
+   "beat": "13",
+   "word": "dwell",
+   "start": 80.909,
+   "end": 81.386
+  },
+  {
+   "beat": "13",
+   "word": "there,",
+   "start": 81.386,
+   "end": 81.67
+  },
+  {
+   "beat": "13",
+   "word": "and",
+   "start": 82.023,
+   "end": 82.057
+  },
+  {
+   "beat": "13",
+   "word": "the",
+   "start": 82.057,
+   "end": 82.136
+  },
+  {
+   "beat": "13",
+   "word": "last",
+   "start": 82.148,
+   "end": 82.432
+  },
+  {
+   "beat": "13",
+   "word": "condition",
+   "start": 82.432,
+   "end": 82.784
+  },
+  {
+   "beat": "13",
+   "word": "of",
+   "start": 82.795,
+   "end": 82.852
+  },
+  {
+   "beat": "13",
+   "word": "that",
+   "start": 82.852,
+   "end": 83.045
+  },
+  {
+   "beat": "13",
+   "word": "man",
+   "start": 83.045,
+   "end": 83.364
+  },
+  {
+   "beat": "13",
+   "word": "is",
+   "start": 83.534,
+   "end": 83.67
+  },
+  {
+   "beat": "13",
+   "word": "worse",
+   "start": 83.682,
+   "end": 84.102
+  },
+  {
+   "beat": "13",
+   "word": "than",
+   "start": 84.114,
+   "end": 84.205
+  },
+  {
+   "beat": "13",
+   "word": "the",
+   "start": 84.205,
+   "end": 84.261
+  },
+  {
+   "beat": "13",
+   "word": "first.\"",
+   "start": 84.273,
+   "end": 84.841
+  },
+  {
+   "beat": "14",
+   "word": "The",
+   "start": 85.327,
+   "end": 85.373
+  },
+  {
+   "beat": "14",
+   "word": "Gospel",
+   "start": 85.384,
+   "end": 85.782
+  },
+  {
+   "beat": "14",
+   "word": "of",
+   "start": 85.782,
+   "end": 85.85
+  },
+  {
+   "beat": "14",
+   "word": "the",
+   "start": 85.861,
+   "end": 85.918
+  },
+  {
+   "beat": "14",
+   "word": "Lord.",
+   "start": 85.918,
+   "end": 86.248
+  },
+  {
+   "beat": "15",
+   "word": "Search",
+   "start": 87.311,
+   "end": 87.516
+  },
+  {
+   "beat": "15",
+   "word": "Saint",
+   "start": 87.516,
+   "end": 87.777
+  },
+  {
+   "beat": "15",
+   "word": "Match",
+   "start": 87.777,
+   "end": 88.164
+  },
+  {
+   "beat": "15",
+   "word": "on",
+   "start": 88.209,
+   "end": 88.277
+  },
+  {
+   "beat": "15",
+   "word": "the",
+   "start": 88.277,
+   "end": 88.334
+  },
+  {
+   "beat": "15",
+   "word": "App",
+   "start": 88.345,
+   "end": 88.595
+  },
+  {
+   "beat": "15",
+   "word": "Store.",
+   "start": 88.595,
+   "end": 88.982
+  },
+  {
+   "beat": "16",
+   "word": "Feel",
+   "start": 89.736,
+   "end": 89.918
+  },
+  {
+   "beat": "16",
+   "word": "it.",
+   "start": 89.918,
+   "end": 90.032
+  },
+  {
+   "beat": "16",
+   "word": "Match",
+   "start": 90.395,
+   "end": 90.589
+  },
+  {
+   "beat": "16",
+   "word": "a",
+   "start": 90.589,
+   "end": 90.634
+  },
+  {
+   "beat": "16",
+   "word": "saint",
+   "start": 90.645,
+   "end": 90.986
+  },
+  {
+   "beat": "16",
+   "word": "who",
+   "start": 90.998,
+   "end": 91.123
+  },
+  {
+   "beat": "16",
+   "word": "lived",
+   "start": 91.123,
+   "end": 91.441
+  },
+  {
+   "beat": "16",
+   "word": "it.",
+   "start": 91.452,
+   "end": 91.634
+  }
+ ]
+}

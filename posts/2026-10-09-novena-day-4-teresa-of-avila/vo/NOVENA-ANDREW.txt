@@ -1,0 +1,2 @@
+Andrew is the novena voice. No ElevenLabs call.
+edge-tts en-US-AndrewMultilingualNeural +10% via tools/gen_vo_free.py.

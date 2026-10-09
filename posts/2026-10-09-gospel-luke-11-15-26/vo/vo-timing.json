@@ -1,0 +1,130 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "A reading from the holy Gospel according to Luke. When Jesus had driven out a demon, some of the crowd said: \"By the power of Beelzebul, the prince of demons, he drives out demons.\" Others, to test him, asked him for a sign from heaven. But he knew their thoughts and said to them, \"Every kingdom divided against itself will be laid waste and house will fall against house. And if Satan is divided against himself, how will his kingdom stand? For you say that it is by Beelzebul that I drive out demons. If I, then, drive out demons by Beelzebul, by whom do your own people drive them out? Therefore they will be your judges. But if it is by the finger of God that I drive out demons, then the Kingdom of God has come upon you. When a strong man fully armed guards his palace, his possessions are safe. But when one stronger than he attacks and overcomes him, he takes away the armor on which he relied and distributes the spoils. Whoever is not with me is against me, and whoever does not gather with me scatters. \"When an unclean spirit goes out of someone, it roams through arid regions searching for rest but, finding none, it says, 'I shall return to my home from which I came.' But upon returning, it finds it swept clean and put in order. Then it goes and brings back seven other spirits more wicked than itself who move in and dwell there, and the last condition of that man is worse than the first.\" The Gospel of the Lord. Search Saint Match on the App Store. Feel it. Match a saint who lived it.",
+ "spoken_text": "A reading from the holy Gospel according to Luke. When Jesus had driven out a demon, some of the crowd said: \"By the power of Beelzebul, the prince of demons, he drives out demons.\" Others, to test him, asked him for a sign from heaven. But he knew their thoughts and said to them, \"Every kingdom divided against itself will be laid waste and house will fall against house. And if Satan is divided against himself, how will his kingdom stand? For you say that it is by Beelzebul that I drive out demons. If I, then, drive out demons by Beelzebul, by whom do your own people drive them out? Therefore they will be your judges. But if it is by the finger of God that I drive out demons, then the Kingdom of God has come upon you. When a strong man fully armed guards his palace, his possessions are safe. But when one stronger than he attacks and overcomes him, he takes away the armor on which he relied and distributes the spoils. Whoever is not with me is against me, and whoever does not gather with me scatters. \"When an unclean spirit goes out of someone, it roams through arid regions searching for rest but, finding none, it says, 'I shall return to my home from which I came.' But upon returning, it finds it swept clean and put in order. Then it goes and brings back seven other spirits more wicked than itself who move in and dwell there, and the last condition of that man is worse than the first.\" The Gospel of the Lord. Search Saint Match on the App Store. Feel it. Match a saint who lived it.",
+ "spoken_respell": {},
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 91.634,
+ "wav_duration_s": 91.964,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "A reading from the holy Gospel according to Luke.",
+   "start_s": 0.091,
+   "end_s": 2.273,
+   "words": 9
+  },
+  {
+   "beat": "02",
+   "text": "When Jesus had driven out a demon, some of the crowd said: \"By the power of Beelzebul, the prince of demons, he drives out demons.\"",
+   "start_s": 2.936,
+   "end_s": 10.766,
+   "words": 25
+  },
+  {
+   "beat": "03",
+   "text": "Others, to test him, asked him for a sign from heaven. But he knew their thoughts and said to them,",
+   "start_s": 11.241,
+   "end_s": 16.298,
+   "words": 20
+  },
+  {
+   "beat": "04",
+   "text": "\"Every kingdom divided against itself will be laid waste and house will fall against house.",
+   "start_s": 16.886,
+   "end_s": 21.955,
+   "words": 15
+  },
+  {
+   "beat": "05",
+   "text": "And if Satan is divided against himself, how will his kingdom stand? For you say that it is by Beelzebul that I drive out demons.",
+   "start_s": 22.63,
+   "end_s": 29.414,
+   "words": 25
+  },
+  {
+   "beat": "06",
+   "text": "If I, then, drive out demons by Beelzebul, by whom do your own people drive them out? Therefore they will be your judges.",
+   "start_s": 30.066,
+   "end_s": 36.282,
+   "words": 23
+  },
+  {
+   "beat": "07",
+   "text": "But if it is by the finger of God that I drive out demons, then the Kingdom of God has come upon you.",
+   "start_s": 36.98,
+   "end_s": 41.98,
+   "words": 23
+  },
+  {
+   "beat": "08",
+   "text": "When a strong man fully armed guards his palace, his possessions are safe.",
+   "start_s": 42.655,
+   "end_s": 46.973,
+   "words": 13
+  },
+  {
+   "beat": "09",
+   "text": "But when one stronger than he attacks and overcomes him, he takes away the armor on which he relied and distributes the spoils.",
+   "start_s": 47.636,
+   "end_s": 54.602,
+   "words": 23
+  },
+  {
+   "beat": "10",
+   "text": "Whoever is not with me is against me, and whoever does not gather with me scatters.",
+   "start_s": 55.266,
+   "end_s": 60.13,
+   "words": 16
+  },
+  {
+   "beat": "11",
+   "text": "\"When an unclean spirit goes out of someone, it roams through arid regions searching for rest but, finding none, it says, 'I shall return to my home from which I came.'",
+   "start_s": 60.975,
+   "end_s": 70.895,
+   "words": 31
+  },
+  {
+   "beat": "12",
+   "text": "But upon returning, it finds it swept clean and put in order.",
+   "start_s": 71.495,
+   "end_s": 74.916,
+   "words": 12
+  },
+  {
+   "beat": "13",
+   "text": "Then it goes and brings back seven other spirits more wicked than itself who move in and dwell there, and the last condition of that man is worse than the first.\"",
+   "start_s": 75.591,
+   "end_s": 84.841,
+   "words": 31
+  },
+  {
+   "beat": "14",
+   "text": "The Gospel of the Lord.",
+   "start_s": 85.327,
+   "end_s": 86.248,
+   "words": 5
+  },
+  {
+   "beat": "15",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 87.311,
+   "end_s": 88.982,
+   "words": 7
+  },
+  {
+   "beat": "16",
+   "text": "Feel it. Match a saint who lived it.",
+   "start_s": 89.736,
+   "end_s": 91.634,
+   "words": 8
+  }
+ ]
+}

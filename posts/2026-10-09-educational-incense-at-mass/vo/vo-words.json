@@ -1,0 +1,785 @@
+{
+ "duration": 44.872018,
+ "words": [
+  {
+   "beat": "01",
+   "word": "Why",
+   "start": 0.091,
+   "end": 0.17
+  },
+  {
+   "beat": "01",
+   "word": "do",
+   "start": 0.182,
+   "end": 0.284
+  },
+  {
+   "beat": "01",
+   "word": "Catholics",
+   "start": 0.295,
+   "end": 0.75
+  },
+  {
+   "beat": "01",
+   "word": "use",
+   "start": 0.75,
+   "end": 0.92
+  },
+  {
+   "beat": "01",
+   "word": "incense",
+   "start": 0.92,
+   "end": 1.295
+  },
+  {
+   "beat": "01",
+   "word": "at",
+   "start": 1.295,
+   "end": 1.364
+  },
+  {
+   "beat": "01",
+   "word": "Mass?",
+   "start": 1.364,
+   "end": 1.864
+  },
+  {
+   "beat": "02",
+   "word": "Most",
+   "start": 2.527,
+   "end": 2.698
+  },
+  {
+   "beat": "02",
+   "word": "people",
+   "start": 2.698,
+   "end": 2.948
+  },
+  {
+   "beat": "02",
+   "word": "think",
+   "start": 2.948,
+   "end": 3.22
+  },
+  {
+   "beat": "02",
+   "word": "it",
+   "start": 3.232,
+   "end": 3.289
+  },
+  {
+   "beat": "02",
+   "word": "has",
+   "start": 3.289,
+   "end": 3.402
+  },
+  {
+   "beat": "02",
+   "word": "been",
+   "start": 3.402,
+   "end": 3.573
+  },
+  {
+   "beat": "02",
+   "word": "at",
+   "start": 3.573,
+   "end": 3.664
+  },
+  {
+   "beat": "02",
+   "word": "Mass",
+   "start": 3.664,
+   "end": 4.266
+  },
+  {
+   "beat": "02",
+   "word": "since",
+   "start": 4.357,
+   "end": 4.641
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 4.641,
+   "end": 4.732
+  },
+  {
+   "beat": "02",
+   "word": "apostles,",
+   "start": 4.732,
+   "end": 5.402
+  },
+  {
+   "beat": "02",
+   "word": "but",
+   "start": 5.607,
+   "end": 5.766
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 5.777,
+   "end": 5.857
+  },
+  {
+   "beat": "02",
+   "word": "Catholic",
+   "start": 5.868,
+   "end": 6.266
+  },
+  {
+   "beat": "02",
+   "word": "Encyclopedia",
+   "start": 6.266,
+   "end": 6.959
+  },
+  {
+   "beat": "02",
+   "word": "says",
+   "start": 7.175,
+   "end": 7.505
+  },
+  {
+   "beat": "02",
+   "word": "that",
+   "start": 7.516,
+   "end": 7.698
+  },
+  {
+   "beat": "02",
+   "word": "during",
+   "start": 7.698,
+   "end": 7.891
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 7.891,
+   "end": 7.948
+  },
+  {
+   "beat": "02",
+   "word": "first",
+   "start": 7.948,
+   "end": 8.323
+  },
+  {
+   "beat": "02",
+   "word": "four",
+   "start": 8.323,
+   "end": 8.516
+  },
+  {
+   "beat": "02",
+   "word": "centuries",
+   "start": 8.516,
+   "end": 9.141
+  },
+  {
+   "beat": "02",
+   "word": "there",
+   "start": 9.266,
+   "end": 9.402
+  },
+  {
+   "beat": "02",
+   "word": "is",
+   "start": 9.414,
+   "end": 9.516
+  },
+  {
+   "beat": "02",
+   "word": "no",
+   "start": 9.516,
+   "end": 9.823
+  },
+  {
+   "beat": "02",
+   "word": "evidence",
+   "start": 9.834,
+   "end": 10.243
+  },
+  {
+   "beat": "02",
+   "word": "for",
+   "start": 10.243,
+   "end": 10.391
+  },
+  {
+   "beat": "02",
+   "word": "its",
+   "start": 10.391,
+   "end": 10.493
+  },
+  {
+   "beat": "02",
+   "word": "use.",
+   "start": 10.493,
+   "end": 10.914
+  },
+  {
+   "beat": "03",
+   "word": "The",
+   "start": 11.577,
+   "end": 11.657
+  },
+  {
+   "beat": "03",
+   "word": "General",
+   "start": 11.657,
+   "end": 11.952
+  },
+  {
+   "beat": "03",
+   "word": "Instruction",
+   "start": 11.952,
+   "end": 12.52
+  },
+  {
+   "beat": "03",
+   "word": "calls",
+   "start": 12.6,
+   "end": 12.839
+  },
+  {
+   "beat": "03",
+   "word": "incensation",
+   "start": 12.839,
+   "end": 13.736
+  },
+  {
+   "beat": "03",
+   "word": "an",
+   "start": 13.816,
+   "end": 13.873
+  },
+  {
+   "beat": "03",
+   "word": "expression",
+   "start": 13.884,
+   "end": 14.555
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 14.555,
+   "end": 14.736
+  },
+  {
+   "beat": "03",
+   "word": "reverence",
+   "start": 14.736,
+   "end": 15.339
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 15.475,
+   "end": 15.714
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 15.725,
+   "end": 15.816
+  },
+  {
+   "beat": "03",
+   "word": "prayer,",
+   "start": 15.816,
+   "end": 16.305
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 16.714,
+   "end": 16.805
+  },
+  {
+   "beat": "03",
+   "word": "incense",
+   "start": 16.805,
+   "end": 17.248
+  },
+  {
+   "beat": "03",
+   "word": "may",
+   "start": 17.248,
+   "end": 17.384
+  },
+  {
+   "beat": "03",
+   "word": "be",
+   "start": 17.384,
+   "end": 17.486
+  },
+  {
+   "beat": "03",
+   "word": "used",
+   "start": 17.486,
+   "end": 17.782
+  },
+  {
+   "beat": "03",
+   "word": "optionally",
+   "start": 17.85,
+   "end": 18.418
+  },
+  {
+   "beat": "03",
+   "word": "in",
+   "start": 18.43,
+   "end": 18.589
+  },
+  {
+   "beat": "03",
+   "word": "any",
+   "start": 18.691,
+   "end": 18.895
+  },
+  {
+   "beat": "03",
+   "word": "form",
+   "start": 18.895,
+   "end": 19.214
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 19.214,
+   "end": 19.282
+  },
+  {
+   "beat": "03",
+   "word": "Mass.",
+   "start": 19.282,
+   "end": 20.377
+  },
+  {
+   "beat": "04",
+   "word": "Incensation",
+   "start": 20.377,
+   "end": 21.014
+  },
+  {
+   "beat": "04",
+   "word": "at",
+   "start": 21.014,
+   "end": 21.07
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 21.07,
+   "end": 21.15
+  },
+  {
+   "beat": "04",
+   "word": "Offertory",
+   "start": 21.15,
+   "end": 21.764
+  },
+  {
+   "beat": "04",
+   "word": "comes",
+   "start": 21.843,
+   "end": 22.15
+  },
+  {
+   "beat": "04",
+   "word": "in",
+   "start": 22.15,
+   "end": 22.207
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 22.218,
+   "end": 22.264
+  },
+  {
+   "beat": "04",
+   "word": "eleventh",
+   "start": 22.264,
+   "end": 22.627
+  },
+  {
+   "beat": "04",
+   "word": "century,",
+   "start": 22.639,
+   "end": 23.184
+  },
+  {
+   "beat": "04",
+   "word": "at",
+   "start": 23.4,
+   "end": 23.491
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 23.491,
+   "end": 23.548
+  },
+  {
+   "beat": "04",
+   "word": "Introit",
+   "start": 23.548,
+   "end": 24.07
+  },
+  {
+   "beat": "04",
+   "word": "in",
+   "start": 24.082,
+   "end": 24.15
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 24.15,
+   "end": 24.207
+  },
+  {
+   "beat": "04",
+   "word": "twelfth,",
+   "start": 24.218,
+   "end": 24.718
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 24.957,
+   "end": 25.048
+  },
+  {
+   "beat": "04",
+   "word": "with",
+   "start": 25.048,
+   "end": 25.15
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 25.15,
+   "end": 25.218
+  },
+  {
+   "beat": "04",
+   "word": "Elevation",
+   "start": 25.218,
+   "end": 25.764
+  },
+  {
+   "beat": "04",
+   "word": "about",
+   "start": 25.764,
+   "end": 25.945
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 25.945,
+   "end": 26.002
+  },
+  {
+   "beat": "04",
+   "word": "fourteenth.",
+   "start": 26.014,
+   "end": 26.707
+  },
+  {
+   "beat": "05",
+   "word": "Three",
+   "start": 27.405,
+   "end": 27.632
+  },
+  {
+   "beat": "05",
+   "word": "swings",
+   "start": 27.643,
+   "end": 28.041
+  },
+  {
+   "beat": "05",
+   "word": "are",
+   "start": 28.041,
+   "end": 28.166
+  },
+  {
+   "beat": "05",
+   "word": "used",
+   "start": 28.166,
+   "end": 28.473
+  },
+  {
+   "beat": "05",
+   "word": "for",
+   "start": 28.473,
+   "end": 28.552
+  },
+  {
+   "beat": "05",
+   "word": "the",
+   "start": 28.564,
+   "end": 28.62
+  },
+  {
+   "beat": "05",
+   "word": "Most",
+   "start": 28.62,
+   "end": 28.95
+  },
+  {
+   "beat": "05",
+   "word": "Blessed",
+   "start": 28.961,
+   "end": 29.37
+  },
+  {
+   "beat": "05",
+   "word": "Sacrament",
+   "start": 29.382,
+   "end": 29.916
+  },
+  {
+   "beat": "05",
+   "word": "and",
+   "start": 30.064,
+   "end": 30.12
+  },
+  {
+   "beat": "05",
+   "word": "the",
+   "start": 30.12,
+   "end": 30.189
+  },
+  {
+   "beat": "05",
+   "word": "people.",
+   "start": 30.2,
+   "end": 30.655
+  },
+  {
+   "beat": "06",
+   "word": "Two",
+   "start": 31.318,
+   "end": 31.5
+  },
+  {
+   "beat": "06",
+   "word": "swings",
+   "start": 31.5,
+   "end": 32.114
+  },
+  {
+   "beat": "06",
+   "word": "incense",
+   "start": 32.25,
+   "end": 32.977
+  },
+  {
+   "beat": "06",
+   "word": "images",
+   "start": 33.091,
+   "end": 33.466
+  },
+  {
+   "beat": "06",
+   "word": "of",
+   "start": 33.466,
+   "end": 33.511
+  },
+  {
+   "beat": "06",
+   "word": "the",
+   "start": 33.511,
+   "end": 33.557
+  },
+  {
+   "beat": "06",
+   "word": "saints.",
+   "start": 33.557,
+   "end": 34.125
+  },
+  {
+   "beat": "07",
+   "word": "Next",
+   "start": 34.789,
+   "end": 34.925
+  },
+  {
+   "beat": "07",
+   "word": "time",
+   "start": 34.925,
+   "end": 35.084
+  },
+  {
+   "beat": "07",
+   "word": "you",
+   "start": 35.084,
+   "end": 35.152
+  },
+  {
+   "beat": "07",
+   "word": "see",
+   "start": 35.152,
+   "end": 35.334
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 35.334,
+   "end": 35.414
+  },
+  {
+   "beat": "07",
+   "word": "smoke,",
+   "start": 35.414,
+   "end": 35.902
+  },
+  {
+   "beat": "07",
+   "word": "it",
+   "start": 36.141,
+   "end": 36.22
+  },
+  {
+   "beat": "07",
+   "word": "is",
+   "start": 36.22,
+   "end": 36.357
+  },
+  {
+   "beat": "07",
+   "word": "reverence",
+   "start": 36.357,
+   "end": 37.039
+  },
+  {
+   "beat": "07",
+   "word": "and",
+   "start": 37.13,
+   "end": 37.243
+  },
+  {
+   "beat": "07",
+   "word": "prayer,",
+   "start": 37.243,
+   "end": 37.777
+  },
+  {
+   "beat": "07",
+   "word": "and",
+   "start": 38.209,
+   "end": 38.289
+  },
+  {
+   "beat": "07",
+   "word": "it",
+   "start": 38.289,
+   "end": 38.345
+  },
+  {
+   "beat": "07",
+   "word": "is",
+   "start": 38.345,
+   "end": 38.459
+  },
+  {
+   "beat": "07",
+   "word": "optional.",
+   "start": 38.47,
+   "end": 39.039
+  },
+  {
+   "beat": "08",
+   "word": "Search",
+   "start": 40.114,
+   "end": 40.33
+  },
+  {
+   "beat": "08",
+   "word": "Saint",
+   "start": 40.341,
+   "end": 40.625
+  },
+  {
+   "beat": "08",
+   "word": "Match",
+   "start": 40.625,
+   "end": 41.023
+  },
+  {
+   "beat": "08",
+   "word": "on",
+   "start": 41.08,
+   "end": 41.148
+  },
+  {
+   "beat": "08",
+   "word": "the",
+   "start": 41.159,
+   "end": 41.216
+  },
+  {
+   "beat": "08",
+   "word": "App",
+   "start": 41.227,
+   "end": 41.42
+  },
+  {
+   "beat": "08",
+   "word": "Store.",
+   "start": 41.42,
+   "end": 41.807
+  },
+  {
+   "beat": "09",
+   "word": "Feel",
+   "start": 42.561,
+   "end": 42.743
+  },
+  {
+   "beat": "09",
+   "word": "it.",
+   "start": 42.743,
+   "end": 42.857
+  },
+  {
+   "beat": "09",
+   "word": "Match",
+   "start": 43.22,
+   "end": 43.436
+  },
+  {
+   "beat": "09",
+   "word": "a",
+   "start": 43.448,
+   "end": 43.493
+  },
+  {
+   "beat": "09",
+   "word": "saint",
+   "start": 43.493,
+   "end": 43.891
+  },
+  {
+   "beat": "09",
+   "word": "who",
+   "start": 43.902,
+   "end": 44.027
+  },
+  {
+   "beat": "09",
+   "word": "lived",
+   "start": 44.027,
+   "end": 44.357
+  },
+  {
+   "beat": "09",
+   "word": "it.",
+   "start": 44.368,
+   "end": 44.539
+  }
+ ]
+}

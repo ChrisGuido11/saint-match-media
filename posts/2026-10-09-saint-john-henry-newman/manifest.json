@@ -1,0 +1,40 @@
+{
+ "folder": "2026-10-09-saint-john-henry-newman",
+ "reel": null,
+ "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
+ "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
+ "wav_duration_s": 43.072,
+ "wav_md5": "6d53a5a81541b58adc9ce26066f2f527",
+ "wav_bytes": 3799030,
+ "stills": {
+  "beat-01.png": {
+   "md5": "a45bca34dadb803ac5cc11e1cb84d3f6",
+   "bytes": 1952513
+  },
+  "beat-02.png": {
+   "md5": "18ae3a17ef28f7007713528d354e8479",
+   "bytes": 1448430
+  },
+  "beat-03.png": {
+   "md5": "b2cd9d2a1d23ebe5d6d3d207e3ed4698",
+   "bytes": 1558534
+  },
+  "beat-04.png": {
+   "md5": "4729541e4f557a3c86f9d911a0d43329",
+   "bytes": 1420450
+  },
+  "beat-05.png": {
+   "md5": "09a5da41bda3966636cc320608177776",
+   "bytes": 1882639
+  },
+  "beat-06.png": {
+   "md5": "cdbc2e6a88f41c80c839d84833b0a3fe",
+   "bytes": 1489711
+  },
+  "beat-07.png": {
+   "md5": "5717f4cf761549d85240402b3b106d5a",
+   "bytes": 1352411
+  }
+ },
+ "endcard": "learn-feed-endcard.png"
+}

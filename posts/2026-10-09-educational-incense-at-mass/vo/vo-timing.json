@@ -1,0 +1,81 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "Why do Catholics use incense at Mass? Most people think it has been at Mass since the apostles, but the Catholic Encyclopedia says that during the first four centuries there is no evidence for its use. The General Instruction calls incensation an expression of reverence and of prayer, and incense may be used optionally in any form of Mass. Incensation at the Offertory comes in the eleventh century, at the Introit in the twelfth, and with the Elevation about the fourteenth. Three swings are used for the Most Blessed Sacrament and the people. Two swings incense images of the saints. Next time you see the smoke, it is reverence and prayer, and it is optional. Search Saint Match on the App Store. Feel it. Match a saint who lived it.",
+ "spoken_text": "Why do Catholics use incense at Mass? Most people think it has been at Mass since the apostles, but the Catholic Encyclopedia says that during the first four centuries there is no evidence for its use. The General Instruction calls incensation an expression of reverence and of prayer, and incense may be used optionally in any form of Mass. Incensation at the Offertory comes in the eleventh century, at the Introit in the twelfth, and with the Elevation about the fourteenth. Three swings are used for the Most Blessed Sacrament and the people. Two swings incense images of the saints. Next time you see the smoke, it is reverence and prayer, and it is optional. Search Saint Match on the App Store. Feel it. Match a saint who lived it.",
+ "spoken_respell": {},
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 44.539,
+ "wav_duration_s": 44.872,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "Why do Catholics use incense at Mass?",
+   "start_s": 0.091,
+   "end_s": 1.864,
+   "words": 7
+  },
+  {
+   "beat": "02",
+   "text": "Most people think it has been at Mass since the apostles, but the Catholic Encyclopedia says that during the first four centuries there is no evidence for its use.",
+   "start_s": 2.527,
+   "end_s": 10.914,
+   "words": 29
+  },
+  {
+   "beat": "03",
+   "text": "The General Instruction calls incensation an expression of reverence and of prayer, and incense may be used optionally in any form of Mass.",
+   "start_s": 11.577,
+   "end_s": 20.377,
+   "words": 23
+  },
+  {
+   "beat": "04",
+   "text": "Incensation at the Offertory comes in the eleventh century, at the Introit in the twelfth, and with the Elevation about the fourteenth.",
+   "start_s": 20.377,
+   "end_s": 26.707,
+   "words": 22
+  },
+  {
+   "beat": "05",
+   "text": "Three swings are used for the Most Blessed Sacrament and the people.",
+   "start_s": 27.405,
+   "end_s": 30.655,
+   "words": 12
+  },
+  {
+   "beat": "06",
+   "text": "Two swings incense images of the saints.",
+   "start_s": 31.318,
+   "end_s": 34.125,
+   "words": 7
+  },
+  {
+   "beat": "07",
+   "text": "Next time you see the smoke, it is reverence and prayer, and it is optional.",
+   "start_s": 34.789,
+   "end_s": 39.039,
+   "words": 15
+  },
+  {
+   "beat": "08",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 40.114,
+   "end_s": 41.807,
+   "words": 7
+  },
+  {
+   "beat": "09",
+   "text": "Feel it. Match a saint who lived it.",
+   "start_s": 42.561,
+   "end_s": 44.539,
+   "words": 8
+  }
+ ]
+}

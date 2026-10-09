@@ -1,0 +1,89 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "She died at Alba de Tormes in 1582. Her body was later reconveyed to Alba, where the Catholic Encyclopedia says it is still preserved incorrupt. Gregory XV canonized her in 1622. Day 4 of the Novena to St. Teresa of Avila. Eternal Father, by Your Holy Spirit, You raised up our peerless Mother, St. Teresa of Avila, to show Your Church the way to perfection. May her inspired teaching awaken in us a longing for true holiness. May these prayers of preparation for her feast keep us faithful to Christ and help us to work in the Church for the salvation of all mankind. Amen. Holy Mother St. Teresa, look down from heaven and see. Take care of this vine and protect what your right hand has planted. Let us pray: Lord, our God, watch over this religious family You nourish with the Bread from heaven. Help us to follow the example of our Holy Mother, St. Teresa, and sing Your merciful love forever. We ask this through Christ our Lord. Amen. Pray all nine days in the Saint Match app. Search Saint Match on the App Store.",
+ "spoken_text": "She died at Alba de Tormes in 1582. Her body was later reconveyed to Alba, where the Catholic Encyclopedia says it is still preserved incorrupt. Gregory XV canonized her in 1622. Day 4 of the Novena to St. Teresa of Avila. Eternal Father, by Your Holy Spirit, You raised up our peerless Mother, St. Teresa of Avila, to show Your Church the way to perfection. May her inspired teaching awaken in us a longing for true holiness. May these prayers of preparation for her feast keep us faithful to Christ and help us to work in the Church for the salvation of all mankind. Amen. Holy Mother St. Teresa, look down from heaven and see. Take care of this vine and protect what your right hand has planted. Let us pray: Lord, our God, watch over this religious family You nourish with the Bread from heaven. Help us to follow the example of our Holy Mother, St. Teresa, and sing Your merciful love forever. We ask this through Christ our Lord. Amen. Pray all nine days in the Saint Match app. Search Saint Match on the App Store.",
+ "spoken_respell": {},
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 73.595,
+ "wav_duration_s": 73.936,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "She died at Alba de Tormes in 1582. Her body was later reconveyed to Alba, where the Catholic Encyclopedia says it is still preserved incorrupt. Gregory XV canonized her in 1622.",
+   "start_s": 0.091,
+   "end_s": 13.295,
+   "words": 31
+  },
+  {
+   "beat": "02",
+   "text": "Day 4 of the Novena to St. Teresa of Avila.",
+   "start_s": 13.959,
+   "end_s": 17.039,
+   "words": 10
+  },
+  {
+   "beat": "03",
+   "text": "Eternal Father, by Your Holy Spirit, You raised up our peerless Mother, St. Teresa of Avila, to show Your Church the way to perfection.",
+   "start_s": 17.714,
+   "end_s": 26.634,
+   "words": 24
+  },
+  {
+   "beat": "04",
+   "text": "May her inspired teaching awaken in us a longing for true holiness. May these prayers of preparation for her feast keep us faithful to Christ and help us to work in the Church for the salvation of all mankind. Amen.",
+   "start_s": 27.298,
+   "end_s": 41.082,
+   "words": 40
+  },
+  {
+   "beat": "05",
+   "text": "Holy Mother St. Teresa, look down from heaven and see. Take care of this vine and protect what your right hand has planted.",
+   "start_s": 41.757,
+   "end_s": 48.439,
+   "words": 23
+  },
+  {
+   "beat": "06",
+   "text": "",
+   "start_s": 49.091,
+   "end_s": 52.091,
+   "words": 0,
+   "silent_hold_s": 3.0
+  },
+  {
+   "beat": "07",
+   "text": "Let us pray: Lord, our God, watch over this religious family You nourish with the Bread from heaven.",
+   "start_s": 52.091,
+   "end_s": 58.33,
+   "words": 18
+  },
+  {
+   "beat": "08",
+   "text": "Help us to follow the example of our Holy Mother, St. Teresa, and sing Your merciful love forever. We ask this through Christ our Lord. Amen.",
+   "start_s": 58.982,
+   "end_s": 68.277,
+   "words": 26
+  },
+  {
+   "beat": "09",
+   "text": "Pray all nine days in the Saint Match app.",
+   "start_s": 69.341,
+   "end_s": 71.295,
+   "words": 9
+  },
+  {
+   "beat": "10",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 71.959,
+   "end_s": 73.595,
+   "words": 7
+  }
+ ]
+}
