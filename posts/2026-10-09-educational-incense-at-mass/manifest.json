@@ -1,40 +1,56 @@
 {
- "folder": "2026-10-09-educational-incense-at-mass",
- "reel": null,
- "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
- "wav_duration_s": 44.872,
- "wav_md5": "3c0ce41997f02463debd1bca0e8cc82d",
- "wav_bytes": 3957790,
- "stills": {
-  "beat-01.png": {
-   "md5": "9af293e7b02ea6223047b61cc16046e3",
-   "bytes": 1995535
+  "folder": "2026-10-09-educational-incense-at-mass",
+  "reel": null,
+  "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
+  "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
+  "wav_duration_s": 44.872,
+  "wav_md5": "3c0ce41997f02463debd1bca0e8cc82d",
+  "wav_bytes": 3957790,
+  "stills": {
+    "beat-01.png": {
+      "md5": "9af293e7b02ea6223047b61cc16046e3",
+      "bytes": 1995535
+    },
+    "beat-02.png": {
+      "md5": "fcf6a57f5be8ea68e6476b4531a7875d",
+      "bytes": 1500264
+    },
+    "beat-03.png": {
+      "md5": "0545c3b936dbdf5cdbd1873df0ee5ea9",
+      "bytes": 1699282
+    },
+    "beat-04.png": {
+      "md5": "42862f5fe764ac46d5ccaff2d7f79fb9",
+      "bytes": 1644035
+    },
+    "beat-05.png": {
+      "md5": "4e9173be5b74f950a2ac10dd19e214c5",
+      "bytes": 1652162
+    },
+    "beat-06.png": {
+      "md5": "56499101c2b35c6edc6ae8223af9dea1",
+      "bytes": 1857907
+    },
+    "beat-07.png": {
+      "md5": "9e768e5bdad387e54acf6aa32f2cf5d3",
+      "bytes": 1848723
+    }
   },
-  "beat-02.png": {
-   "md5": "fcf6a57f5be8ea68e6476b4531a7875d",
-   "bytes": 1500264
-  },
-  "beat-03.png": {
-   "md5": "0545c3b936dbdf5cdbd1873df0ee5ea9",
-   "bytes": 1699282
-  },
-  "beat-04.png": {
-   "md5": "42862f5fe764ac46d5ccaff2d7f79fb9",
-   "bytes": 1644035
-  },
-  "beat-05.png": {
-   "md5": "4e9173be5b74f950a2ac10dd19e214c5",
-   "bytes": 1652162
-  },
-  "beat-06.png": {
-   "md5": "56499101c2b35c6edc6ae8223af9dea1",
-   "bytes": 1857907
-  },
-  "beat-07.png": {
-   "md5": "9e768e5bdad387e54acf6aa32f2cf5d3",
-   "bytes": 1848723
-  }
- },
- "endcard": "learn-feed-endcard.png"
+  "endcard": "learn-feed-endcard.png",
+  "files": [
+    {
+      "file": "incense-at-mass-imagine-andrew.mp4",
+      "md5": "5359d50607e910f91e66c513fbf1f36f",
+      "bytes": 44259722
+    }
+  ],
+  "review_reels": [
+    {
+      "file": "incense-at-mass-imagine-andrew.mp4",
+      "md5": "5359d50607e910f91e66c513fbf1f36f",
+      "duration_s": 48.667,
+      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "note": "Grok Bot Oct 9: raw Imagine clips 01-07 (411f399), VO re-voiced with free Andrew from the CORRECTED draft (final gate 2026-10-08 Roman-rite and GIRM 277 lines), Mass. respelled so TTS does not say Massachusetts, Learn the Faith feed end card, karaoke, lean2 build."
+    }
+  ]
 }
