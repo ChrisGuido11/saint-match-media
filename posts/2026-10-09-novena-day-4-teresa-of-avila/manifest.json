@@ -43,6 +43,11 @@
   "endcard": "novena-endcard-st-teresa-of-avila.png",
   "files": [
     {
+      "file": "novena-day-4-teresa-of-avila-kenburns-andrew-v2.mp4",
+      "md5": "edbd4391498cb4010d411e8047ede4dc",
+      "bytes": 47750335
+    },
+    {
       "file": "novena-day-4-teresa-of-avila-kenburns-andrew.mp4",
       "md5": "d2544ebb4dd08468ec1c7affa40217da",
       "bytes": 47766010
@@ -55,6 +60,13 @@
       "duration_s": 73.533,
       "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
       "note": "Grok Bot Oct 9: still + smooth Ken Burns (no Imagine clips: weekly limit), sourced hook beat 01, full Day 4 prayer verbatim, free Andrew +10%, 3 s petition card, novena end card novena-endcard-st-teresa-of-avila.png (live scroll layout, App Store only), karaoke, lean2 build."
+    },
+    {
+      "file": "novena-day-4-teresa-of-avila-kenburns-andrew-v2.mp4",
+      "md5": "edbd4391498cb4010d411e8047ede4dc",
+      "duration_s": 73.533,
+      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "note": "v2: same reel, only the end card swapped (tail re-encode from frame 1993) to novena-endcard-st-teresa-of-avila-day-4.png (DAY 4 OF 9 capture). Gate pending Chris."
     }
   ]
 }

@@ -35,6 +35,11 @@
   "endcard": "learn-feed-endcard.png",
   "files": [
     {
+      "file": "novena-day-1-john-paul-ii-kenburns-andrew-v2.mp4",
+      "md5": "6fbc4eb9e3c133d9638177183d754d9a",
+      "bytes": 76644895
+    },
+    {
       "file": "novena-day-1-john-paul-ii-kenburns-andrew.mp4",
       "md5": "bde6da6324fb7e79a989eae57027e2c9",
       "bytes": 77273799
@@ -47,6 +52,13 @@
       "duration_s": 117.833,
       "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
       "note": "Grok Bot Oct 9: stills + smooth Ken Burns (no Imagine clips), EWTN-sourced Floribet Mora hook (beats 01-02), Day 1 prayer verbatim from praymorenovenas.com (= app traditionalNovenas.ts Day 1), Hail Mary and Glory Be expanded, free Andrew, 3 s intentions card, generic novena-endcard.png. KNOWN ISSUE: generic card shows the St. Teresa of Avila screen; needs a JPII card before ship."
+    },
+    {
+      "file": "novena-day-1-john-paul-ii-kenburns-andrew-v2.mp4",
+      "md5": "6fbc4eb9e3c133d9638177183d754d9a",
+      "duration_s": 117.833,
+      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "note": "v2: same reel, only the end card swapped (tail re-encode from frame 3150) to novena-endcard-st-john-paul-ii.png (JPII Day 1 capture, title line with hyphen removed). Gate pending Chris."
     }
   ]
 }
