@@ -1,36 +1,52 @@
 {
- "folder": "2026-10-13-novena-john-paul-ii",
- "reel": null,
- "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
- "wav_duration_s": 41.356,
- "wav_md5": "515db183287cc3ddef300f40b9bceb36",
- "wav_bytes": 3647678,
- "stills": {
-  "beat-01.png": {
-   "md5": "690e04f10986bee42ad587374f5963c7",
-   "bytes": 1861025
+  "folder": "2026-10-13-novena-john-paul-ii",
+  "reel": null,
+  "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
+  "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
+  "wav_duration_s": 41.356,
+  "wav_md5": "515db183287cc3ddef300f40b9bceb36",
+  "wav_bytes": 3647678,
+  "stills": {
+    "beat-01.png": {
+      "md5": "690e04f10986bee42ad587374f5963c7",
+      "bytes": 1861025
+    },
+    "beat-02.png": {
+      "md5": "5640b96f9a2134422a2dfa705717f88b",
+      "bytes": 1284618
+    },
+    "beat-03.png": {
+      "md5": "21939b27db1ac6f276e0cb806eb0abf7",
+      "bytes": 2564681
+    },
+    "beat-04.png": {
+      "md5": "ff88ded0c29975fc9852798c6f5617fc",
+      "bytes": 1157380
+    },
+    "beat-05.png": {
+      "md5": "b31b11c4fe914fcead86853f6610fb55",
+      "bytes": 1650105
+    },
+    "beat-06.png": {
+      "md5": "4c85dd9ed95c243a2ae045309cf4e797",
+      "bytes": 1664666
+    }
   },
-  "beat-02.png": {
-   "md5": "5640b96f9a2134422a2dfa705717f88b",
-   "bytes": 1284618
-  },
-  "beat-03.png": {
-   "md5": "21939b27db1ac6f276e0cb806eb0abf7",
-   "bytes": 2564681
-  },
-  "beat-04.png": {
-   "md5": "ff88ded0c29975fc9852798c6f5617fc",
-   "bytes": 1157380
-  },
-  "beat-05.png": {
-   "md5": "b31b11c4fe914fcead86853f6610fb55",
-   "bytes": 1650105
-  },
-  "beat-06.png": {
-   "md5": "4c85dd9ed95c243a2ae045309cf4e797",
-   "bytes": 1664666
-  }
- },
- "endcard": "learn-feed-endcard.png"
+  "endcard": "learn-feed-endcard.png",
+  "files": [
+    {
+      "file": "novena-day-1-john-paul-ii-kenburns-andrew.mp4",
+      "md5": "bde6da6324fb7e79a989eae57027e2c9",
+      "bytes": 77273799
+    }
+  ],
+  "review_reels": [
+    {
+      "file": "novena-day-1-john-paul-ii-kenburns-andrew.mp4",
+      "md5": "bde6da6324fb7e79a989eae57027e2c9",
+      "duration_s": 117.833,
+      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "note": "Grok Bot Oct 9: stills + smooth Ken Burns (no Imagine clips), EWTN-sourced Floribet Mora hook (beats 01-02), Day 1 prayer verbatim from praymorenovenas.com (= app traditionalNovenas.ts Day 1), Hail Mary and Glory Be expanded, free Andrew, 3 s intentions card, generic novena-endcard.png. KNOWN ISSUE: generic card shows the St. Teresa of Avila screen; needs a JPII card before ship."
+    }
+  ]
 }
