@@ -1,68 +1,84 @@
 {
- "folder": "2026-10-09-gospel-luke-11-15-26",
- "reel": null,
- "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
- "wav_duration_s": 91.964,
- "wav_md5": "3527a532f866e7186f4383664d75e712",
- "wav_bytes": 8111304,
- "stills": {
-  "beat-01.png": {
-   "md5": "5017d0bc5187f533a12f6347fc73d7b3",
-   "bytes": 1514729
+  "folder": "2026-10-09-gospel-luke-11-15-26",
+  "reel": null,
+  "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
+  "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
+  "wav_duration_s": 91.964,
+  "wav_md5": "3527a532f866e7186f4383664d75e712",
+  "wav_bytes": 8111304,
+  "stills": {
+    "beat-01.png": {
+      "md5": "5017d0bc5187f533a12f6347fc73d7b3",
+      "bytes": 1514729
+    },
+    "beat-02.png": {
+      "md5": "edefc9eb6dc842c85a3bfa0e57ea31b9",
+      "bytes": 1884449
+    },
+    "beat-03.png": {
+      "md5": "f621f3739b12973d6a5c1b62f5b545d7",
+      "bytes": 1531334
+    },
+    "beat-04.png": {
+      "md5": "0e0ae068d7e8d3312235f0d67174d4c7",
+      "bytes": 1848208
+    },
+    "beat-05.png": {
+      "md5": "c0d29b804be99ca311d20f65687272f6",
+      "bytes": 1711219
+    },
+    "beat-06.png": {
+      "md5": "2f0198c3a25e1ebc916e3c8cef662c2e",
+      "bytes": 1713998
+    },
+    "beat-07.png": {
+      "md5": "c8a124840c83c7366b553b8dc42bb6f2",
+      "bytes": 1833342
+    },
+    "beat-08.png": {
+      "md5": "d33283fd9a9e29462c518f3a8179facc",
+      "bytes": 1928418
+    },
+    "beat-09.png": {
+      "md5": "f26730123aec94d59f04dcceb8a220be",
+      "bytes": 1756809
+    },
+    "beat-10.png": {
+      "md5": "4f563bcd9e76cb67ee6d15dd2e8b6a1d",
+      "bytes": 1745240
+    },
+    "beat-11.png": {
+      "md5": "a69a8d54ad60d4642a9b30070db09f69",
+      "bytes": 1876519
+    },
+    "beat-12.png": {
+      "md5": "842de7ad7c2a7fe78fdddfe3e767b1d7",
+      "bytes": 1712325
+    },
+    "beat-13.png": {
+      "md5": "e6c5db860d0aecc5da0b7a4dad8f2274",
+      "bytes": 1527888
+    },
+    "beat-14.png": {
+      "md5": "ba2f28fc7dbebc11d87c997cb489674d",
+      "bytes": 1793800
+    }
   },
-  "beat-02.png": {
-   "md5": "edefc9eb6dc842c85a3bfa0e57ea31b9",
-   "bytes": 1884449
-  },
-  "beat-03.png": {
-   "md5": "f621f3739b12973d6a5c1b62f5b545d7",
-   "bytes": 1531334
-  },
-  "beat-04.png": {
-   "md5": "0e0ae068d7e8d3312235f0d67174d4c7",
-   "bytes": 1848208
-  },
-  "beat-05.png": {
-   "md5": "c0d29b804be99ca311d20f65687272f6",
-   "bytes": 1711219
-  },
-  "beat-06.png": {
-   "md5": "2f0198c3a25e1ebc916e3c8cef662c2e",
-   "bytes": 1713998
-  },
-  "beat-07.png": {
-   "md5": "c8a124840c83c7366b553b8dc42bb6f2",
-   "bytes": 1833342
-  },
-  "beat-08.png": {
-   "md5": "d33283fd9a9e29462c518f3a8179facc",
-   "bytes": 1928418
-  },
-  "beat-09.png": {
-   "md5": "f26730123aec94d59f04dcceb8a220be",
-   "bytes": 1756809
-  },
-  "beat-10.png": {
-   "md5": "4f563bcd9e76cb67ee6d15dd2e8b6a1d",
-   "bytes": 1745240
-  },
-  "beat-11.png": {
-   "md5": "a69a8d54ad60d4642a9b30070db09f69",
-   "bytes": 1876519
-  },
-  "beat-12.png": {
-   "md5": "842de7ad7c2a7fe78fdddfe3e767b1d7",
-   "bytes": 1712325
-  },
-  "beat-13.png": {
-   "md5": "e6c5db860d0aecc5da0b7a4dad8f2274",
-   "bytes": 1527888
-  },
-  "beat-14.png": {
-   "md5": "ba2f28fc7dbebc11d87c997cb489674d",
-   "bytes": 1793800
-  }
- },
- "endcard": "learn-feed-endcard.png"
+  "endcard": "learn-feed-endcard.png",
+  "files": [
+    {
+      "file": "luke-11-15-26-imagine-andrew.mp4",
+      "md5": "14c88cac3e1c841fab7d211b19fc6465",
+      "bytes": 85053075
+    }
+  ],
+  "review_reels": [
+    {
+      "file": "luke-11-15-26-imagine-andrew.mp4",
+      "md5": "14c88cac3e1c841fab7d211b19fc6465",
+      "duration_s": 92.367,
+      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "note": "Oct 9 Gospel Luke 11:15-26, raw Imagine clips (beat 12 still Ken Burns because the clip adds a veiled figure; beat 01 first 2.4 s only), USCCB verbatim VO, free Andrew, Learn feed end card. Gate pending Chris."
+    }
+  ]
 }
