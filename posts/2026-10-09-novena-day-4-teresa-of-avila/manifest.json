@@ -1,44 +1,60 @@
 {
- "folder": "2026-10-09-novena-day-4-teresa-of-avila",
- "reel": null,
- "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
- "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (Andrew only, NOVENA-ANDREW, no ElevenLabs call)",
- "wav_duration_s": 73.936,
- "wav_md5": "c9ab59d8c4df1844f2fbdfd27bca6ae6",
- "wav_bytes": 6521234,
- "stills": {
-  "beat-01.png": {
-   "md5": "f51b0fcc891d1e223e16aedff107128e",
-   "bytes": 1853630
+  "folder": "2026-10-09-novena-day-4-teresa-of-avila",
+  "reel": null,
+  "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
+  "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (Andrew only, NOVENA-ANDREW, no ElevenLabs call)",
+  "wav_duration_s": 73.936,
+  "wav_md5": "c9ab59d8c4df1844f2fbdfd27bca6ae6",
+  "wav_bytes": 6521234,
+  "stills": {
+    "beat-01.png": {
+      "md5": "f51b0fcc891d1e223e16aedff107128e",
+      "bytes": 1853630
+    },
+    "beat-02.png": {
+      "md5": "f8dc36dae8992ef76b4fa246a4e89757",
+      "bytes": 2220731
+    },
+    "beat-03.png": {
+      "md5": "68127e9f2ae50455bbca562672768347",
+      "bytes": 2081107
+    },
+    "beat-04.png": {
+      "md5": "3ec1a74519a5ab0f431feadc37ffd80b",
+      "bytes": 1519865
+    },
+    "beat-05.png": {
+      "md5": "be52a2e36f59ea3595b1c23a0ec506ba",
+      "bytes": 2430606
+    },
+    "beat-06.png": {
+      "md5": "4f27ba3f84ce7d221c1c1acc6e605abb",
+      "bytes": 1662636
+    },
+    "beat-07.png": {
+      "md5": "dac196e0028e91053e71df95e6ca7245",
+      "bytes": 1646965
+    },
+    "beat-08.png": {
+      "md5": "c989b5bf11f01b7dea5b464850df0fdd",
+      "bytes": 1446122
+    }
   },
-  "beat-02.png": {
-   "md5": "f8dc36dae8992ef76b4fa246a4e89757",
-   "bytes": 2220731
-  },
-  "beat-03.png": {
-   "md5": "68127e9f2ae50455bbca562672768347",
-   "bytes": 2081107
-  },
-  "beat-04.png": {
-   "md5": "3ec1a74519a5ab0f431feadc37ffd80b",
-   "bytes": 1519865
-  },
-  "beat-05.png": {
-   "md5": "be52a2e36f59ea3595b1c23a0ec506ba",
-   "bytes": 2430606
-  },
-  "beat-06.png": {
-   "md5": "4f27ba3f84ce7d221c1c1acc6e605abb",
-   "bytes": 1662636
-  },
-  "beat-07.png": {
-   "md5": "dac196e0028e91053e71df95e6ca7245",
-   "bytes": 1646965
-  },
-  "beat-08.png": {
-   "md5": "c989b5bf11f01b7dea5b464850df0fdd",
-   "bytes": 1446122
-  }
- },
- "endcard": "novena-endcard-st-teresa-of-avila.png"
+  "endcard": "novena-endcard-st-teresa-of-avila.png",
+  "files": [
+    {
+      "file": "novena-day-4-teresa-of-avila-kenburns-andrew.mp4",
+      "md5": "d2544ebb4dd08468ec1c7affa40217da",
+      "bytes": 47766010
+    }
+  ],
+  "review_reels": [
+    {
+      "file": "novena-day-4-teresa-of-avila-kenburns-andrew.mp4",
+      "md5": "d2544ebb4dd08468ec1c7affa40217da",
+      "duration_s": 73.533,
+      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "note": "Grok Bot Oct 9: still + smooth Ken Burns (no Imagine clips: weekly limit), sourced hook beat 01, full Day 4 prayer verbatim, free Andrew +10%, 3 s petition card, novena end card novena-endcard-st-teresa-of-avila.png (live scroll layout, App Store only), karaoke, lean2 build."
+    }
+  ]
 }
