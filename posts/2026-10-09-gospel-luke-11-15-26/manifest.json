@@ -1,6 +1,6 @@
 {
   "folder": "2026-10-09-gospel-luke-11-15-26",
-  "reel": null,
+  "reel": "luke-11-15-26-imagine-andrew.mp4",
   "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
   "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
   "wav_duration_s": 91.964,
@@ -77,8 +77,9 @@
       "file": "luke-11-15-26-imagine-andrew.mp4",
       "md5": "14c88cac3e1c841fab7d211b19fc6465",
       "duration_s": 92.367,
-      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "status": "SHIPPED: Chris final gate PASS 2026-10-09; Buffer scheduled 2026-10-09 12:17 PM PT",
       "note": "Oct 9 Gospel Luke 11:15-26, raw Imagine clips (beat 12 still Ken Burns because the clip adds a veiled figure; beat 01 first 2.4 s only), USCCB verbatim VO, free Andrew, Learn feed end card. Gate pending Chris."
     }
-  ]
+  ],
+  "duration_s": 92.367
 }

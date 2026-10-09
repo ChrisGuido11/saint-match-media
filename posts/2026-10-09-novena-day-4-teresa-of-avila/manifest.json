@@ -1,6 +1,6 @@
 {
   "folder": "2026-10-09-novena-day-4-teresa-of-avila",
-  "reel": null,
+  "reel": "novena-day-4-teresa-of-avila-kenburns-andrew-v2.mp4",
   "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
   "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (Andrew only, NOVENA-ANDREW, no ElevenLabs call)",
   "wav_duration_s": 73.936,
@@ -65,8 +65,9 @@
       "file": "novena-day-4-teresa-of-avila-kenburns-andrew-v2.mp4",
       "md5": "edbd4391498cb4010d411e8047ede4dc",
       "duration_s": 73.533,
-      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "status": "SHIPPED: Chris final gate PASS 2026-10-09; Buffer scheduled 2026-10-09 7:47 PM PT",
       "note": "v2: same reel, only the end card swapped (tail re-encode from frame 1993) to novena-endcard-st-teresa-of-avila-day-4.png (DAY 4 OF 9 capture). Gate pending Chris."
     }
-  ]
+  ],
+  "duration_s": 73.533
 }

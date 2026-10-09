@@ -1,6 +1,6 @@
 {
   "folder": "2026-10-09-saint-john-henry-newman",
-  "reel": null,
+  "reel": "saint-john-henry-newman-kenburns-andrew.mp4",
   "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
   "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
   "wav_duration_s": 43.072,
@@ -49,8 +49,9 @@
       "file": "saint-john-henry-newman-kenburns-andrew.mp4",
       "md5": "72a9150298eb3b6990768a71921e5179",
       "duration_s": 43.467,
-      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "status": "SHIPPED: Chris final gate PASS 2026-10-09; Buffer scheduled 2026-10-09 3:17 PM PT",
       "note": "Grok Bot Oct 9: repainted clean-shaven stills (a7cadcb lock) + smooth Ken Burns (no Imagine clips), Sicily sickroom hook, free Andrew (ElevenLabs Luis not called), Learn the Faith feed end card, karaoke, lean2 build."
     }
-  ]
+  ],
+  "duration_s": 43.467
 }

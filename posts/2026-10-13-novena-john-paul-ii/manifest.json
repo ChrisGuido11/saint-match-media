@@ -1,6 +1,6 @@
 {
   "folder": "2026-10-13-novena-john-paul-ii",
-  "reel": null,
+  "reel": "novena-day-1-john-paul-ii-kenburns-andrew-v2.mp4",
   "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
   "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
   "wav_duration_s": 41.356,
@@ -57,8 +57,9 @@
       "file": "novena-day-1-john-paul-ii-kenburns-andrew-v2.mp4",
       "md5": "6fbc4eb9e3c133d9638177183d754d9a",
       "duration_s": 117.833,
-      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "status": "SHIPPED: Chris final gate PASS 2026-10-09; Buffer scheduled 2026-10-13 7:47 PM PT",
       "note": "v2: same reel, only the end card swapped (tail re-encode from frame 3150) to novena-endcard-st-john-paul-ii.png (JPII Day 1 capture, title line with hyphen removed). Gate pending Chris."
     }
-  ]
+  ],
+  "duration_s": 117.833
 }

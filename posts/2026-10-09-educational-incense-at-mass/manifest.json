@@ -1,6 +1,6 @@
 {
   "folder": "2026-10-09-educational-incense-at-mass",
-  "reel": null,
+  "reel": "incense-at-mass-imagine-andrew.mp4",
   "motion": "FAIL: Imagine not available on this VM; waiting on Chris or Grok Bot",
   "voice": "edge-tts en-US-AndrewMultilingualNeural +10% (ElevenLabs key missing, VOICE-FALLBACK)",
   "wav_duration_s": 44.872,
@@ -49,8 +49,9 @@
       "file": "incense-at-mass-imagine-andrew.mp4",
       "md5": "5359d50607e910f91e66c513fbf1f36f",
       "duration_s": 48.667,
-      "status": "HELD for Chris final gate (not in Buffer, not in app manifest)",
+      "status": "SHIPPED: Chris final gate PASS 2026-10-09; Buffer scheduled 2026-10-09 5:17 PM PT",
       "note": "Grok Bot Oct 9: raw Imagine clips 01-07 (411f399), VO re-voiced with free Andrew from the CORRECTED draft (final gate 2026-10-08 Roman-rite and GIRM 277 lines), Mass. respelled so TTS does not say Massachusetts, Learn the Faith feed end card, karaoke, lean2 build."
     }
-  ]
+  ],
+  "duration_s": 48.667
 }
