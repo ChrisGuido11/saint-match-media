@@ -1,0 +1,779 @@
+{
+ "duration": 42.076009,
+ "words": [
+  {
+   "beat": "01",
+   "word": "Why",
+   "start": 0.08,
+   "end": 0.182
+  },
+  {
+   "beat": "01",
+   "word": "do",
+   "start": 0.182,
+   "end": 0.295
+  },
+  {
+   "beat": "01",
+   "word": "Catholics",
+   "start": 0.295,
+   "end": 0.841
+  },
+  {
+   "beat": "01",
+   "word": "mix",
+   "start": 0.852,
+   "end": 1.057
+  },
+  {
+   "beat": "01",
+   "word": "water",
+   "start": 1.068,
+   "end": 1.318
+  },
+  {
+   "beat": "01",
+   "word": "with",
+   "start": 1.318,
+   "end": 1.409
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 1.409,
+   "end": 1.477
+  },
+  {
+   "beat": "01",
+   "word": "wine?",
+   "start": 1.489,
+   "end": 1.841
+  },
+  {
+   "beat": "02",
+   "word": "Most",
+   "start": 2.505,
+   "end": 2.664
+  },
+  {
+   "beat": "02",
+   "word": "people",
+   "start": 2.664,
+   "end": 2.902
+  },
+  {
+   "beat": "02",
+   "word": "think",
+   "start": 2.902,
+   "end": 3.186
+  },
+  {
+   "beat": "02",
+   "word": "that",
+   "start": 3.186,
+   "end": 3.368
+  },
+  {
+   "beat": "02",
+   "word": "drop",
+   "start": 3.368,
+   "end": 3.698
+  },
+  {
+   "beat": "02",
+   "word": "only",
+   "start": 3.811,
+   "end": 4.061
+  },
+  {
+   "beat": "02",
+   "word": "thins",
+   "start": 4.061,
+   "end": 4.459
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 4.459,
+   "end": 4.55
+  },
+  {
+   "beat": "02",
+   "word": "wine,",
+   "start": 4.55,
+   "end": 4.959
+  },
+  {
+   "beat": "02",
+   "word": "but",
+   "start": 5.164,
+   "end": 5.255
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 5.266,
+   "end": 5.334
+  },
+  {
+   "beat": "02",
+   "word": "prayer",
+   "start": 5.334,
+   "end": 5.72
+  },
+  {
+   "beat": "02",
+   "word": "starts,",
+   "start": 5.732,
+   "end": 6.357
+  },
+  {
+   "beat": "02",
+   "word": "By",
+   "start": 6.38,
+   "end": 6.505
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 6.505,
+   "end": 6.573
+  },
+  {
+   "beat": "02",
+   "word": "mystery",
+   "start": 6.584,
+   "end": 7.198
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 7.198,
+   "end": 7.289
+  },
+  {
+   "beat": "02",
+   "word": "this",
+   "start": 7.289,
+   "end": 7.436
+  },
+  {
+   "beat": "02",
+   "word": "water.",
+   "start": 7.436,
+   "end": 7.902
+  },
+  {
+   "beat": "03",
+   "word": "At",
+   "start": 8.577,
+   "end": 8.634
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 8.634,
+   "end": 8.702
+  },
+  {
+   "beat": "03",
+   "word": "side",
+   "start": 8.714,
+   "end": 8.941
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 8.941,
+   "end": 8.986
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 8.986,
+   "end": 9.055
+  },
+  {
+   "beat": "03",
+   "word": "altar",
+   "start": 9.066,
+   "end": 9.441
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 9.441,
+   "end": 9.52
+  },
+  {
+   "beat": "03",
+   "word": "priest",
+   "start": 9.532,
+   "end": 9.873
+  },
+  {
+   "beat": "03",
+   "word": "pours",
+   "start": 9.873,
+   "end": 10.18
+  },
+  {
+   "beat": "03",
+   "word": "wine",
+   "start": 10.18,
+   "end": 10.657
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 10.793,
+   "end": 10.884
+  },
+  {
+   "beat": "03",
+   "word": "a",
+   "start": 10.884,
+   "end": 10.952
+  },
+  {
+   "beat": "03",
+   "word": "little",
+   "start": 10.952,
+   "end": 11.248
+  },
+  {
+   "beat": "03",
+   "word": "water",
+   "start": 11.259,
+   "end": 11.657
+  },
+  {
+   "beat": "03",
+   "word": "into",
+   "start": 11.668,
+   "end": 11.805
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 11.805,
+   "end": 11.873
+  },
+  {
+   "beat": "03",
+   "word": "chalice,",
+   "start": 11.884,
+   "end": 12.475
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 12.816,
+   "end": 12.873
+  },
+  {
+   "beat": "03",
+   "word": "he",
+   "start": 12.873,
+   "end": 12.952
+  },
+  {
+   "beat": "03",
+   "word": "says",
+   "start": 12.952,
+   "end": 13.236
+  },
+  {
+   "beat": "03",
+   "word": "that",
+   "start": 13.236,
+   "end": 13.395
+  },
+  {
+   "beat": "03",
+   "word": "prayer",
+   "start": 13.395,
+   "end": 13.805
+  },
+  {
+   "beat": "03",
+   "word": "quietly.",
+   "start": 13.816,
+   "end": 14.441
+  },
+  {
+   "beat": "04",
+   "word": "Justin",
+   "start": 15.116,
+   "end": 15.423
+  },
+  {
+   "beat": "04",
+   "word": "Martyr's",
+   "start": 15.434,
+   "end": 15.798
+  },
+  {
+   "beat": "04",
+   "word": "First",
+   "start": 15.809,
+   "end": 16.139
+  },
+  {
+   "beat": "04",
+   "word": "Apology,",
+   "start": 16.139,
+   "end": 16.661
+  },
+  {
+   "beat": "04",
+   "word": "chapter",
+   "start": 16.866,
+   "end": 17.275
+  },
+  {
+   "beat": "04",
+   "word": "65,",
+   "start": 17.275,
+   "end": 18.002
+  },
+  {
+   "beat": "04",
+   "word": "says",
+   "start": 18.355,
+   "end": 18.548
+  },
+  {
+   "beat": "04",
+   "word": "there",
+   "start": 18.559,
+   "end": 18.707
+  },
+  {
+   "beat": "04",
+   "word": "is",
+   "start": 18.707,
+   "end": 18.798
+  },
+  {
+   "beat": "04",
+   "word": "then",
+   "start": 18.809,
+   "end": 19.002
+  },
+  {
+   "beat": "04",
+   "word": "brought",
+   "start": 19.014,
+   "end": 19.389
+  },
+  {
+   "beat": "04",
+   "word": "bread",
+   "start": 19.4,
+   "end": 19.809
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 20.105,
+   "end": 20.195
+  },
+  {
+   "beat": "04",
+   "word": "a",
+   "start": 20.195,
+   "end": 20.241
+  },
+  {
+   "beat": "04",
+   "word": "cup",
+   "start": 20.241,
+   "end": 20.445
+  },
+  {
+   "beat": "04",
+   "word": "of",
+   "start": 20.445,
+   "end": 20.548
+  },
+  {
+   "beat": "04",
+   "word": "wine",
+   "start": 20.559,
+   "end": 20.934
+  },
+  {
+   "beat": "04",
+   "word": "mixed",
+   "start": 20.945,
+   "end": 21.241
+  },
+  {
+   "beat": "04",
+   "word": "with",
+   "start": 21.241,
+   "end": 21.343
+  },
+  {
+   "beat": "04",
+   "word": "water.",
+   "start": 21.343,
+   "end": 21.82
+  },
+  {
+   "beat": "05",
+   "word": "He",
+   "start": 22.473,
+   "end": 22.552
+  },
+  {
+   "beat": "05",
+   "word": "addressed",
+   "start": 22.552,
+   "end": 23.086
+  },
+  {
+   "beat": "05",
+   "word": "that",
+   "start": 23.2,
+   "end": 23.291
+  },
+  {
+   "beat": "05",
+   "word": "apology",
+   "start": 23.291,
+   "end": 23.87
+  },
+  {
+   "beat": "05",
+   "word": "to",
+   "start": 23.882,
+   "end": 23.984
+  },
+  {
+   "beat": "05",
+   "word": "the",
+   "start": 23.984,
+   "end": 24.086
+  },
+  {
+   "beat": "05",
+   "word": "emperor",
+   "start": 24.143,
+   "end": 24.53
+  },
+  {
+   "beat": "05",
+   "word": "Antoninus",
+   "start": 24.609,
+   "end": 25.03
+  },
+  {
+   "beat": "05",
+   "word": "Pius.",
+   "start": 25.041,
+   "end": 25.632
+  },
+  {
+   "beat": "06",
+   "word": "Next",
+   "start": 26.307,
+   "end": 26.432
+  },
+  {
+   "beat": "06",
+   "word": "time",
+   "start": 26.432,
+   "end": 26.557
+  },
+  {
+   "beat": "06",
+   "word": "you",
+   "start": 26.568,
+   "end": 26.659
+  },
+  {
+   "beat": "06",
+   "word": "see",
+   "start": 26.659,
+   "end": 26.898
+  },
+  {
+   "beat": "06",
+   "word": "the",
+   "start": 26.898,
+   "end": 26.977
+  },
+  {
+   "beat": "06",
+   "word": "drop,",
+   "start": 26.977,
+   "end": 27.375
+  },
+  {
+   "beat": "06",
+   "word": "it",
+   "start": 27.636,
+   "end": 27.705
+  },
+  {
+   "beat": "06",
+   "word": "belongs",
+   "start": 27.705,
+   "end": 28.057
+  },
+  {
+   "beat": "06",
+   "word": "to",
+   "start": 28.057,
+   "end": 28.148
+  },
+  {
+   "beat": "06",
+   "word": "a",
+   "start": 28.148,
+   "end": 28.227
+  },
+  {
+   "beat": "06",
+   "word": "prayer",
+   "start": 28.227,
+   "end": 28.614
+  },
+  {
+   "beat": "06",
+   "word": "said",
+   "start": 28.625,
+   "end": 28.955
+  },
+  {
+   "beat": "06",
+   "word": "quietly.",
+   "start": 29.011,
+   "end": 29.727
+  },
+  {
+   "beat": "07",
+   "word": "Send",
+   "start": 30.402,
+   "end": 30.63
+  },
+  {
+   "beat": "07",
+   "word": "this",
+   "start": 30.63,
+   "end": 30.857
+  },
+  {
+   "beat": "07",
+   "word": "to",
+   "start": 30.868,
+   "end": 30.97
+  },
+  {
+   "beat": "07",
+   "word": "someone",
+   "start": 30.97,
+   "end": 31.334
+  },
+  {
+   "beat": "07",
+   "word": "who",
+   "start": 31.334,
+   "end": 31.402
+  },
+  {
+   "beat": "07",
+   "word": "has",
+   "start": 31.402,
+   "end": 31.55
+  },
+  {
+   "beat": "07",
+   "word": "watched",
+   "start": 31.561,
+   "end": 31.959
+  },
+  {
+   "beat": "07",
+   "word": "that",
+   "start": 31.959,
+   "end": 32.13
+  },
+  {
+   "beat": "07",
+   "word": "drop",
+   "start": 32.13,
+   "end": 32.516
+  },
+  {
+   "beat": "07",
+   "word": "and",
+   "start": 32.766,
+   "end": 32.925
+  },
+  {
+   "beat": "07",
+   "word": "never",
+   "start": 32.936,
+   "end": 33.141
+  },
+  {
+   "beat": "07",
+   "word": "heard",
+   "start": 33.141,
+   "end": 33.323
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 33.334,
+   "end": 33.391
+  },
+  {
+   "beat": "07",
+   "word": "words.",
+   "start": 33.391,
+   "end": 33.868
+  },
+  {
+   "beat": "08",
+   "word": "Search",
+   "start": 34.943,
+   "end": 35.148
+  },
+  {
+   "beat": "08",
+   "word": "Saint",
+   "start": 35.148,
+   "end": 35.42
+  },
+  {
+   "beat": "08",
+   "word": "Match",
+   "start": 35.432,
+   "end": 35.875
+  },
+  {
+   "beat": "08",
+   "word": "on",
+   "start": 35.955,
+   "end": 36.023
+  },
+  {
+   "beat": "08",
+   "word": "the",
+   "start": 36.023,
+   "end": 36.08
+  },
+  {
+   "beat": "08",
+   "word": "App",
+   "start": 36.091,
+   "end": 36.307
+  },
+  {
+   "beat": "08",
+   "word": "Store.",
+   "start": 36.307,
+   "end": 36.682
+  },
+  {
+   "beat": "09",
+   "word": "Feel",
+   "start": 37.425,
+   "end": 37.618
+  },
+  {
+   "beat": "09",
+   "word": "it.",
+   "start": 37.618,
+   "end": 37.743
+  },
+  {
+   "beat": "09",
+   "word": "Match",
+   "start": 38.107,
+   "end": 38.289
+  },
+  {
+   "beat": "09",
+   "word": "a",
+   "start": 38.3,
+   "end": 38.345
+  },
+  {
+   "beat": "09",
+   "word": "saint",
+   "start": 38.357,
+   "end": 38.755
+  },
+  {
+   "beat": "09",
+   "word": "who",
+   "start": 38.755,
+   "end": 38.868
+  },
+  {
+   "beat": "09",
+   "word": "lived",
+   "start": 38.88,
+   "end": 39.186
+  },
+  {
+   "beat": "09",
+   "word": "it.",
+   "start": 39.186,
+   "end": 39.357
+  },
+  {
+   "beat": "10",
+   "word": "Why",
+   "start": 40.02,
+   "end": 40.111
+  },
+  {
+   "beat": "10",
+   "word": "do",
+   "start": 40.111,
+   "end": 40.214
+  },
+  {
+   "beat": "10",
+   "word": "Catholics",
+   "start": 40.214,
+   "end": 40.759
+  },
+  {
+   "beat": "10",
+   "word": "mix",
+   "start": 40.77,
+   "end": 40.952
+  },
+  {
+   "beat": "10",
+   "word": "water",
+   "start": 40.952,
+   "end": 41.236
+  },
+  {
+   "beat": "10",
+   "word": "with",
+   "start": 41.236,
+   "end": 41.316
+  },
+  {
+   "beat": "10",
+   "word": "the",
+   "start": 41.316,
+   "end": 41.395
+  },
+  {
+   "beat": "10",
+   "word": "wine?",
+   "start": 41.395,
+   "end": 41.748
+  }
+ ]
+}

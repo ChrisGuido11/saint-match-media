@@ -1,0 +1,74 @@
+{
+  "folder": "2026-10-10-novena-day-1-mental-health",
+  "voice": "Andrew only. No ElevenLabs call.",
+  "on_screen_hook": null,
+  "reel": null,
+  "files": {
+    "beat-01.png": {
+      "md5": "e3d4a17d1b3123b9d4fe719fc290f72a",
+      "bytes": 1636436
+    },
+    "beat-02.png": {
+      "md5": "a3ff316260d2a145d29e0c84d32a56a4",
+      "bytes": 1946082
+    },
+    "beat-03.png": {
+      "md5": "3965c20a6898fa2b1c52ed515142727d",
+      "bytes": 1746768
+    },
+    "beat-04.png": {
+      "md5": "d0852f5e7f6d64bfe2a4d90a4da11545",
+      "bytes": 1618517
+    },
+    "beat-05.png": {
+      "md5": "8411325e2b557c90d7681fc74358fce0",
+      "bytes": 1836402
+    },
+    "cast/CAST.md": {
+      "md5": "af7904072cbf866ce388e8285bbb6a62",
+      "bytes": 397
+    },
+    "cast/doorway-household.png": {
+      "md5": "8d20f73ce4c3f0f5dfd437f2688e6518",
+      "bytes": 1389520
+    },
+    "cast/novena-pray-er.png": {
+      "md5": "cb1f26575fe669d50143fbf3feb1a114",
+      "bytes": 1533175
+    },
+    "cast/pray-er.png": {
+      "md5": "cb1f26575fe669d50143fbf3feb1a114",
+      "bytes": 1533175
+    },
+    "contact-sheet.png": {
+      "md5": "e471dbecba6291c12546664f28a1f9ad",
+      "bytes": 3732194
+    },
+    "cover.png": {
+      "md5": "e3d4a17d1b3123b9d4fe719fc290f72a",
+      "bytes": 1636436
+    },
+    "novena-endcard.png": {
+      "md5": "5387b9c70f17f0a5e2d39bbefd62f48c",
+      "bytes": 2101448
+    },
+    "vo/NOVENA-ANDREW.txt": {
+      "md5": "be57702bd086451e227d547aa448afc9",
+      "bytes": 48
+    },
+    "vo/vo-free.wav": {
+      "md5": "67222ec147aa5967f426a0d5306eec9b",
+      "bytes": 3678372
+    },
+    "vo/vo-timing.json": {
+      "md5": "c39d9dfbf0d0f0ecadd6ad995f7ba087",
+      "bytes": 2999
+    },
+    "vo/vo-words.json": {
+      "md5": "c0709abfd0c8e16282a8fd98dca0574a",
+      "bytes": 9524
+    }
+  },
+  "wav_duration_s": 41.704,
+  "reel_md5": null
+}

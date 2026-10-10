@@ -1,0 +1,443 @@
+{
+ "duration": 23.368005,
+ "words": [
+  {
+   "beat": "01",
+   "word": "A",
+   "start": 0.091,
+   "end": 0.136
+  },
+  {
+   "beat": "01",
+   "word": "reading",
+   "start": 0.148,
+   "end": 0.466
+  },
+  {
+   "beat": "01",
+   "word": "from",
+   "start": 0.466,
+   "end": 0.568
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 0.568,
+   "end": 0.614
+  },
+  {
+   "beat": "01",
+   "word": "holy",
+   "start": 0.614,
+   "end": 0.875
+  },
+  {
+   "beat": "01",
+   "word": "Gospel",
+   "start": 0.875,
+   "end": 1.409
+  },
+  {
+   "beat": "01",
+   "word": "according",
+   "start": 1.534,
+   "end": 1.898
+  },
+  {
+   "beat": "01",
+   "word": "to",
+   "start": 1.909,
+   "end": 1.989
+  },
+  {
+   "beat": "01",
+   "word": "Luke.",
+   "start": 1.989,
+   "end": 2.341
+  },
+  {
+   "beat": "02",
+   "word": "While",
+   "start": 3.016,
+   "end": 3.164
+  },
+  {
+   "beat": "02",
+   "word": "Jesus",
+   "start": 3.164,
+   "end": 3.55
+  },
+  {
+   "beat": "02",
+   "word": "was",
+   "start": 3.55,
+   "end": 3.675
+  },
+  {
+   "beat": "02",
+   "word": "speaking,",
+   "start": 3.675,
+   "end": 4.243
+  },
+  {
+   "beat": "02",
+   "word": "a",
+   "start": 4.493,
+   "end": 4.561
+  },
+  {
+   "beat": "02",
+   "word": "woman",
+   "start": 4.573,
+   "end": 4.88
+  },
+  {
+   "beat": "02",
+   "word": "from",
+   "start": 4.88,
+   "end": 4.982
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 4.982,
+   "end": 5.039
+  },
+  {
+   "beat": "02",
+   "word": "crowd",
+   "start": 5.05,
+   "end": 5.414
+  },
+  {
+   "beat": "02",
+   "word": "called",
+   "start": 5.414,
+   "end": 5.686
+  },
+  {
+   "beat": "02",
+   "word": "out",
+   "start": 5.686,
+   "end": 5.948
+  },
+  {
+   "beat": "02",
+   "word": "and",
+   "start": 6.152,
+   "end": 6.266
+  },
+  {
+   "beat": "02",
+   "word": "said",
+   "start": 6.266,
+   "end": 6.561
+  },
+  {
+   "beat": "02",
+   "word": "to",
+   "start": 6.561,
+   "end": 6.664
+  },
+  {
+   "beat": "02",
+   "word": "him,",
+   "start": 6.675,
+   "end": 6.891
+  },
+  {
+   "beat": "03",
+   "word": "\"Blessed",
+   "start": 7.445,
+   "end": 7.832
+  },
+  {
+   "beat": "03",
+   "word": "is",
+   "start": 7.889,
+   "end": 7.98
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 7.98,
+   "end": 8.082
+  },
+  {
+   "beat": "03",
+   "word": "womb",
+   "start": 8.082,
+   "end": 8.389
+  },
+  {
+   "beat": "03",
+   "word": "that",
+   "start": 8.389,
+   "end": 8.525
+  },
+  {
+   "beat": "03",
+   "word": "carried",
+   "start": 8.525,
+   "end": 8.991
+  },
+  {
+   "beat": "03",
+   "word": "you",
+   "start": 9.002,
+   "end": 9.377
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 9.468,
+   "end": 9.57
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 9.57,
+   "end": 9.661
+  },
+  {
+   "beat": "03",
+   "word": "breasts",
+   "start": 9.661,
+   "end": 10.161
+  },
+  {
+   "beat": "03",
+   "word": "at",
+   "start": 10.173,
+   "end": 10.23
+  },
+  {
+   "beat": "03",
+   "word": "which",
+   "start": 10.241,
+   "end": 10.389
+  },
+  {
+   "beat": "03",
+   "word": "you",
+   "start": 10.389,
+   "end": 10.491
+  },
+  {
+   "beat": "03",
+   "word": "nursed.\"",
+   "start": 10.491,
+   "end": 11.002
+  },
+  {
+   "beat": "04",
+   "word": "He",
+   "start": 11.489,
+   "end": 11.534
+  },
+  {
+   "beat": "04",
+   "word": "replied,",
+   "start": 11.534,
+   "end": 12.023
+  },
+  {
+   "beat": "04",
+   "word": "\"Rather,",
+   "start": 12.443,
+   "end": 12.83
+  },
+  {
+   "beat": "04",
+   "word": "blessed",
+   "start": 13.25,
+   "end": 13.614
+  },
+  {
+   "beat": "04",
+   "word": "are",
+   "start": 13.614,
+   "end": 13.693
+  },
+  {
+   "beat": "04",
+   "word": "those",
+   "start": 13.705,
+   "end": 14.0
+  },
+  {
+   "beat": "04",
+   "word": "who",
+   "start": 14.011,
+   "end": 14.102
+  },
+  {
+   "beat": "04",
+   "word": "hear",
+   "start": 14.114,
+   "end": 14.386
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 14.386,
+   "end": 14.466
+  },
+  {
+   "beat": "04",
+   "word": "word",
+   "start": 14.466,
+   "end": 14.739
+  },
+  {
+   "beat": "04",
+   "word": "of",
+   "start": 14.739,
+   "end": 14.852
+  },
+  {
+   "beat": "04",
+   "word": "God",
+   "start": 14.852,
+   "end": 15.295
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 15.409,
+   "end": 15.557
+  },
+  {
+   "beat": "04",
+   "word": "observe",
+   "start": 15.568,
+   "end": 15.955
+  },
+  {
+   "beat": "04",
+   "word": "it.\"",
+   "start": 15.955,
+   "end": 16.091
+  },
+  {
+   "beat": "05",
+   "word": "The",
+   "start": 16.577,
+   "end": 16.634
+  },
+  {
+   "beat": "05",
+   "word": "Gospel",
+   "start": 16.634,
+   "end": 17.043
+  },
+  {
+   "beat": "05",
+   "word": "of",
+   "start": 17.055,
+   "end": 17.111
+  },
+  {
+   "beat": "05",
+   "word": "the",
+   "start": 17.123,
+   "end": 17.18
+  },
+  {
+   "beat": "05",
+   "word": "Lord.",
+   "start": 17.191,
+   "end": 17.532
+  },
+  {
+   "beat": "06",
+   "word": "Search",
+   "start": 18.595,
+   "end": 18.8
+  },
+  {
+   "beat": "06",
+   "word": "Saint",
+   "start": 18.811,
+   "end": 19.084
+  },
+  {
+   "beat": "06",
+   "word": "Match",
+   "start": 19.084,
+   "end": 19.516
+  },
+  {
+   "beat": "06",
+   "word": "on",
+   "start": 19.607,
+   "end": 19.686
+  },
+  {
+   "beat": "06",
+   "word": "the",
+   "start": 19.686,
+   "end": 19.743
+  },
+  {
+   "beat": "06",
+   "word": "App",
+   "start": 19.755,
+   "end": 19.97
+  },
+  {
+   "beat": "06",
+   "word": "Store.",
+   "start": 19.97,
+   "end": 20.357
+  },
+  {
+   "beat": "07",
+   "word": "Feel",
+   "start": 21.111,
+   "end": 21.293
+  },
+  {
+   "beat": "07",
+   "word": "it.",
+   "start": 21.293,
+   "end": 21.407
+  },
+  {
+   "beat": "07",
+   "word": "Match",
+   "start": 21.759,
+   "end": 21.975
+  },
+  {
+   "beat": "07",
+   "word": "a",
+   "start": 21.975,
+   "end": 22.02
+  },
+  {
+   "beat": "07",
+   "word": "saint",
+   "start": 22.032,
+   "end": 22.407
+  },
+  {
+   "beat": "07",
+   "word": "who",
+   "start": 22.418,
+   "end": 22.555
+  },
+  {
+   "beat": "07",
+   "word": "lived",
+   "start": 22.555,
+   "end": 22.861
+  },
+  {
+   "beat": "07",
+   "word": "it.",
+   "start": 22.861,
+   "end": 23.032
+  }
+ ]
+}

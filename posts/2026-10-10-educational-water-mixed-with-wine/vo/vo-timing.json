@@ -1,0 +1,90 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "Why do Catholics mix water with the wine? Most people think that drop only thins the wine, but the prayer starts, By the mystery of this water. At the side of the altar the priest pours wine and a little water into the chalice, and he says that prayer quietly. Justin Martyr's First Apology, chapter 65, says there is then brought bread and a cup of wine mixed with water. He addressed that apology to the emperor Antoninus Pius. Next time you see the drop, it belongs to a prayer said quietly. Send this to someone who has watched that drop and never heard the words. Search Saint Match on the App Store. Feel it. Match a saint who lived it. Why do Catholics mix water with the wine?",
+ "spoken_text": "Why do Catholics mix water with the wine? Most people think that drop only thins the wine, but the prayer starts, By the mystery of this water. At the side of the altar the priest pours wine and a little water into the chalice, and he says that prayer quietly. Justin Martyr's First Apology, chapter sixty-five, says there is then brought bread and a cup of wine mixed with water. He addressed that apology to the emperor Antoninus Pius. Next time you see the drop, it belongs to a prayer said quietly. Send this to someone who has watched that drop and never heard the words. Search Saint Match on the App Store. Feel it. Match a saint who lived it. Why do Catholics mix water with the wine?",
+ "spoken_respell": {
+  "65": "sixty-five"
+ },
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 41.748,
+ "wav_duration_s": 42.076,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "Why do Catholics mix water with the wine?",
+   "start_s": 0.08,
+   "end_s": 1.841,
+   "words": 8
+  },
+  {
+   "beat": "02",
+   "text": "Most people think that drop only thins the wine, but the prayer starts, By the mystery of this water.",
+   "start_s": 2.505,
+   "end_s": 7.902,
+   "words": 19
+  },
+  {
+   "beat": "03",
+   "text": "At the side of the altar the priest pours wine and a little water into the chalice, and he says that prayer quietly.",
+   "start_s": 8.577,
+   "end_s": 14.441,
+   "words": 23
+  },
+  {
+   "beat": "04",
+   "text": "Justin Martyr's First Apology, chapter 65, says there is then brought bread and a cup of wine mixed with water.",
+   "start_s": 15.116,
+   "end_s": 21.82,
+   "words": 20
+  },
+  {
+   "beat": "05",
+   "text": "He addressed that apology to the emperor Antoninus Pius.",
+   "start_s": 22.473,
+   "end_s": 25.632,
+   "words": 9
+  },
+  {
+   "beat": "06",
+   "text": "Next time you see the drop, it belongs to a prayer said quietly.",
+   "start_s": 26.307,
+   "end_s": 29.727,
+   "words": 13
+  },
+  {
+   "beat": "07",
+   "text": "Send this to someone who has watched that drop and never heard the words.",
+   "start_s": 30.402,
+   "end_s": 33.868,
+   "words": 14
+  },
+  {
+   "beat": "08",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 34.943,
+   "end_s": 36.682,
+   "words": 7
+  },
+  {
+   "beat": "09",
+   "text": "Feel it. Match a saint who lived it.",
+   "start_s": 37.425,
+   "end_s": 39.357,
+   "words": 8
+  },
+  {
+   "beat": "10",
+   "text": "Why do Catholics mix water with the wine?",
+   "start_s": 40.02,
+   "end_s": 41.748,
+   "words": 8
+  }
+ ]
+}

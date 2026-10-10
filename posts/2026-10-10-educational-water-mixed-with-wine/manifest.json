@@ -1,0 +1,78 @@
+{
+  "folder": "2026-10-10-educational-water-mixed-with-wine",
+  "voice": "Andrew fallback. ElevenLabs key was not set.",
+  "on_screen_hook": "Why do Catholics mix water with the wine?",
+  "reel": null,
+  "files": {
+    "beat-01.png": {
+      "md5": "b50992806aa66cf1983c02b223e15f9b",
+      "bytes": 1677922
+    },
+    "beat-02.png": {
+      "md5": "e86dc0ffccf2f3d0fb3534934258ee81",
+      "bytes": 1582727
+    },
+    "beat-03.png": {
+      "md5": "59af05b124b7cb956105412ee9a1be1e",
+      "bytes": 1815052
+    },
+    "beat-04.png": {
+      "md5": "6270e9f6e58a57bc2f93a1d7b5bc35fa",
+      "bytes": 1732077
+    },
+    "beat-05.png": {
+      "md5": "7e3f4a546e1f30c8a5f22bcebcec54e9",
+      "bytes": 1564721
+    },
+    "beat-06.png": {
+      "md5": "ffee7fad557770351aae8ea481f218aa",
+      "bytes": 1839160
+    },
+    "beat-07.png": {
+      "md5": "025aee774331af80c8288b3fbd8c620d",
+      "bytes": 1441499
+    },
+    "cast/CAST.md": {
+      "md5": "90f4a787ca7e9254eb9448b12e43b709",
+      "bytes": 360
+    },
+    "cast/pew-watchers.png": {
+      "md5": "b6714b8ac4b2f302653c641e4c5015db",
+      "bytes": 1112645
+    },
+    "cast/priest.png": {
+      "md5": "0b0bf1a00c87839893428f56d0dd2ec7",
+      "bytes": 1257895
+    },
+    "contact-sheet.png": {
+      "md5": "c0e2e8fa0578c235c24a40e73a8974ce",
+      "bytes": 4843889
+    },
+    "cover.png": {
+      "md5": "b50992806aa66cf1983c02b223e15f9b",
+      "bytes": 1677922
+    },
+    "learn-feed-endcard.png": {
+      "md5": "12fc3b0162fdaaad03aaa1fbe6595b28",
+      "bytes": 2523610
+    },
+    "vo/VOICE-FALLBACK.txt": {
+      "md5": "803556597e0815342c2ae1b1148edd99",
+      "bytes": 139
+    },
+    "vo/vo-free.wav": {
+      "md5": "f74ed6859e92848e874edf1d2d092267",
+      "bytes": 3711182
+    },
+    "vo/vo-timing.json": {
+      "md5": "066285cdd471e90068f9bb519233cd4e",
+      "bytes": 3378
+    },
+    "vo/vo-words.json": {
+      "md5": "87c39a1acba97f7782dc058ea14bcc30",
+      "bytes": 10558
+    }
+  },
+  "wav_duration_s": 42.076,
+  "reel_md5": null
+}

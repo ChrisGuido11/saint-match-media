@@ -1,0 +1,67 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "A reading from the holy Gospel according to Luke. While Jesus was speaking, a woman from the crowd called out and said to him, \"Blessed is the womb that carried you and the breasts at which you nursed.\" He replied, \"Rather, blessed are those who hear the word of God and observe it.\" The Gospel of the Lord. Search Saint Match on the App Store. Feel it. Match a saint who lived it.",
+ "spoken_text": "A reading from the holy Gospel according to Luke. While Jesus was speaking, a woman from the crowd called out and said to him, \"Blessed is the womb that carried you and the breasts at which you nursed.\" He replied, \"Rather, blessed are those who hear the word of God and observe it.\" The Gospel of the Lord. Search Saint Match on the App Store. Feel it. Match a saint who lived it.",
+ "spoken_respell": {},
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 23.032,
+ "wav_duration_s": 23.368,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "A reading from the holy Gospel according to Luke.",
+   "start_s": 0.091,
+   "end_s": 2.341,
+   "words": 9
+  },
+  {
+   "beat": "02",
+   "text": "While Jesus was speaking, a woman from the crowd called out and said to him,",
+   "start_s": 3.016,
+   "end_s": 6.891,
+   "words": 15
+  },
+  {
+   "beat": "03",
+   "text": "\"Blessed is the womb that carried you and the breasts at which you nursed.\"",
+   "start_s": 7.445,
+   "end_s": 11.002,
+   "words": 14
+  },
+  {
+   "beat": "04",
+   "text": "He replied, \"Rather, blessed are those who hear the word of God and observe it.\"",
+   "start_s": 11.489,
+   "end_s": 16.091,
+   "words": 15
+  },
+  {
+   "beat": "05",
+   "text": "The Gospel of the Lord.",
+   "start_s": 16.577,
+   "end_s": 17.532,
+   "words": 5
+  },
+  {
+   "beat": "06",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 18.595,
+   "end_s": 20.357,
+   "words": 7
+  },
+  {
+   "beat": "07",
+   "text": "Feel it. Match a saint who lived it.",
+   "start_s": 21.111,
+   "end_s": 23.032,
+   "words": 8
+  }
+ ]
+}

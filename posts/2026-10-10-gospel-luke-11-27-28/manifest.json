@@ -1,0 +1,94 @@
+{
+  "folder": "2026-10-10-gospel-luke-11-27-28",
+  "voice": "Andrew fallback. ElevenLabs key was not set.",
+  "on_screen_hook": "Who does Jesus call blessed?",
+  "reel": null,
+  "files": {
+    "beat-01-v5.png": {
+      "md5": "82667cdf40c65538ec1cbe1760a8bc32",
+      "bytes": 1457582
+    },
+    "beat-01.png": {
+      "md5": "82667cdf40c65538ec1cbe1760a8bc32",
+      "bytes": 1457582
+    },
+    "beat-02-v5.png": {
+      "md5": "b98787e773c4f1d742ba2c292f9b3225",
+      "bytes": 913039
+    },
+    "beat-02.png": {
+      "md5": "b98787e773c4f1d742ba2c292f9b3225",
+      "bytes": 913039
+    },
+    "beat-03-v5.png": {
+      "md5": "2658a4b8f4b0b6787efe240960382a91",
+      "bytes": 929715
+    },
+    "beat-03.png": {
+      "md5": "2658a4b8f4b0b6787efe240960382a91",
+      "bytes": 929715
+    },
+    "beat-04-v5.png": {
+      "md5": "b55b32fe919283380d5f0edbf764b0d1",
+      "bytes": 850826
+    },
+    "beat-04.png": {
+      "md5": "b55b32fe919283380d5f0edbf764b0d1",
+      "bytes": 850826
+    },
+    "beat-05-v5.png": {
+      "md5": "24b84cbeb14953d51daeebb79cca7487",
+      "bytes": 996099
+    },
+    "beat-05.png": {
+      "md5": "24b84cbeb14953d51daeebb79cca7487",
+      "bytes": 996099
+    },
+    "cast/CAST.md": {
+      "md5": "b69e8bdcfbd7ee20edd70b36250fba5e",
+      "bytes": 410
+    },
+    "cast/jesus.png": {
+      "md5": "c4e3414bc12fe7f83558085bed24e365",
+      "bytes": 904964
+    },
+    "cast/priest.png": {
+      "md5": "0b0bf1a00c87839893428f56d0dd2ec7",
+      "bytes": 1257895
+    },
+    "cast/woman-in-the-crowd.png": {
+      "md5": "f452c8d83a067fe214ffd7b5179952a4",
+      "bytes": 846590
+    },
+    "contact-sheet.png": {
+      "md5": "f8b439bab882899e0031f4a0c6cb5c1e",
+      "bytes": 2779424
+    },
+    "cover.png": {
+      "md5": "82667cdf40c65538ec1cbe1760a8bc32",
+      "bytes": 1457582
+    },
+    "learn-feed-endcard.png": {
+      "md5": "12fc3b0162fdaaad03aaa1fbe6595b28",
+      "bytes": 2523610
+    },
+    "vo/VOICE-FALLBACK.txt": {
+      "md5": "803556597e0815342c2ae1b1148edd99",
+      "bytes": 139
+    },
+    "vo/vo-free.wav": {
+      "md5": "0d3581601b91db881f40636d8061e0c5",
+      "bytes": 2061136
+    },
+    "vo/vo-timing.json": {
+      "md5": "05c033f6fed430269ce81ec10ac6e519",
+      "bytes": 2163
+    },
+    "vo/vo-words.json": {
+      "md5": "a440ad7d97384909f283e47ec5d3ab7a",
+      "bytes": 5961
+    }
+  },
+  "wav_duration_s": 23.368,
+  "reel_md5": null
+}

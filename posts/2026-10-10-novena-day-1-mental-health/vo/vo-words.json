@@ -1,0 +1,701 @@
+{
+ "duration": 41.704014,
+ "words": [
+  {
+   "beat": "01",
+   "word": "The",
+   "start": 0.102,
+   "end": 0.148
+  },
+  {
+   "beat": "01",
+   "word": "USCCB",
+   "start": 0.148,
+   "end": 1.114
+  },
+  {
+   "beat": "01",
+   "word": "says",
+   "start": 1.261,
+   "end": 1.523
+  },
+  {
+   "beat": "01",
+   "word": "that",
+   "start": 1.523,
+   "end": 1.705
+  },
+  {
+   "beat": "01",
+   "word": "even",
+   "start": 1.807,
+   "end": 1.989
+  },
+  {
+   "beat": "01",
+   "word": "today",
+   "start": 1.989,
+   "end": 2.33
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 2.33,
+   "end": 2.42
+  },
+  {
+   "beat": "01",
+   "word": "town",
+   "start": 2.42,
+   "end": 2.727
+  },
+  {
+   "beat": "01",
+   "word": "of",
+   "start": 2.739,
+   "end": 2.83
+  },
+  {
+   "beat": "01",
+   "word": "Geel",
+   "start": 2.83,
+   "end": 3.239
+  },
+  {
+   "beat": "01",
+   "word": "is",
+   "start": 3.568,
+   "end": 3.693
+  },
+  {
+   "beat": "01",
+   "word": "known",
+   "start": 3.693,
+   "end": 4.045
+  },
+  {
+   "beat": "01",
+   "word": "as",
+   "start": 4.045,
+   "end": 4.148
+  },
+  {
+   "beat": "01",
+   "word": "a",
+   "start": 4.148,
+   "end": 4.182
+  },
+  {
+   "beat": "01",
+   "word": "model",
+   "start": 4.182,
+   "end": 4.682
+  },
+  {
+   "beat": "01",
+   "word": "for",
+   "start": 4.693,
+   "end": 4.841
+  },
+  {
+   "beat": "01",
+   "word": "community",
+   "start": 4.841,
+   "end": 5.295
+  },
+  {
+   "beat": "01",
+   "word": "acceptance",
+   "start": 5.295,
+   "end": 5.818
+  },
+  {
+   "beat": "01",
+   "word": "of",
+   "start": 5.83,
+   "end": 5.898
+  },
+  {
+   "beat": "01",
+   "word": "persons",
+   "start": 5.909,
+   "end": 6.375
+  },
+  {
+   "beat": "01",
+   "word": "who",
+   "start": 6.386,
+   "end": 6.477
+  },
+  {
+   "beat": "01",
+   "word": "live",
+   "start": 6.489,
+   "end": 6.795
+  },
+  {
+   "beat": "01",
+   "word": "with",
+   "start": 6.807,
+   "end": 6.909
+  },
+  {
+   "beat": "01",
+   "word": "mental",
+   "start": 6.92,
+   "end": 7.205
+  },
+  {
+   "beat": "01",
+   "word": "illness.",
+   "start": 7.216,
+   "end": 7.75
+  },
+  {
+   "beat": "02",
+   "word": "Day",
+   "start": 8.425,
+   "end": 8.595
+  },
+  {
+   "beat": "02",
+   "word": "1",
+   "start": 8.789,
+   "end": 8.914
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 8.925,
+   "end": 8.959
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 8.959,
+   "end": 9.005
+  },
+  {
+   "beat": "02",
+   "word": "Novena",
+   "start": 9.005,
+   "end": 9.55
+  },
+  {
+   "beat": "02",
+   "word": "for",
+   "start": 9.561,
+   "end": 9.72
+  },
+  {
+   "beat": "02",
+   "word": "Mental",
+   "start": 9.72,
+   "end": 10.005
+  },
+  {
+   "beat": "02",
+   "word": "Health.",
+   "start": 10.005,
+   "end": 10.391
+  },
+  {
+   "beat": "03",
+   "word": "Good",
+   "start": 11.066,
+   "end": 11.282
+  },
+  {
+   "beat": "03",
+   "word": "St.",
+   "start": 11.282,
+   "end": 11.623
+  },
+  {
+   "beat": "03",
+   "word": "Dymphna,",
+   "start": 11.623,
+   "end": 12.214
+  },
+  {
+   "beat": "03",
+   "word": "great",
+   "start": 12.486,
+   "end": 12.793
+  },
+  {
+   "beat": "03",
+   "word": "wonder",
+   "start": 12.805,
+   "end": 13.168
+  },
+  {
+   "beat": "03",
+   "word": "worker",
+   "start": 13.168,
+   "end": 13.566
+  },
+  {
+   "beat": "03",
+   "word": "in",
+   "start": 13.577,
+   "end": 13.725
+  },
+  {
+   "beat": "03",
+   "word": "every",
+   "start": 13.85,
+   "end": 14.168
+  },
+  {
+   "beat": "03",
+   "word": "affliction",
+   "start": 14.168,
+   "end": 14.68
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 14.68,
+   "end": 14.759
+  },
+  {
+   "beat": "03",
+   "word": "mind",
+   "start": 14.759,
+   "end": 15.145
+  },
+  {
+   "beat": "03",
+   "word": "and",
+   "start": 15.157,
+   "end": 15.236
+  },
+  {
+   "beat": "03",
+   "word": "body,",
+   "start": 15.236,
+   "end": 15.657
+  },
+  {
+   "beat": "03",
+   "word": "we",
+   "start": 16.089,
+   "end": 16.168
+  },
+  {
+   "beat": "03",
+   "word": "humbly",
+   "start": 16.168,
+   "end": 16.498
+  },
+  {
+   "beat": "03",
+   "word": "implore",
+   "start": 16.498,
+   "end": 16.941
+  },
+  {
+   "beat": "03",
+   "word": "your",
+   "start": 16.952,
+   "end": 17.077
+  },
+  {
+   "beat": "03",
+   "word": "powerful",
+   "start": 17.077,
+   "end": 17.623
+  },
+  {
+   "beat": "03",
+   "word": "intercession",
+   "start": 17.623,
+   "end": 18.225
+  },
+  {
+   "beat": "03",
+   "word": "with",
+   "start": 18.441,
+   "end": 18.6
+  },
+  {
+   "beat": "03",
+   "word": "Jesus",
+   "start": 18.6,
+   "end": 19.18
+  },
+  {
+   "beat": "03",
+   "word": "through",
+   "start": 19.316,
+   "end": 19.543
+  },
+  {
+   "beat": "03",
+   "word": "Mary,",
+   "start": 19.555,
+   "end": 20.032
+  },
+  {
+   "beat": "03",
+   "word": "for",
+   "start": 20.395,
+   "end": 20.464
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 20.464,
+   "end": 20.532
+  },
+  {
+   "beat": "03",
+   "word": "health",
+   "start": 20.543,
+   "end": 20.918
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 20.93,
+   "end": 20.986
+  },
+  {
+   "beat": "03",
+   "word": "the",
+   "start": 20.986,
+   "end": 21.043
+  },
+  {
+   "beat": "03",
+   "word": "sick.",
+   "start": 21.043,
+   "end": 21.43
+  },
+  {
+   "beat": "04",
+   "word": "St.",
+   "start": 22.105,
+   "end": 22.434
+  },
+  {
+   "beat": "04",
+   "word": "Dymphna,",
+   "start": 22.434,
+   "end": 23.059
+  },
+  {
+   "beat": "04",
+   "word": "patroness",
+   "start": 23.502,
+   "end": 24.025
+  },
+  {
+   "beat": "04",
+   "word": "of",
+   "start": 24.025,
+   "end": 24.105
+  },
+  {
+   "beat": "04",
+   "word": "persons",
+   "start": 24.116,
+   "end": 24.582
+  },
+  {
+   "beat": "04",
+   "word": "with",
+   "start": 24.582,
+   "end": 24.695
+  },
+  {
+   "beat": "04",
+   "word": "mental",
+   "start": 24.695,
+   "end": 25.082
+  },
+  {
+   "beat": "04",
+   "word": "health",
+   "start": 25.082,
+   "end": 25.275
+  },
+  {
+   "beat": "04",
+   "word": "conditions,",
+   "start": 25.275,
+   "end": 25.923
+  },
+  {
+   "beat": "04",
+   "word": "always",
+   "start": 26.309,
+   "end": 26.605
+  },
+  {
+   "beat": "04",
+   "word": "look",
+   "start": 26.605,
+   "end": 26.775
+  },
+  {
+   "beat": "04",
+   "word": "out",
+   "start": 26.786,
+   "end": 26.934
+  },
+  {
+   "beat": "04",
+   "word": "for",
+   "start": 26.934,
+   "end": 27.036
+  },
+  {
+   "beat": "04",
+   "word": "those",
+   "start": 27.036,
+   "end": 27.23
+  },
+  {
+   "beat": "04",
+   "word": "men",
+   "start": 27.23,
+   "end": 27.559
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 27.559,
+   "end": 27.673
+  },
+  {
+   "beat": "04",
+   "word": "women,",
+   "start": 27.673,
+   "end": 28.002
+  },
+  {
+   "beat": "04",
+   "word": "for",
+   "start": 28.184,
+   "end": 28.309
+  },
+  {
+   "beat": "04",
+   "word": "their",
+   "start": 28.309,
+   "end": 28.423
+  },
+  {
+   "beat": "04",
+   "word": "healing",
+   "start": 28.434,
+   "end": 28.957
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 28.968,
+   "end": 29.036
+  },
+  {
+   "beat": "04",
+   "word": "recovery,",
+   "start": 29.048,
+   "end": 29.65
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 29.991,
+   "end": 30.093
+  },
+  {
+   "beat": "04",
+   "word": "for",
+   "start": 30.093,
+   "end": 30.218
+  },
+  {
+   "beat": "04",
+   "word": "an",
+   "start": 30.23,
+   "end": 30.309
+  },
+  {
+   "beat": "04",
+   "word": "end",
+   "start": 30.4,
+   "end": 30.559
+  },
+  {
+   "beat": "04",
+   "word": "to",
+   "start": 30.559,
+   "end": 30.627
+  },
+  {
+   "beat": "04",
+   "word": "stigma",
+   "start": 30.627,
+   "end": 31.252
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 31.491,
+   "end": 31.593
+  },
+  {
+   "beat": "04",
+   "word": "indifference",
+   "start": 31.593,
+   "end": 32.23
+  },
+  {
+   "beat": "04",
+   "word": "in",
+   "start": 32.241,
+   "end": 32.32
+  },
+  {
+   "beat": "04",
+   "word": "society.",
+   "start": 32.32,
+   "end": 32.923
+  },
+  {
+   "beat": "05",
+   "word": "Amen.",
+   "start": 33.575,
+   "end": 34.007
+  },
+  {
+   "beat": "05",
+   "word": "St.",
+   "start": 34.382,
+   "end": 34.598
+  },
+  {
+   "beat": "05",
+   "word": "Dymphna,",
+   "start": 34.598,
+   "end": 35.098
+  },
+  {
+   "beat": "05",
+   "word": "pray",
+   "start": 35.291,
+   "end": 35.598
+  },
+  {
+   "beat": "05",
+   "word": "for",
+   "start": 35.609,
+   "end": 35.791
+  },
+  {
+   "beat": "05",
+   "word": "us.",
+   "start": 35.802,
+   "end": 36.166
+  },
+  {
+   "beat": "06",
+   "word": "Pray",
+   "start": 37.241,
+   "end": 37.411
+  },
+  {
+   "beat": "06",
+   "word": "all",
+   "start": 37.423,
+   "end": 37.605
+  },
+  {
+   "beat": "06",
+   "word": "nine",
+   "start": 37.616,
+   "end": 37.866
+  },
+  {
+   "beat": "06",
+   "word": "days",
+   "start": 37.866,
+   "end": 38.241
+  },
+  {
+   "beat": "06",
+   "word": "in",
+   "start": 38.252,
+   "end": 38.309
+  },
+  {
+   "beat": "06",
+   "word": "the",
+   "start": 38.309,
+   "end": 38.366
+  },
+  {
+   "beat": "06",
+   "word": "Saint",
+   "start": 38.377,
+   "end": 38.616
+  },
+  {
+   "beat": "06",
+   "word": "Match",
+   "start": 38.616,
+   "end": 38.855
+  },
+  {
+   "beat": "06",
+   "word": "app.",
+   "start": 38.866,
+   "end": 39.139
+  },
+  {
+   "beat": "07",
+   "word": "Search",
+   "start": 39.814,
+   "end": 40.018
+  },
+  {
+   "beat": "07",
+   "word": "Saint",
+   "start": 40.03,
+   "end": 40.28
+  },
+  {
+   "beat": "07",
+   "word": "Match",
+   "start": 40.28,
+   "end": 40.609
+  },
+  {
+   "beat": "07",
+   "word": "on",
+   "start": 40.62,
+   "end": 40.689
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 40.7,
+   "end": 40.757
+  },
+  {
+   "beat": "07",
+   "word": "App",
+   "start": 40.768,
+   "end": 41.007
+  },
+  {
+   "beat": "07",
+   "word": "Store.",
+   "start": 41.007,
+   "end": 41.382
+  }
+ ]
+}

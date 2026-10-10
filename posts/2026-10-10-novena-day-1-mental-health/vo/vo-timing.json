@@ -1,0 +1,70 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "The USCCB says that even today the town of Geel is known as a model for community acceptance of persons who live with mental illness. Day 1 of the Novena for Mental Health. Good St. Dymphna, great wonder worker in every affliction of mind and body, we humbly implore your powerful intercession with Jesus through Mary, for the health of the sick. St. Dymphna, patroness of persons with mental health conditions, always look out for those men and women, for their healing and recovery, and for an end to stigma and indifference in society. Amen. St. Dymphna, pray for us. Pray all nine days in the Saint Match app. Search Saint Match on the App Store.",
+ "spoken_text": "The USCCB says that even today the town of Geel is known as a model for community acceptance of persons who live with mental illness. Day one of the Novena for Mental Health. Good Saint Dymphna, great wonder worker in every affliction of mind and body, we humbly implore your powerful intercession with Jesus through Mary, for the health of the sick. Saint Dymphna, patroness of persons with mental health conditions, always look out for those men and women, for their healing and recovery, and for an end to stigma and indifference in society. Amen. Saint Dymphna, pray for us. Pray all nine days in the Saint Match app. Search Saint Match on the App Store.",
+ "spoken_respell": {
+  "1": "one",
+  "St.": "Saint"
+ },
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 41.382,
+ "wav_duration_s": 41.704,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "The USCCB says that even today the town of Geel is known as a model for community acceptance of persons who live with mental illness.",
+   "start_s": 0.102,
+   "end_s": 7.75,
+   "words": 25
+  },
+  {
+   "beat": "02",
+   "text": "Day 1 of the Novena for Mental Health.",
+   "start_s": 8.425,
+   "end_s": 10.391,
+   "words": 8
+  },
+  {
+   "beat": "03",
+   "text": "Good St. Dymphna, great wonder worker in every affliction of mind and body, we humbly implore your powerful intercession with Jesus through Mary, for the health of the sick.",
+   "start_s": 11.066,
+   "end_s": 21.43,
+   "words": 29
+  },
+  {
+   "beat": "04",
+   "text": "St. Dymphna, patroness of persons with mental health conditions, always look out for those men and women, for their healing and recovery, and for an end to stigma and indifference in society.",
+   "start_s": 22.105,
+   "end_s": 32.923,
+   "words": 32
+  },
+  {
+   "beat": "05",
+   "text": "Amen. St. Dymphna, pray for us.",
+   "start_s": 33.575,
+   "end_s": 36.166,
+   "words": 6
+  },
+  {
+   "beat": "06",
+   "text": "Pray all nine days in the Saint Match app.",
+   "start_s": 37.241,
+   "end_s": 39.139,
+   "words": 9
+  },
+  {
+   "beat": "07",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 39.814,
+   "end_s": 41.382,
+   "words": 7
+  }
+ ]
+}
