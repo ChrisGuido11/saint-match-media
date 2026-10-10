@@ -2,7 +2,7 @@
   "folder": "2026-10-10-novena-day-1-mental-health",
   "voice": "Andrew only. No ElevenLabs call.",
   "on_screen_hook": null,
-  "reel": null,
+  "reel": "novena-day-1-mental-health-kb-v1.mp4",
   "files": {
     "beat-01.png": {
       "md5": "e3d4a17d1b3123b9d4fe719fc290f72a",
@@ -67,8 +67,22 @@
     "vo/vo-words.json": {
       "md5": "c0709abfd0c8e16282a8fd98dca0574a",
       "bytes": 9524
+    },
+    "novena-day-1-mental-health-kb-v1.mp4": {
+      "md5": "fa7ce6f357235d5339a71405e726a1ff",
+      "bytes": 28359296
+    },
+    "novena-endcard-mental-health.png": {
+      "md5": "f6faad12deb62731bd8d84a5a907f818",
+      "bytes": 2113229
+    },
+    "poster.jpg": {
+      "md5": "c79eeb50c18077f5f5578741c5e690f0",
+      "bytes": 67994
     }
   },
   "wav_duration_s": 41.704,
-  "reel_md5": null
+  "reel_md5": "fa7ce6f357235d5339a71405e726a1ff",
+  "reel_duration_s": 45.967,
+  "motion": "Ken Burns fallback on approved stills (Imagine weekly limit), brain PR #94"
 }
