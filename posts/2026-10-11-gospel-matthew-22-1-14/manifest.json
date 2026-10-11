@@ -2,7 +2,7 @@
  "folder": "2026-10-11-gospel-matthew-22-1-14",
  "voice": "Andrew fallback. ElevenLabs key was not set.",
  "on_screen_hook": "Who is cast outside the feast?",
- "reel": null,
+ "reel": "matthew-22-1-14-kenburns-v1.mp4",
  "wav_duration_s": 97.152,
  "first_word_s": 0.091,
  "files": {
@@ -195,8 +195,8 @@
    "bytes": 2968860
   },
   "cover.png": {
-   "md5": "3250a5647f9fbe4093edbf4ef35e21f7",
-   "bytes": 1498818
+   "md5": "9268bbde57d0cd9e2f413ef7c70da2b9",
+   "bytes": 1494085
   },
   "learn-feed-endcard.png": {
    "md5": "12fc3b0162fdaaad03aaa1fbe6595b28",
@@ -225,6 +225,15 @@
   "vo/vo-words.json": {
    "md5": "27c0db958b63537044e7234290004154",
    "bytes": 24113
+  },
+  "matthew-22-1-14-kenburns-v1.mp4": {
+   "md5": "0c05d3923e5bcc0857c4c88f17cc4f52",
+   "bytes": 62812176
   }
- }
+ },
+ "duration_s": 97.567,
+ "width": 1080,
+ "height": 1920,
+ "style": "style-v3",
+ "note": "Oct 11 Ken Burns fallback reel (Imagine clips missing, Chris approved KB for this pack), App Store end card, karaoke, lean2 low-RAM assemble. Grok Bot final gate."
 }
