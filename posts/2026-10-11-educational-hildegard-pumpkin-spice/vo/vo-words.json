@@ -1,0 +1,665 @@
+{
+ "duration": 42.436009,
+ "words": [
+  {
+   "beat": "01",
+   "word": "Did",
+   "start": 0.091,
+   "end": 0.17
+  },
+  {
+   "beat": "01",
+   "word": "a",
+   "start": 0.17,
+   "end": 0.193
+  },
+  {
+   "beat": "01",
+   "word": "medieval",
+   "start": 0.193,
+   "end": 0.648
+  },
+  {
+   "beat": "01",
+   "word": "nun",
+   "start": 0.659,
+   "end": 0.92
+  },
+  {
+   "beat": "01",
+   "word": "invent",
+   "start": 0.932,
+   "end": 1.25
+  },
+  {
+   "beat": "01",
+   "word": "pumpkin",
+   "start": 1.261,
+   "end": 1.545
+  },
+  {
+   "beat": "01",
+   "word": "spice?",
+   "start": 1.545,
+   "end": 2.148
+  },
+  {
+   "beat": "02",
+   "word": "Some",
+   "start": 2.811,
+   "end": 2.914
+  },
+  {
+   "beat": "02",
+   "word": "might",
+   "start": 2.914,
+   "end": 3.061
+  },
+  {
+   "beat": "02",
+   "word": "think",
+   "start": 3.061,
+   "end": 3.198
+  },
+  {
+   "beat": "02",
+   "word": "Starbucks",
+   "start": 3.209,
+   "end": 3.811
+  },
+  {
+   "beat": "02",
+   "word": "is",
+   "start": 3.914,
+   "end": 4.005
+  },
+  {
+   "beat": "02",
+   "word": "to",
+   "start": 4.005,
+   "end": 4.073
+  },
+  {
+   "beat": "02",
+   "word": "thank.",
+   "start": 4.073,
+   "end": 4.561
+  },
+  {
+   "beat": "02",
+   "word": "She",
+   "start": 4.925,
+   "end": 5.05
+  },
+  {
+   "beat": "02",
+   "word": "never",
+   "start": 5.05,
+   "end": 5.289
+  },
+  {
+   "beat": "02",
+   "word": "called",
+   "start": 5.289,
+   "end": 5.664
+  },
+  {
+   "beat": "02",
+   "word": "that",
+   "start": 5.834,
+   "end": 6.095
+  },
+  {
+   "beat": "02",
+   "word": "mix",
+   "start": 6.107,
+   "end": 6.334
+  },
+  {
+   "beat": "02",
+   "word": "pumpkin",
+   "start": 6.334,
+   "end": 6.698
+  },
+  {
+   "beat": "02",
+   "word": "spice.",
+   "start": 6.709,
+   "end": 7.425
+  },
+  {
+   "beat": "03",
+   "word": "Benedictine",
+   "start": 8.089,
+   "end": 8.85
+  },
+  {
+   "beat": "03",
+   "word": "abbess",
+   "start": 8.861,
+   "end": 9.293
+  },
+  {
+   "beat": "03",
+   "word": "Hildegard",
+   "start": 9.407,
+   "end": 9.93
+  },
+  {
+   "beat": "03",
+   "word": "died",
+   "start": 9.93,
+   "end": 10.259
+  },
+  {
+   "beat": "03",
+   "word": "at",
+   "start": 10.27,
+   "end": 10.418
+  },
+  {
+   "beat": "03",
+   "word": "Rupertsberg",
+   "start": 10.43,
+   "end": 11.111
+  },
+  {
+   "beat": "03",
+   "word": "in",
+   "start": 11.407,
+   "end": 11.801
+  },
+  {
+   "beat": "03",
+   "word": "1179.",
+   "start": 11.801,
+   "end": 12.589
+  },
+  {
+   "beat": "04",
+   "word": "Her",
+   "start": 13.264,
+   "end": 13.343
+  },
+  {
+   "beat": "04",
+   "word": "Physica",
+   "start": 13.343,
+   "end": 13.957
+  },
+  {
+   "beat": "04",
+   "word": "says",
+   "start": 14.252,
+   "end": 14.525
+  },
+  {
+   "beat": "04",
+   "word": "to",
+   "start": 14.536,
+   "end": 14.627
+  },
+  {
+   "beat": "04",
+   "word": "take",
+   "start": 14.639,
+   "end": 14.889
+  },
+  {
+   "beat": "04",
+   "word": "nutmeg,",
+   "start": 14.889,
+   "end": 15.468
+  },
+  {
+   "beat": "04",
+   "word": "an",
+   "start": 15.832,
+   "end": 15.945
+  },
+  {
+   "beat": "04",
+   "word": "equal",
+   "start": 16.082,
+   "end": 16.343
+  },
+  {
+   "beat": "04",
+   "word": "weight",
+   "start": 16.355,
+   "end": 16.502
+  },
+  {
+   "beat": "04",
+   "word": "of",
+   "start": 16.502,
+   "end": 16.548
+  },
+  {
+   "beat": "04",
+   "word": "cinnamon,",
+   "start": 16.548,
+   "end": 17.002
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 17.241,
+   "end": 17.309
+  },
+  {
+   "beat": "04",
+   "word": "a",
+   "start": 17.32,
+   "end": 17.366
+  },
+  {
+   "beat": "04",
+   "word": "bit",
+   "start": 17.377,
+   "end": 17.536
+  },
+  {
+   "beat": "04",
+   "word": "of",
+   "start": 17.548,
+   "end": 17.605
+  },
+  {
+   "beat": "04",
+   "word": "cloves,",
+   "start": 17.605,
+   "end": 18.184
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 18.525,
+   "end": 18.616
+  },
+  {
+   "beat": "04",
+   "word": "make",
+   "start": 18.616,
+   "end": 18.741
+  },
+  {
+   "beat": "04",
+   "word": "small",
+   "start": 18.741,
+   "end": 19.059
+  },
+  {
+   "beat": "04",
+   "word": "cakes",
+   "start": 19.07,
+   "end": 19.332
+  },
+  {
+   "beat": "04",
+   "word": "with",
+   "start": 19.332,
+   "end": 19.434
+  },
+  {
+   "beat": "04",
+   "word": "fine",
+   "start": 19.434,
+   "end": 19.707
+  },
+  {
+   "beat": "04",
+   "word": "whole",
+   "start": 19.707,
+   "end": 19.889
+  },
+  {
+   "beat": "04",
+   "word": "wheat",
+   "start": 19.9,
+   "end": 20.059
+  },
+  {
+   "beat": "04",
+   "word": "flour",
+   "start": 20.059,
+   "end": 20.445
+  },
+  {
+   "beat": "04",
+   "word": "and",
+   "start": 20.445,
+   "end": 20.525
+  },
+  {
+   "beat": "04",
+   "word": "water.",
+   "start": 20.525,
+   "end": 20.957
+  },
+  {
+   "beat": "05",
+   "word": "It",
+   "start": 21.632,
+   "end": 21.689
+  },
+  {
+   "beat": "05",
+   "word": "will",
+   "start": 21.689,
+   "end": 21.78
+  },
+  {
+   "beat": "05",
+   "word": "calm",
+   "start": 21.791,
+   "end": 22.211
+  },
+  {
+   "beat": "05",
+   "word": "all",
+   "start": 22.325,
+   "end": 22.632
+  },
+  {
+   "beat": "05",
+   "word": "bitterness",
+   "start": 22.723,
+   "end": 23.166
+  },
+  {
+   "beat": "05",
+   "word": "of",
+   "start": 23.166,
+   "end": 23.211
+  },
+  {
+   "beat": "05",
+   "word": "the",
+   "start": 23.211,
+   "end": 23.268
+  },
+  {
+   "beat": "05",
+   "word": "heart",
+   "start": 23.28,
+   "end": 23.632
+  },
+  {
+   "beat": "05",
+   "word": "and",
+   "start": 23.768,
+   "end": 23.893
+  },
+  {
+   "beat": "05",
+   "word": "mind",
+   "start": 23.905,
+   "end": 24.405
+  },
+  {
+   "beat": "05",
+   "word": "and",
+   "start": 24.62,
+   "end": 24.734
+  },
+  {
+   "beat": "05",
+   "word": "make",
+   "start": 24.734,
+   "end": 24.893
+  },
+  {
+   "beat": "05",
+   "word": "your",
+   "start": 24.893,
+   "end": 24.973
+  },
+  {
+   "beat": "05",
+   "word": "mind",
+   "start": 24.973,
+   "end": 25.291
+  },
+  {
+   "beat": "05",
+   "word": "cheerful.",
+   "start": 25.291,
+   "end": 25.848
+  },
+  {
+   "beat": "06",
+   "word": "McCormick",
+   "start": 26.5,
+   "end": 26.932
+  },
+  {
+   "beat": "06",
+   "word": "introduced",
+   "start": 26.943,
+   "end": 27.489
+  },
+  {
+   "beat": "06",
+   "word": "that",
+   "start": 27.489,
+   "end": 27.682
+  },
+  {
+   "beat": "06",
+   "word": "blend,",
+   "start": 27.682,
+   "end": 28.205
+  },
+  {
+   "beat": "06",
+   "word": "with",
+   "start": 28.545,
+   "end": 28.739
+  },
+  {
+   "beat": "06",
+   "word": "ginger",
+   "start": 28.818,
+   "end": 29.364
+  },
+  {
+   "beat": "06",
+   "word": "and",
+   "start": 29.477,
+   "end": 29.602
+  },
+  {
+   "beat": "06",
+   "word": "allspice,",
+   "start": 29.614,
+   "end": 30.443
+  },
+  {
+   "beat": "06",
+   "word": "in",
+   "start": 30.648,
+   "end": 30.996
+  },
+  {
+   "beat": "06",
+   "word": "1934.",
+   "start": 30.996,
+   "end": 31.693
+  },
+  {
+   "beat": "07",
+   "word": "Send",
+   "start": 32.368,
+   "end": 32.607
+  },
+  {
+   "beat": "07",
+   "word": "this",
+   "start": 32.607,
+   "end": 32.743
+  },
+  {
+   "beat": "07",
+   "word": "to",
+   "start": 32.743,
+   "end": 32.845
+  },
+  {
+   "beat": "07",
+   "word": "your",
+   "start": 32.845,
+   "end": 32.936
+  },
+  {
+   "beat": "07",
+   "word": "pumpkin",
+   "start": 32.948,
+   "end": 33.266
+  },
+  {
+   "beat": "07",
+   "word": "spice",
+   "start": 33.266,
+   "end": 33.573
+  },
+  {
+   "beat": "07",
+   "word": "friend.",
+   "start": 33.573,
+   "end": 33.936
+  },
+  {
+   "beat": "08",
+   "word": "Search",
+   "start": 35.0,
+   "end": 35.193
+  },
+  {
+   "beat": "08",
+   "word": "Saint",
+   "start": 35.193,
+   "end": 35.455
+  },
+  {
+   "beat": "08",
+   "word": "Match",
+   "start": 35.455,
+   "end": 35.784
+  },
+  {
+   "beat": "08",
+   "word": "on",
+   "start": 35.784,
+   "end": 35.864
+  },
+  {
+   "beat": "08",
+   "word": "the",
+   "start": 35.864,
+   "end": 35.92
+  },
+  {
+   "beat": "08",
+   "word": "App",
+   "start": 35.92,
+   "end": 36.136
+  },
+  {
+   "beat": "08",
+   "word": "Store.",
+   "start": 36.148,
+   "end": 36.534
+  },
+  {
+   "beat": "09",
+   "word": "Feel",
+   "start": 37.289,
+   "end": 37.482
+  },
+  {
+   "beat": "09",
+   "word": "it.",
+   "start": 37.482,
+   "end": 37.595
+  },
+  {
+   "beat": "09",
+   "word": "Match",
+   "start": 37.948,
+   "end": 38.152
+  },
+  {
+   "beat": "09",
+   "word": "a",
+   "start": 38.152,
+   "end": 38.198
+  },
+  {
+   "beat": "09",
+   "word": "saint",
+   "start": 38.198,
+   "end": 38.618
+  },
+  {
+   "beat": "09",
+   "word": "who",
+   "start": 38.618,
+   "end": 38.755
+  },
+  {
+   "beat": "09",
+   "word": "lived",
+   "start": 38.755,
+   "end": 39.107
+  },
+  {
+   "beat": "09",
+   "word": "it.",
+   "start": 39.118,
+   "end": 39.311
+  },
+  {
+   "beat": "10",
+   "word": "Did",
+   "start": 39.975,
+   "end": 40.055
+  },
+  {
+   "beat": "10",
+   "word": "a",
+   "start": 40.055,
+   "end": 40.089
+  },
+  {
+   "beat": "10",
+   "word": "medieval",
+   "start": 40.089,
+   "end": 40.52
+  },
+  {
+   "beat": "10",
+   "word": "nun",
+   "start": 40.532,
+   "end": 40.839
+  },
+  {
+   "beat": "10",
+   "word": "invent",
+   "start": 40.85,
+   "end": 41.18
+  },
+  {
+   "beat": "10",
+   "word": "pumpkin",
+   "start": 41.18,
+   "end": 41.486
+  },
+  {
+   "beat": "10",
+   "word": "spice?",
+   "start": 41.486,
+   "end": 42.089
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "folder": "2026-10-11-educational-hildegard-pumpkin-spice",
+ "voice": "Andrew fallback. ElevenLabs key was not set.",
+ "on_screen_hook": "Did a medieval nun invent pumpkin spice?",
+ "reel": null,
+ "wav_duration_s": 42.436,
+ "first_word_s": 0.091,
+ "files": {
+  "beat-01.png": {
+   "md5": "9c3070d0e17345320d062242448f9312",
+   "bytes": 1587620
+  },
+  "beat-02.png": {
+   "md5": "f9b811f1d08e0a170d91930e3c632769",
+   "bytes": 1488974
+  },
+  "beat-03.png": {
+   "md5": "1ef94418fa306bc7e36a86cc306b4b57",
+   "bytes": 1400040
+  },
+  "beat-04.png": {
+   "md5": "07d7a1a82aaccb9083c01040cd31c3e7",
+   "bytes": 1807303
+  },
+  "beat-05.png": {
+   "md5": "260d2feb441a579d4f0946938b1634a2",
+   "bytes": 1385032
+  },
+  "beat-06.png": {
+   "md5": "2c4bde7df4ea167cb8080d3f7760569b",
+   "bytes": 1695874
+  },
+  "beat-07.png": {
+   "md5": "c376ad4ae039fabc3642024f9d7a7e6b",
+   "bytes": 1344482
+  },
+  "cast/CAST.md": {
+   "md5": "990c4de33f00e41b80e032274cb4d469",
+   "bytes": 362
+  },
+  "cast/hildegard.png": {
+   "md5": "2fa6675f5ac7a458ef9831dc293ea6b5",
+   "bytes": 1363322
+  },
+  "contact-sheet.png": {
+   "md5": "cb9e272eb213409277520d018d901e21",
+   "bytes": 1243839
+  },
+  "cover.png": {
+   "md5": "9c3070d0e17345320d062242448f9312",
+   "bytes": 1587620
+  },
+  "learn-feed-endcard.png": {
+   "md5": "12fc3b0162fdaaad03aaa1fbe6595b28",
+   "bytes": 2523610
+  },
+  "vo/VO-NOTES.md": {
+   "md5": "2b17e0807bbd7c83e590a96f9a233d3d",
+   "bytes": 552
+  },
+  "vo/VOICE-FALLBACK.txt": {
+   "md5": "803556597e0815342c2ae1b1148edd99",
+   "bytes": 139
+  },
+  "vo/vo-free.mp3": {
+   "md5": "7fda6fde5e7ed8ccf051a753a7a023b8",
+   "bytes": 236016
+  },
+  "vo/vo-free.wav": {
+   "md5": "721e7aa4a4e616fa5c7d68149ac43ac1",
+   "bytes": 3742934
+  },
+  "vo/vo-timing.json": {
+   "md5": "f7a3a1aaf056cb4a42d274ecfa9d7bdc",
+   "bytes": 3165
+  },
+  "vo/vo-words.json": {
+   "md5": "12fcde49faddca903b01bd8a7eb5259d",
+   "bytes": 9059
+  }
+ }
+}

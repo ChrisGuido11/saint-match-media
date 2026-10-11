@@ -1,0 +1,1769 @@
+{
+ "duration": 97.152018,
+ "words": [
+  {
+   "beat": "01",
+   "word": "A",
+   "start": 0.091,
+   "end": 0.136
+  },
+  {
+   "beat": "01",
+   "word": "reading",
+   "start": 0.148,
+   "end": 0.42
+  },
+  {
+   "beat": "01",
+   "word": "from",
+   "start": 0.42,
+   "end": 0.523
+  },
+  {
+   "beat": "01",
+   "word": "the",
+   "start": 0.534,
+   "end": 0.58
+  },
+  {
+   "beat": "01",
+   "word": "holy",
+   "start": 0.58,
+   "end": 0.886
+  },
+  {
+   "beat": "01",
+   "word": "Gospel",
+   "start": 0.886,
+   "end": 1.432
+  },
+  {
+   "beat": "01",
+   "word": "according",
+   "start": 1.545,
+   "end": 1.898
+  },
+  {
+   "beat": "01",
+   "word": "to",
+   "start": 1.909,
+   "end": 1.966
+  },
+  {
+   "beat": "01",
+   "word": "Matthew.",
+   "start": 1.966,
+   "end": 2.455
+  },
+  {
+   "beat": "02",
+   "word": "Jesus",
+   "start": 3.118,
+   "end": 3.505
+  },
+  {
+   "beat": "02",
+   "word": "again",
+   "start": 3.505,
+   "end": 3.891
+  },
+  {
+   "beat": "02",
+   "word": "in",
+   "start": 3.891,
+   "end": 4.016
+  },
+  {
+   "beat": "02",
+   "word": "reply",
+   "start": 4.027,
+   "end": 4.595
+  },
+  {
+   "beat": "02",
+   "word": "spoke",
+   "start": 4.902,
+   "end": 5.198
+  },
+  {
+   "beat": "02",
+   "word": "to",
+   "start": 5.209,
+   "end": 5.289
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 5.3,
+   "end": 5.391
+  },
+  {
+   "beat": "02",
+   "word": "chief",
+   "start": 5.391,
+   "end": 5.709
+  },
+  {
+   "beat": "02",
+   "word": "priests",
+   "start": 5.709,
+   "end": 6.186
+  },
+  {
+   "beat": "02",
+   "word": "and",
+   "start": 6.289,
+   "end": 6.595
+  },
+  {
+   "beat": "02",
+   "word": "elders",
+   "start": 6.607,
+   "end": 7.005
+  },
+  {
+   "beat": "02",
+   "word": "of",
+   "start": 7.016,
+   "end": 7.05
+  },
+  {
+   "beat": "02",
+   "word": "the",
+   "start": 7.05,
+   "end": 7.107
+  },
+  {
+   "beat": "02",
+   "word": "people",
+   "start": 7.107,
+   "end": 7.414
+  },
+  {
+   "beat": "02",
+   "word": "in",
+   "start": 7.414,
+   "end": 7.482
+  },
+  {
+   "beat": "02",
+   "word": "parables,",
+   "start": 7.493,
+   "end": 8.05
+  },
+  {
+   "beat": "02",
+   "word": "saying,",
+   "start": 8.402,
+   "end": 8.652
+  },
+  {
+   "beat": "03",
+   "word": "\"The",
+   "start": 9.002,
+   "end": 9.127
+  },
+  {
+   "beat": "03",
+   "word": "kingdom",
+   "start": 9.127,
+   "end": 9.491
+  },
+  {
+   "beat": "03",
+   "word": "of",
+   "start": 9.491,
+   "end": 9.582
+  },
+  {
+   "beat": "03",
+   "word": "heaven",
+   "start": 9.593,
+   "end": 10.025
+  },
+  {
+   "beat": "03",
+   "word": "may",
+   "start": 10.252,
+   "end": 10.4
+  },
+  {
+   "beat": "03",
+   "word": "be",
+   "start": 10.411,
+   "end": 10.559
+  },
+  {
+   "beat": "03",
+   "word": "likened",
+   "start": 10.559,
+   "end": 11.002
+  },
+  {
+   "beat": "03",
+   "word": "to",
+   "start": 11.002,
+   "end": 11.116
+  },
+  {
+   "beat": "03",
+   "word": "a",
+   "start": 11.127,
+   "end": 11.195
+  },
+  {
+   "beat": "03",
+   "word": "king",
+   "start": 11.207,
+   "end": 11.559
+  },
+  {
+   "beat": "03",
+   "word": "who",
+   "start": 11.57,
+   "end": 11.718
+  },
+  {
+   "beat": "03",
+   "word": "gave",
+   "start": 11.73,
+   "end": 11.9
+  },
+  {
+   "beat": "03",
+   "word": "a",
+   "start": 11.9,
+   "end": 12.002
+  },
+  {
+   "beat": "03",
+   "word": "wedding",
+   "start": 12.002,
+   "end": 12.298
+  },
+  {
+   "beat": "03",
+   "word": "feast",
+   "start": 12.298,
+   "end": 12.707
+  },
+  {
+   "beat": "03",
+   "word": "for",
+   "start": 12.718,
+   "end": 12.832
+  },
+  {
+   "beat": "03",
+   "word": "his",
+   "start": 12.832,
+   "end": 12.923
+  },
+  {
+   "beat": "03",
+   "word": "son.",
+   "start": 12.923,
+   "end": 13.218
+  },
+  {
+   "beat": "04",
+   "word": "He",
+   "start": 13.893,
+   "end": 13.939
+  },
+  {
+   "beat": "04",
+   "word": "dispatched",
+   "start": 13.95,
+   "end": 14.416
+  },
+  {
+   "beat": "04",
+   "word": "his",
+   "start": 14.416,
+   "end": 14.53
+  },
+  {
+   "beat": "04",
+   "word": "servants",
+   "start": 14.541,
+   "end": 14.995
+  },
+  {
+   "beat": "04",
+   "word": "to",
+   "start": 14.995,
+   "end": 15.086
+  },
+  {
+   "beat": "04",
+   "word": "summon",
+   "start": 15.098,
+   "end": 15.484
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 15.484,
+   "end": 15.541
+  },
+  {
+   "beat": "04",
+   "word": "invited",
+   "start": 15.541,
+   "end": 16.03
+  },
+  {
+   "beat": "04",
+   "word": "guests",
+   "start": 16.098,
+   "end": 16.405
+  },
+  {
+   "beat": "04",
+   "word": "to",
+   "start": 16.405,
+   "end": 16.484
+  },
+  {
+   "beat": "04",
+   "word": "the",
+   "start": 16.484,
+   "end": 16.552
+  },
+  {
+   "beat": "04",
+   "word": "feast,",
+   "start": 16.552,
+   "end": 17.12
+  },
+  {
+   "beat": "04",
+   "word": "but",
+   "start": 17.473,
+   "end": 17.598
+  },
+  {
+   "beat": "04",
+   "word": "they",
+   "start": 17.598,
+   "end": 17.689
+  },
+  {
+   "beat": "04",
+   "word": "refused",
+   "start": 17.689,
+   "end": 18.143
+  },
+  {
+   "beat": "04",
+   "word": "to",
+   "start": 18.143,
+   "end": 18.2
+  },
+  {
+   "beat": "04",
+   "word": "come.",
+   "start": 18.211,
+   "end": 18.507
+  },
+  {
+   "beat": "05",
+   "word": "A",
+   "start": 19.17,
+   "end": 19.216
+  },
+  {
+   "beat": "05",
+   "word": "second",
+   "start": 19.216,
+   "end": 19.557
+  },
+  {
+   "beat": "05",
+   "word": "time",
+   "start": 19.568,
+   "end": 19.83
+  },
+  {
+   "beat": "05",
+   "word": "he",
+   "start": 19.83,
+   "end": 19.92
+  },
+  {
+   "beat": "05",
+   "word": "sent",
+   "start": 19.92,
+   "end": 20.17
+  },
+  {
+   "beat": "05",
+   "word": "other",
+   "start": 20.17,
+   "end": 20.364
+  },
+  {
+   "beat": "05",
+   "word": "servants,",
+   "start": 20.364,
+   "end": 20.886
+  },
+  {
+   "beat": "05",
+   "word": "saying,",
+   "start": 21.045,
+   "end": 21.477
+  },
+  {
+   "beat": "05",
+   "word": "'Tell",
+   "start": 21.727,
+   "end": 21.943
+  },
+  {
+   "beat": "05",
+   "word": "those",
+   "start": 21.943,
+   "end": 22.136
+  },
+  {
+   "beat": "05",
+   "word": "invited:",
+   "start": 22.136,
+   "end": 22.557
+  },
+  {
+   "beat": "05",
+   "word": "\"Behold,",
+   "start": 22.977,
+   "end": 23.523
+  },
+  {
+   "beat": "05",
+   "word": "I",
+   "start": 24.023,
+   "end": 24.068
+  },
+  {
+   "beat": "05",
+   "word": "have",
+   "start": 24.068,
+   "end": 24.136
+  },
+  {
+   "beat": "05",
+   "word": "prepared",
+   "start": 24.148,
+   "end": 24.466
+  },
+  {
+   "beat": "05",
+   "word": "my",
+   "start": 24.466,
+   "end": 24.602
+  },
+  {
+   "beat": "05",
+   "word": "banquet,",
+   "start": 24.602,
+   "end": 25.114
+  },
+  {
+   "beat": "06",
+   "word": "my",
+   "start": 25.407,
+   "end": 25.577
+  },
+  {
+   "beat": "06",
+   "word": "calves",
+   "start": 25.589,
+   "end": 26.1
+  },
+  {
+   "beat": "06",
+   "word": "and",
+   "start": 26.111,
+   "end": 26.214
+  },
+  {
+   "beat": "06",
+   "word": "fattened",
+   "start": 26.225,
+   "end": 26.68
+  },
+  {
+   "beat": "06",
+   "word": "cattle",
+   "start": 26.68,
+   "end": 27.009
+  },
+  {
+   "beat": "06",
+   "word": "are",
+   "start": 27.009,
+   "end": 27.145
+  },
+  {
+   "beat": "06",
+   "word": "killed,",
+   "start": 27.145,
+   "end": 27.589
+  },
+  {
+   "beat": "06",
+   "word": "and",
+   "start": 28.02,
+   "end": 28.18
+  },
+  {
+   "beat": "06",
+   "word": "everything",
+   "start": 28.248,
+   "end": 28.68
+  },
+  {
+   "beat": "06",
+   "word": "is",
+   "start": 28.68,
+   "end": 28.782
+  },
+  {
+   "beat": "06",
+   "word": "ready;",
+   "start": 28.793,
+   "end": 29.123
+  },
+  {
+   "beat": "06",
+   "word": "come",
+   "start": 29.532,
+   "end": 29.782
+  },
+  {
+   "beat": "06",
+   "word": "to",
+   "start": 29.782,
+   "end": 29.873
+  },
+  {
+   "beat": "06",
+   "word": "the",
+   "start": 29.884,
+   "end": 29.952
+  },
+  {
+   "beat": "06",
+   "word": "feast.\"'",
+   "start": 29.964,
+   "end": 30.566
+  },
+  {
+   "beat": "07",
+   "word": "Some",
+   "start": 31.007,
+   "end": 31.211
+  },
+  {
+   "beat": "07",
+   "word": "ignored",
+   "start": 31.223,
+   "end": 31.791
+  },
+  {
+   "beat": "07",
+   "word": "the",
+   "start": 31.791,
+   "end": 31.848
+  },
+  {
+   "beat": "07",
+   "word": "invitation",
+   "start": 31.848,
+   "end": 32.53
+  },
+  {
+   "beat": "07",
+   "word": "and",
+   "start": 32.677,
+   "end": 32.836
+  },
+  {
+   "beat": "07",
+   "word": "went",
+   "start": 32.836,
+   "end": 32.995
+  },
+  {
+   "beat": "07",
+   "word": "away,",
+   "start": 32.995,
+   "end": 33.416
+  },
+  {
+   "beat": "07",
+   "word": "one",
+   "start": 33.95,
+   "end": 34.12
+  },
+  {
+   "beat": "07",
+   "word": "to",
+   "start": 34.132,
+   "end": 34.257
+  },
+  {
+   "beat": "07",
+   "word": "his",
+   "start": 34.257,
+   "end": 34.382
+  },
+  {
+   "beat": "07",
+   "word": "farm,",
+   "start": 34.382,
+   "end": 34.768
+  },
+  {
+   "beat": "07",
+   "word": "another",
+   "start": 35.132,
+   "end": 35.45
+  },
+  {
+   "beat": "07",
+   "word": "to",
+   "start": 35.45,
+   "end": 35.541
+  },
+  {
+   "beat": "07",
+   "word": "his",
+   "start": 35.541,
+   "end": 35.643
+  },
+  {
+   "beat": "07",
+   "word": "business.",
+   "start": 35.655,
+   "end": 36.245
+  },
+  {
+   "beat": "08",
+   "word": "The",
+   "start": 36.92,
+   "end": 36.977
+  },
+  {
+   "beat": "08",
+   "word": "rest",
+   "start": 36.977,
+   "end": 37.307
+  },
+  {
+   "beat": "08",
+   "word": "laid",
+   "start": 37.398,
+   "end": 37.625
+  },
+  {
+   "beat": "08",
+   "word": "hold",
+   "start": 37.625,
+   "end": 37.898
+  },
+  {
+   "beat": "08",
+   "word": "of",
+   "start": 37.909,
+   "end": 37.966
+  },
+  {
+   "beat": "08",
+   "word": "his",
+   "start": 37.966,
+   "end": 38.068
+  },
+  {
+   "beat": "08",
+   "word": "servants,",
+   "start": 38.068,
+   "end": 38.693
+  },
+  {
+   "beat": "08",
+   "word": "mistreated",
+   "start": 38.886,
+   "end": 39.42
+  },
+  {
+   "beat": "08",
+   "word": "them,",
+   "start": 39.42,
+   "end": 39.614
+  },
+  {
+   "beat": "08",
+   "word": "and",
+   "start": 40.057,
+   "end": 40.148
+  },
+  {
+   "beat": "08",
+   "word": "killed",
+   "start": 40.148,
+   "end": 40.455
+  },
+  {
+   "beat": "08",
+   "word": "them.",
+   "start": 40.466,
+   "end": 40.67
+  },
+  {
+   "beat": "09",
+   "word": "The",
+   "start": 41.345,
+   "end": 41.436
+  },
+  {
+   "beat": "09",
+   "word": "king",
+   "start": 41.436,
+   "end": 41.675
+  },
+  {
+   "beat": "09",
+   "word": "was",
+   "start": 41.675,
+   "end": 41.823
+  },
+  {
+   "beat": "09",
+   "word": "enraged",
+   "start": 41.834,
+   "end": 42.459
+  },
+  {
+   "beat": "09",
+   "word": "and",
+   "start": 42.573,
+   "end": 42.698
+  },
+  {
+   "beat": "09",
+   "word": "sent",
+   "start": 42.698,
+   "end": 42.97
+  },
+  {
+   "beat": "09",
+   "word": "his",
+   "start": 42.97,
+   "end": 43.118
+  },
+  {
+   "beat": "09",
+   "word": "troops,",
+   "start": 43.13,
+   "end": 43.675
+  },
+  {
+   "beat": "09",
+   "word": "destroyed",
+   "start": 44.027,
+   "end": 44.573
+  },
+  {
+   "beat": "09",
+   "word": "those",
+   "start": 44.573,
+   "end": 44.777
+  },
+  {
+   "beat": "09",
+   "word": "murderers,",
+   "start": 44.777,
+   "end": 45.482
+  },
+  {
+   "beat": "09",
+   "word": "and",
+   "start": 45.811,
+   "end": 45.936
+  },
+  {
+   "beat": "09",
+   "word": "burned",
+   "start": 45.936,
+   "end": 46.232
+  },
+  {
+   "beat": "09",
+   "word": "their",
+   "start": 46.232,
+   "end": 46.345
+  },
+  {
+   "beat": "09",
+   "word": "city.",
+   "start": 46.357,
+   "end": 46.698
+  },
+  {
+   "beat": "10",
+   "word": "Then",
+   "start": 47.361,
+   "end": 47.475
+  },
+  {
+   "beat": "10",
+   "word": "he",
+   "start": 47.475,
+   "end": 47.577
+  },
+  {
+   "beat": "10",
+   "word": "said",
+   "start": 47.577,
+   "end": 47.85
+  },
+  {
+   "beat": "10",
+   "word": "to",
+   "start": 47.85,
+   "end": 47.941
+  },
+  {
+   "beat": "10",
+   "word": "his",
+   "start": 47.941,
+   "end": 48.077
+  },
+  {
+   "beat": "10",
+   "word": "servants,",
+   "start": 48.089,
+   "end": 48.634
+  },
+  {
+   "beat": "10",
+   "word": "'The",
+   "start": 48.941,
+   "end": 49.055
+  },
+  {
+   "beat": "10",
+   "word": "feast",
+   "start": 49.055,
+   "end": 49.486
+  },
+  {
+   "beat": "10",
+   "word": "is",
+   "start": 49.691,
+   "end": 49.85
+  },
+  {
+   "beat": "10",
+   "word": "ready,",
+   "start": 49.85,
+   "end": 50.214
+  },
+  {
+   "beat": "10",
+   "word": "but",
+   "start": 50.6,
+   "end": 50.736
+  },
+  {
+   "beat": "10",
+   "word": "those",
+   "start": 50.736,
+   "end": 50.952
+  },
+  {
+   "beat": "10",
+   "word": "who",
+   "start": 50.952,
+   "end": 51.009
+  },
+  {
+   "beat": "10",
+   "word": "were",
+   "start": 51.009,
+   "end": 51.123
+  },
+  {
+   "beat": "10",
+   "word": "invited",
+   "start": 51.123,
+   "end": 51.543
+  },
+  {
+   "beat": "10",
+   "word": "were",
+   "start": 51.555,
+   "end": 51.657
+  },
+  {
+   "beat": "10",
+   "word": "not",
+   "start": 51.657,
+   "end": 52.009
+  },
+  {
+   "beat": "10",
+   "word": "worthy",
+   "start": 52.02,
+   "end": 52.339
+  },
+  {
+   "beat": "10",
+   "word": "to",
+   "start": 52.35,
+   "end": 52.418
+  },
+  {
+   "beat": "10",
+   "word": "come.",
+   "start": 52.418,
+   "end": 52.759
+  },
+  {
+   "beat": "11",
+   "word": "Go",
+   "start": 53.434,
+   "end": 53.661
+  },
+  {
+   "beat": "11",
+   "word": "out,",
+   "start": 53.661,
+   "end": 53.923
+  },
+  {
+   "beat": "11",
+   "word": "therefore,",
+   "start": 54.07,
+   "end": 54.639
+  },
+  {
+   "beat": "11",
+   "word": "into",
+   "start": 55.014,
+   "end": 55.139
+  },
+  {
+   "beat": "11",
+   "word": "the",
+   "start": 55.15,
+   "end": 55.207
+  },
+  {
+   "beat": "11",
+   "word": "main",
+   "start": 55.207,
+   "end": 55.502
+  },
+  {
+   "beat": "11",
+   "word": "roads",
+   "start": 55.502,
+   "end": 56.07
+  },
+  {
+   "beat": "11",
+   "word": "and",
+   "start": 56.184,
+   "end": 56.286
+  },
+  {
+   "beat": "11",
+   "word": "invite",
+   "start": 56.286,
+   "end": 56.65
+  },
+  {
+   "beat": "11",
+   "word": "to",
+   "start": 56.661,
+   "end": 56.741
+  },
+  {
+   "beat": "11",
+   "word": "the",
+   "start": 56.741,
+   "end": 56.82
+  },
+  {
+   "beat": "11",
+   "word": "feast",
+   "start": 56.82,
+   "end": 57.207
+  },
+  {
+   "beat": "11",
+   "word": "whomever",
+   "start": 57.207,
+   "end": 57.536
+  },
+  {
+   "beat": "11",
+   "word": "you",
+   "start": 57.548,
+   "end": 57.673
+  },
+  {
+   "beat": "11",
+   "word": "find.'",
+   "start": 57.684,
+   "end": 58.093
+  },
+  {
+   "beat": "12",
+   "word": "The",
+   "start": 58.682,
+   "end": 58.75
+  },
+  {
+   "beat": "12",
+   "word": "servants",
+   "start": 58.75,
+   "end": 59.148
+  },
+  {
+   "beat": "12",
+   "word": "went",
+   "start": 59.159,
+   "end": 59.295
+  },
+  {
+   "beat": "12",
+   "word": "out",
+   "start": 59.295,
+   "end": 59.489
+  },
+  {
+   "beat": "12",
+   "word": "into",
+   "start": 59.5,
+   "end": 59.625
+  },
+  {
+   "beat": "12",
+   "word": "the",
+   "start": 59.625,
+   "end": 59.705
+  },
+  {
+   "beat": "12",
+   "word": "streets",
+   "start": 59.705,
+   "end": 60.307
+  },
+  {
+   "beat": "12",
+   "word": "and",
+   "start": 60.455,
+   "end": 60.58
+  },
+  {
+   "beat": "12",
+   "word": "gathered",
+   "start": 60.58,
+   "end": 61.034
+  },
+  {
+   "beat": "12",
+   "word": "all",
+   "start": 61.045,
+   "end": 61.25
+  },
+  {
+   "beat": "12",
+   "word": "they",
+   "start": 61.25,
+   "end": 61.398
+  },
+  {
+   "beat": "12",
+   "word": "found,",
+   "start": 61.398,
+   "end": 61.886
+  },
+  {
+   "beat": "12",
+   "word": "bad",
+   "start": 62.33,
+   "end": 62.682
+  },
+  {
+   "beat": "12",
+   "word": "and",
+   "start": 62.693,
+   "end": 62.773
+  },
+  {
+   "beat": "12",
+   "word": "good",
+   "start": 62.773,
+   "end": 62.966
+  },
+  {
+   "beat": "12",
+   "word": "alike,",
+   "start": 62.966,
+   "end": 63.398
+  },
+  {
+   "beat": "12",
+   "word": "and",
+   "start": 63.761,
+   "end": 63.807
+  },
+  {
+   "beat": "12",
+   "word": "the",
+   "start": 63.807,
+   "end": 63.864
+  },
+  {
+   "beat": "12",
+   "word": "hall",
+   "start": 63.864,
+   "end": 64.227
+  },
+  {
+   "beat": "12",
+   "word": "was",
+   "start": 64.227,
+   "end": 64.375
+  },
+  {
+   "beat": "12",
+   "word": "filled",
+   "start": 64.386,
+   "end": 64.693
+  },
+  {
+   "beat": "12",
+   "word": "with",
+   "start": 64.705,
+   "end": 64.818
+  },
+  {
+   "beat": "12",
+   "word": "guests.",
+   "start": 64.818,
+   "end": 65.432
+  },
+  {
+   "beat": "13",
+   "word": "But",
+   "start": 66.107,
+   "end": 66.243
+  },
+  {
+   "beat": "13",
+   "word": "when",
+   "start": 66.255,
+   "end": 66.345
+  },
+  {
+   "beat": "13",
+   "word": "the",
+   "start": 66.345,
+   "end": 66.414
+  },
+  {
+   "beat": "13",
+   "word": "king",
+   "start": 66.414,
+   "end": 66.652
+  },
+  {
+   "beat": "13",
+   "word": "came",
+   "start": 66.652,
+   "end": 66.868
+  },
+  {
+   "beat": "13",
+   "word": "in",
+   "start": 66.88,
+   "end": 67.016
+  },
+  {
+   "beat": "13",
+   "word": "to",
+   "start": 67.016,
+   "end": 67.095
+  },
+  {
+   "beat": "13",
+   "word": "meet",
+   "start": 67.095,
+   "end": 67.3
+  },
+  {
+   "beat": "13",
+   "word": "the",
+   "start": 67.3,
+   "end": 67.368
+  },
+  {
+   "beat": "13",
+   "word": "guests,",
+   "start": 67.38,
+   "end": 67.948
+  },
+  {
+   "beat": "13",
+   "word": "he",
+   "start": 68.3,
+   "end": 68.391
+  },
+  {
+   "beat": "13",
+   "word": "saw",
+   "start": 68.391,
+   "end": 68.618
+  },
+  {
+   "beat": "13",
+   "word": "a",
+   "start": 68.618,
+   "end": 68.652
+  },
+  {
+   "beat": "13",
+   "word": "man",
+   "start": 68.652,
+   "end": 68.97
+  },
+  {
+   "beat": "13",
+   "word": "there",
+   "start": 68.982,
+   "end": 69.084
+  },
+  {
+   "beat": "13",
+   "word": "not",
+   "start": 69.095,
+   "end": 69.436
+  },
+  {
+   "beat": "13",
+   "word": "dressed",
+   "start": 69.436,
+   "end": 69.936
+  },
+  {
+   "beat": "13",
+   "word": "in",
+   "start": 70.027,
+   "end": 70.095
+  },
+  {
+   "beat": "13",
+   "word": "a",
+   "start": 70.107,
+   "end": 70.175
+  },
+  {
+   "beat": "13",
+   "word": "wedding",
+   "start": 70.186,
+   "end": 70.425
+  },
+  {
+   "beat": "13",
+   "word": "garment.",
+   "start": 70.425,
+   "end": 70.857
+  },
+  {
+   "beat": "14",
+   "word": "The",
+   "start": 71.52,
+   "end": 71.589
+  },
+  {
+   "beat": "14",
+   "word": "king",
+   "start": 71.6,
+   "end": 71.884
+  },
+  {
+   "beat": "14",
+   "word": "said",
+   "start": 71.884,
+   "end": 72.145
+  },
+  {
+   "beat": "14",
+   "word": "to",
+   "start": 72.145,
+   "end": 72.236
+  },
+  {
+   "beat": "14",
+   "word": "him,",
+   "start": 72.236,
+   "end": 72.407
+  },
+  {
+   "beat": "14",
+   "word": "'My",
+   "start": 72.918,
+   "end": 73.111
+  },
+  {
+   "beat": "14",
+   "word": "friend,",
+   "start": 73.111,
+   "end": 73.566
+  },
+  {
+   "beat": "14",
+   "word": "how",
+   "start": 73.964,
+   "end": 74.111
+  },
+  {
+   "beat": "14",
+   "word": "is",
+   "start": 74.123,
+   "end": 74.225
+  },
+  {
+   "beat": "14",
+   "word": "it",
+   "start": 74.225,
+   "end": 74.293
+  },
+  {
+   "beat": "14",
+   "word": "that",
+   "start": 74.293,
+   "end": 74.384
+  },
+  {
+   "beat": "14",
+   "word": "you",
+   "start": 74.384,
+   "end": 74.498
+  },
+  {
+   "beat": "14",
+   "word": "came",
+   "start": 74.498,
+   "end": 74.782
+  },
+  {
+   "beat": "14",
+   "word": "in",
+   "start": 74.793,
+   "end": 74.895
+  },
+  {
+   "beat": "14",
+   "word": "here",
+   "start": 74.895,
+   "end": 75.259
+  },
+  {
+   "beat": "14",
+   "word": "without",
+   "start": 75.27,
+   "end": 75.657
+  },
+  {
+   "beat": "14",
+   "word": "a",
+   "start": 75.668,
+   "end": 75.736
+  },
+  {
+   "beat": "14",
+   "word": "wedding",
+   "start": 75.736,
+   "end": 76.043
+  },
+  {
+   "beat": "14",
+   "word": "garment?'",
+   "start": 76.043,
+   "end": 76.486
+  },
+  {
+   "beat": "15",
+   "word": "But",
+   "start": 77.132,
+   "end": 77.189
+  },
+  {
+   "beat": "15",
+   "word": "he",
+   "start": 77.189,
+   "end": 77.268
+  },
+  {
+   "beat": "15",
+   "word": "was",
+   "start": 77.268,
+   "end": 77.393
+  },
+  {
+   "beat": "15",
+   "word": "reduced",
+   "start": 77.393,
+   "end": 77.802
+  },
+  {
+   "beat": "15",
+   "word": "to",
+   "start": 77.802,
+   "end": 77.87
+  },
+  {
+   "beat": "15",
+   "word": "silence.",
+   "start": 77.882,
+   "end": 78.552
+  },
+  {
+   "beat": "16",
+   "word": "Then",
+   "start": 79.216,
+   "end": 79.341
+  },
+  {
+   "beat": "16",
+   "word": "the",
+   "start": 79.341,
+   "end": 79.409
+  },
+  {
+   "beat": "16",
+   "word": "king",
+   "start": 79.42,
+   "end": 79.761
+  },
+  {
+   "beat": "16",
+   "word": "said",
+   "start": 79.761,
+   "end": 80.091
+  },
+  {
+   "beat": "16",
+   "word": "to",
+   "start": 80.091,
+   "end": 80.182
+  },
+  {
+   "beat": "16",
+   "word": "his",
+   "start": 80.182,
+   "end": 80.295
+  },
+  {
+   "beat": "16",
+   "word": "attendants,",
+   "start": 80.295,
+   "end": 80.92
+  },
+  {
+   "beat": "16",
+   "word": "'Bind",
+   "start": 81.148,
+   "end": 81.398
+  },
+  {
+   "beat": "16",
+   "word": "his",
+   "start": 81.409,
+   "end": 81.534
+  },
+  {
+   "beat": "16",
+   "word": "hands",
+   "start": 81.545,
+   "end": 81.898
+  },
+  {
+   "beat": "16",
+   "word": "and",
+   "start": 81.898,
+   "end": 81.966
+  },
+  {
+   "beat": "16",
+   "word": "feet,",
+   "start": 81.966,
+   "end": 82.364
+  },
+  {
+   "beat": "17",
+   "word": "and",
+   "start": 82.861,
+   "end": 82.964
+  },
+  {
+   "beat": "17",
+   "word": "cast",
+   "start": 82.964,
+   "end": 83.316
+  },
+  {
+   "beat": "17",
+   "word": "him",
+   "start": 83.316,
+   "end": 83.43
+  },
+  {
+   "beat": "17",
+   "word": "into",
+   "start": 83.498,
+   "end": 83.577
+  },
+  {
+   "beat": "17",
+   "word": "the",
+   "start": 83.577,
+   "end": 83.657
+  },
+  {
+   "beat": "17",
+   "word": "darkness",
+   "start": 83.657,
+   "end": 84.066
+  },
+  {
+   "beat": "17",
+   "word": "outside,",
+   "start": 84.066,
+   "end": 84.691
+  },
+  {
+   "beat": "17",
+   "word": "where",
+   "start": 85.055,
+   "end": 85.18
+  },
+  {
+   "beat": "17",
+   "word": "there",
+   "start": 85.191,
+   "end": 85.305
+  },
+  {
+   "beat": "17",
+   "word": "will",
+   "start": 85.305,
+   "end": 85.384
+  },
+  {
+   "beat": "17",
+   "word": "be",
+   "start": 85.384,
+   "end": 85.52
+  },
+  {
+   "beat": "17",
+   "word": "wailing",
+   "start": 85.52,
+   "end": 86.157
+  },
+  {
+   "beat": "17",
+   "word": "and",
+   "start": 86.248,
+   "end": 86.339
+  },
+  {
+   "beat": "17",
+   "word": "grinding",
+   "start": 86.35,
+   "end": 86.93
+  },
+  {
+   "beat": "17",
+   "word": "of",
+   "start": 86.93,
+   "end": 86.998
+  },
+  {
+   "beat": "17",
+   "word": "teeth.'",
+   "start": 86.998,
+   "end": 87.452
+  },
+  {
+   "beat": "18",
+   "word": "Many",
+   "start": 87.984,
+   "end": 88.223
+  },
+  {
+   "beat": "18",
+   "word": "are",
+   "start": 88.223,
+   "end": 88.302
+  },
+  {
+   "beat": "18",
+   "word": "invited,",
+   "start": 88.314,
+   "end": 88.757
+  },
+  {
+   "beat": "18",
+   "word": "but",
+   "start": 88.973,
+   "end": 89.086
+  },
+  {
+   "beat": "18",
+   "word": "few",
+   "start": 89.098,
+   "end": 89.427
+  },
+  {
+   "beat": "18",
+   "word": "are",
+   "start": 89.427,
+   "end": 89.564
+  },
+  {
+   "beat": "18",
+   "word": "chosen.\"",
+   "start": 89.564,
+   "end": 90.041
+  },
+  {
+   "beat": "19",
+   "word": "The",
+   "start": 90.505,
+   "end": 90.55
+  },
+  {
+   "beat": "19",
+   "word": "Gospel",
+   "start": 90.55,
+   "end": 90.948
+  },
+  {
+   "beat": "19",
+   "word": "of",
+   "start": 90.959,
+   "end": 91.016
+  },
+  {
+   "beat": "19",
+   "word": "the",
+   "start": 91.016,
+   "end": 91.073
+  },
+  {
+   "beat": "19",
+   "word": "Lord.",
+   "start": 91.084,
+   "end": 91.436
+  },
+  {
+   "beat": "20",
+   "word": "Search",
+   "start": 92.5,
+   "end": 92.693
+  },
+  {
+   "beat": "20",
+   "word": "Saint",
+   "start": 92.693,
+   "end": 93.0
+  },
+  {
+   "beat": "20",
+   "word": "Match",
+   "start": 93.0,
+   "end": 93.386
+  },
+  {
+   "beat": "20",
+   "word": "on",
+   "start": 93.386,
+   "end": 93.477
+  },
+  {
+   "beat": "20",
+   "word": "the",
+   "start": 93.489,
+   "end": 93.545
+  },
+  {
+   "beat": "20",
+   "word": "App",
+   "start": 93.545,
+   "end": 93.773
+  },
+  {
+   "beat": "20",
+   "word": "Store.",
+   "start": 93.784,
+   "end": 94.17
+  },
+  {
+   "beat": "21",
+   "word": "Feel",
+   "start": 94.914,
+   "end": 95.107
+  },
+  {
+   "beat": "21",
+   "word": "it.",
+   "start": 95.118,
+   "end": 95.232
+  },
+  {
+   "beat": "21",
+   "word": "Match",
+   "start": 95.595,
+   "end": 95.789
+  },
+  {
+   "beat": "21",
+   "word": "a",
+   "start": 95.8,
+   "end": 95.845
+  },
+  {
+   "beat": "21",
+   "word": "saint",
+   "start": 95.857,
+   "end": 96.198
+  },
+  {
+   "beat": "21",
+   "word": "who",
+   "start": 96.198,
+   "end": 96.323
+  },
+  {
+   "beat": "21",
+   "word": "lived",
+   "start": 96.334,
+   "end": 96.641
+  },
+  {
+   "beat": "21",
+   "word": "it.",
+   "start": 96.652,
+   "end": 96.823
+  }
+ ]
+}

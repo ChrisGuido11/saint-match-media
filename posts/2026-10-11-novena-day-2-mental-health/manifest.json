@@ -1,0 +1,114 @@
+{
+ "folder": "2026-10-11-novena-day-2-mental-health",
+ "voice": "Andrew only. No ElevenLabs call.",
+ "on_screen_hook": null,
+ "reel": null,
+ "wav_duration_s": 74.512,
+ "first_word_s": 0.08,
+ "files": {
+  "beat-01.png": {
+   "md5": "d8a9894054988dd7251ce7e8411d0d35",
+   "bytes": 1323007
+  },
+  "beat-02.png": {
+   "md5": "845d3ea6b53e56ccfb23a1d29edcdaa0",
+   "bytes": 1617431
+  },
+  "beat-03.png": {
+   "md5": "ae2446bb18be2bf61e6b7df39f44582d",
+   "bytes": 1180577
+  },
+  "beat-04.png": {
+   "md5": "aedfcb2933395b0e6981e47f946e4331",
+   "bytes": 1302194
+  },
+  "beat-05.png": {
+   "md5": "9c6bec8d9601b569ddbedb674b82e16c",
+   "bytes": 1623573
+  },
+  "beat-06.png": {
+   "md5": "8173803d0e5227b423c9515b20446eec",
+   "bytes": 1378466
+  },
+  "beat-07.png": {
+   "md5": "0b615dab919366260926613062ecbb4b",
+   "bytes": 1234188
+  },
+  "beat-08.png": {
+   "md5": "656eb88b7465aadf87e20c4f4444f6ef",
+   "bytes": 1281577
+  },
+  "beat-09.png": {
+   "md5": "181069ff6d1dfae58e84d6bc06e28642",
+   "bytes": 1350690
+  },
+  "beat-10.png": {
+   "md5": "219172284cbf674bef85c65a4f1f5925",
+   "bytes": 1293820
+  },
+  "beat-11.png": {
+   "md5": "049431c241aab4e3cecaafd93a4d0c84",
+   "bytes": 1324025
+  },
+  "cast/CAST.md": {
+   "md5": "a4988557e58457182d096773bd02c8bd",
+   "bytes": 701
+  },
+  "cast/holy-family-child.png": {
+   "md5": "b94449f2591fee20ac116be28059dafe",
+   "bytes": 719735
+  },
+  "cast/holy-family-joseph.png": {
+   "md5": "137481a8f16eb86ed2ec3b8156510651",
+   "bytes": 1105173
+  },
+  "cast/holy-family-mary.png": {
+   "md5": "2aaf034c7e8ca89046751d708e506efb",
+   "bytes": 1050875
+  },
+  "cast/household.png": {
+   "md5": "c2e3502eb774ec4f2cd39f21cd9ef36d",
+   "bytes": 816831
+  },
+  "cast/novena-pray-er.png": {
+   "md5": "c67e21bd9b01e27bdec9a911fe201620",
+   "bytes": 1394687
+  },
+  "contact-sheet.png": {
+   "md5": "77b6dca3ad2123bbc9c129eadd1cf1bf",
+   "bytes": 1655392
+  },
+  "cover.png": {
+   "md5": "d8a9894054988dd7251ce7e8411d0d35",
+   "bytes": 1323007
+  },
+  "novena-endcard.png": {
+   "md5": "5387b9c70f17f0a5e2d39bbefd62f48c",
+   "bytes": 2101448
+  },
+  "vo/NOVENA-ANDREW.txt": {
+   "md5": "be57702bd086451e227d547aa448afc9",
+   "bytes": 48
+  },
+  "vo/VO-NOTES.md": {
+   "md5": "c2a296b4b8cc0539152b37b100e3b722",
+   "bytes": 549
+  },
+  "vo/vo-free.mp3": {
+   "md5": "18f165533331f9c259de2ebd273c87fa",
+   "bytes": 423072
+  },
+  "vo/vo-free.wav": {
+   "md5": "63dd59d0a342617bd8b82d7b53153c48",
+   "bytes": 6572038
+  },
+  "vo/vo-timing.json": {
+   "md5": "cbaa50181cec16c061368016037fea20",
+   "bytes": 5005
+  },
+  "vo/vo-words.json": {
+   "md5": "444b16e641a3f27f3337656015190843",
+   "bytes": 15920
+  }
+ }
+}

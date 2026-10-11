@@ -1,0 +1,88 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "Did a medieval nun invent pumpkin spice? Some might think Starbucks is to thank. She never called that mix pumpkin spice. Benedictine abbess Hildegard died at Rupertsberg in 1179. Her Physica says to take nutmeg, an equal weight of cinnamon, and a bit of cloves, and make small cakes with fine whole wheat flour and water. It will calm all bitterness of the heart and mind and make your mind cheerful. McCormick introduced that blend, with ginger and allspice, in 1934. Send this to your pumpkin spice friend. Search Saint Match on the App Store. Feel it. Match a saint who lived it. Did a medieval nun invent pumpkin spice?",
+ "spoken_text": "Did a medieval nun invent pumpkin spice? Some might think Starbucks is to thank. She never called that mix pumpkin spice. Benedictine abbess Hildegard died at Rupertsberg in 1179. Her Physica says to take nutmeg, an equal weight of cinnamon, and a bit of cloves, and make small cakes with fine whole wheat flour and water. It will calm all bitterness of the heart and mind and make your mind cheerful. McCormick introduced that blend, with ginger and allspice, in 1934. Send this to your pumpkin spice friend. Search Saint Match on the App Store. Feel it. Match a saint who lived it. Did a medieval nun invent pumpkin spice?",
+ "spoken_respell": {},
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 42.089,
+ "wav_duration_s": 42.436,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "Did a medieval nun invent pumpkin spice?",
+   "start_s": 0.091,
+   "end_s": 2.148,
+   "words": 7
+  },
+  {
+   "beat": "02",
+   "text": "Some might think Starbucks is to thank. She never called that mix pumpkin spice.",
+   "start_s": 2.811,
+   "end_s": 7.425,
+   "words": 14
+  },
+  {
+   "beat": "03",
+   "text": "Benedictine abbess Hildegard died at Rupertsberg in 1179.",
+   "start_s": 8.089,
+   "end_s": 12.589,
+   "words": 8
+  },
+  {
+   "beat": "04",
+   "text": "Her Physica says to take nutmeg, an equal weight of cinnamon, and a bit of cloves, and make small cakes with fine whole wheat flour and water.",
+   "start_s": 13.264,
+   "end_s": 20.957,
+   "words": 27
+  },
+  {
+   "beat": "05",
+   "text": "It will calm all bitterness of the heart and mind and make your mind cheerful.",
+   "start_s": 21.632,
+   "end_s": 25.848,
+   "words": 15
+  },
+  {
+   "beat": "06",
+   "text": "McCormick introduced that blend, with ginger and allspice, in 1934.",
+   "start_s": 26.5,
+   "end_s": 31.693,
+   "words": 10
+  },
+  {
+   "beat": "07",
+   "text": "Send this to your pumpkin spice friend.",
+   "start_s": 32.368,
+   "end_s": 33.936,
+   "words": 7
+  },
+  {
+   "beat": "08",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 35.0,
+   "end_s": 36.534,
+   "words": 7
+  },
+  {
+   "beat": "09",
+   "text": "Feel it. Match a saint who lived it.",
+   "start_s": 37.289,
+   "end_s": 39.311,
+   "words": 8
+  },
+  {
+   "beat": "10",
+   "text": "Did a medieval nun invent pumpkin spice?",
+   "start_s": 39.975,
+   "end_s": 42.089,
+   "words": 7
+  }
+ ]
+}

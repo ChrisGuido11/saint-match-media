@@ -1,0 +1,230 @@
+{
+ "folder": "2026-10-11-gospel-matthew-22-1-14",
+ "voice": "Andrew fallback. ElevenLabs key was not set.",
+ "on_screen_hook": "Who is cast outside the feast?",
+ "reel": null,
+ "wav_duration_s": 97.152,
+ "first_word_s": 0.091,
+ "files": {
+  "beat-01-v5.png": {
+   "md5": "3250a5647f9fbe4093edbf4ef35e21f7",
+   "bytes": 1498818
+  },
+  "beat-01.png": {
+   "md5": "3250a5647f9fbe4093edbf4ef35e21f7",
+   "bytes": 1498818
+  },
+  "beat-02-v5.png": {
+   "md5": "63ae2b9f7339a0673f36a1c3cd277173",
+   "bytes": 1340061
+  },
+  "beat-02.png": {
+   "md5": "63ae2b9f7339a0673f36a1c3cd277173",
+   "bytes": 1340061
+  },
+  "beat-03-v5.png": {
+   "md5": "8f37492aa7257b239e8b84d69dd66f5d",
+   "bytes": 1501304
+  },
+  "beat-03.png": {
+   "md5": "8f37492aa7257b239e8b84d69dd66f5d",
+   "bytes": 1501304
+  },
+  "beat-04-v5.png": {
+   "md5": "b488e7d53baabcb7d1e53716baf666ea",
+   "bytes": 1433990
+  },
+  "beat-04.png": {
+   "md5": "b488e7d53baabcb7d1e53716baf666ea",
+   "bytes": 1433990
+  },
+  "beat-05-v5.png": {
+   "md5": "7ccf92742a2c1228f3ae1fc60f702d00",
+   "bytes": 1441187
+  },
+  "beat-05.png": {
+   "md5": "7ccf92742a2c1228f3ae1fc60f702d00",
+   "bytes": 1441187
+  },
+  "beat-06-v5.png": {
+   "md5": "9672a43933b665f3941c5064c0c39453",
+   "bytes": 1510762
+  },
+  "beat-06.png": {
+   "md5": "9672a43933b665f3941c5064c0c39453",
+   "bytes": 1510762
+  },
+  "beat-07-v5.png": {
+   "md5": "793ff1ce708a631ef0bd23a343f9c26c",
+   "bytes": 1656681
+  },
+  "beat-07.png": {
+   "md5": "793ff1ce708a631ef0bd23a343f9c26c",
+   "bytes": 1656681
+  },
+  "beat-08-v5.png": {
+   "md5": "27e37a9e7daba2353564514512e8f990",
+   "bytes": 1389618
+  },
+  "beat-08.png": {
+   "md5": "27e37a9e7daba2353564514512e8f990",
+   "bytes": 1389618
+  },
+  "beat-09-v5.png": {
+   "md5": "c4d15ae2fa95600719ad987e93d3419e",
+   "bytes": 1556436
+  },
+  "beat-09.png": {
+   "md5": "c4d15ae2fa95600719ad987e93d3419e",
+   "bytes": 1556436
+  },
+  "beat-10-v5.png": {
+   "md5": "fb9eb32466e72a9edfcb604c0118cffa",
+   "bytes": 1548424
+  },
+  "beat-10.png": {
+   "md5": "fb9eb32466e72a9edfcb604c0118cffa",
+   "bytes": 1548424
+  },
+  "beat-11-v5.png": {
+   "md5": "722b8e6704c02f33498adb3293b573b6",
+   "bytes": 1503784
+  },
+  "beat-11.png": {
+   "md5": "722b8e6704c02f33498adb3293b573b6",
+   "bytes": 1503784
+  },
+  "beat-12-v5.png": {
+   "md5": "7ae8e37a224fc10792c0e78eabfd165e",
+   "bytes": 1917394
+  },
+  "beat-12.png": {
+   "md5": "7ae8e37a224fc10792c0e78eabfd165e",
+   "bytes": 1917394
+  },
+  "beat-13-v5.png": {
+   "md5": "cc756d4f76865309f871c1fa3fe1ba9b",
+   "bytes": 1279553
+  },
+  "beat-13.png": {
+   "md5": "cc756d4f76865309f871c1fa3fe1ba9b",
+   "bytes": 1279553
+  },
+  "beat-14-v5.png": {
+   "md5": "bf213d5dda426e894e511e92d1de56a3",
+   "bytes": 1313779
+  },
+  "beat-14.png": {
+   "md5": "bf213d5dda426e894e511e92d1de56a3",
+   "bytes": 1313779
+  },
+  "beat-15-v5.png": {
+   "md5": "ec7ee1410d3194da30300a191ecbc351",
+   "bytes": 1318498
+  },
+  "beat-15.png": {
+   "md5": "ec7ee1410d3194da30300a191ecbc351",
+   "bytes": 1318498
+  },
+  "beat-16-v5.png": {
+   "md5": "cbeda54bcba3d01720ae844949059a64",
+   "bytes": 1229505
+  },
+  "beat-16.png": {
+   "md5": "cbeda54bcba3d01720ae844949059a64",
+   "bytes": 1229505
+  },
+  "beat-17-v5.png": {
+   "md5": "4f065a6a3f921cd1ac6a095b9e92b842",
+   "bytes": 1416733
+  },
+  "beat-17.png": {
+   "md5": "4f065a6a3f921cd1ac6a095b9e92b842",
+   "bytes": 1416733
+  },
+  "beat-18-v5.png": {
+   "md5": "baafdfd669451b1ccf2b7ae2144e1b04",
+   "bytes": 1360951
+  },
+  "beat-18.png": {
+   "md5": "baafdfd669451b1ccf2b7ae2144e1b04",
+   "bytes": 1360951
+  },
+  "beat-19-v5.png": {
+   "md5": "c43d1a102646e47fc10fb3f2e976ba9b",
+   "bytes": 1189399
+  },
+  "beat-19.png": {
+   "md5": "c43d1a102646e47fc10fb3f2e976ba9b",
+   "bytes": 1189399
+  },
+  "cast/CAST.md": {
+   "md5": "437dfe838b29f1097479406942077d68",
+   "bytes": 827
+  },
+  "cast/attendants.png": {
+   "md5": "be8910af26c7063a2f2aa325882f6217",
+   "bytes": 857427
+  },
+  "cast/elders.png": {
+   "md5": "0b04d1f16669a6f59c2bb6b382925700",
+   "bytes": 949562
+  },
+  "cast/jesus.png": {
+   "md5": "b947b57d987daf702bd6556161b45444",
+   "bytes": 1633535
+  },
+  "cast/king.png": {
+   "md5": "1b92ca76945985b9a79a7efce6117e30",
+   "bytes": 1296601
+  },
+  "cast/man-without-garment.png": {
+   "md5": "d30b38980be98f1088694d08eaa6d219",
+   "bytes": 989211
+  },
+  "cast/priest.png": {
+   "md5": "af16e80f557fa9fe0bdef651c1009ff7",
+   "bytes": 841760
+  },
+  "cast/servants.png": {
+   "md5": "a4537ddf5e42e576e26c5c6a53cee818",
+   "bytes": 891614
+  },
+  "contact-sheet.png": {
+   "md5": "8d711ea05b344bdf93fd3d0d50738049",
+   "bytes": 2968860
+  },
+  "cover.png": {
+   "md5": "3250a5647f9fbe4093edbf4ef35e21f7",
+   "bytes": 1498818
+  },
+  "learn-feed-endcard.png": {
+   "md5": "12fc3b0162fdaaad03aaa1fbe6595b28",
+   "bytes": 2523610
+  },
+  "vo/VO-NOTES.md": {
+   "md5": "b9c2784e1d0e8af12c523c0681c0e6cf",
+   "bytes": 551
+  },
+  "vo/VOICE-FALLBACK.txt": {
+   "md5": "803556597e0815342c2ae1b1148edd99",
+   "bytes": 139
+  },
+  "vo/vo-free.mp3": {
+   "md5": "04ed0667e4043454bb6fb447998fdc11",
+   "bytes": 554112
+  },
+  "vo/vo-free.wav": {
+   "md5": "6618912e57917b1e1677c132826d5be8",
+   "bytes": 8568886
+  },
+  "vo/vo-timing.json": {
+   "md5": "4173ff8999464289e4e99b411ca41f6f",
+   "bytes": 7154
+  },
+  "vo/vo-words.json": {
+   "md5": "27c0db958b63537044e7234290004154",
+   "bytes": 24113
+  }
+ }
+}

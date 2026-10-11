@@ -1,0 +1,109 @@
+{
+ "mode": "free-edge-tts-one-voice",
+ "tool": "edge-tts 7.2.8",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "text": "On December 26, 2021, Pope Francis said that even in the Holy Family things did not all go well. There were unexpected problems, anxiety, suffering. Day 2 of the Novena for Mental Health. Lord Jesus, may our families draw ever closer to you and to one another. We lift up all families, particularly those with members facing mental health challenges. May family members help remove the stigma surrounding mental health challenges, both within their families and in their communities. Comfort, hold, lead to safety, and heal families affected by every form of trauma, mental health challenge, and mental illness. You know every family's specific situation, wounds and needs, and you can restore and make all things new. Lord, pour your grace into their hearts, minds, souls, and bodies, filling them with light and peace amid their suffering. Help all families, unite their suffering to your Passion and Death, mindful of the resurrection to new life to come. Amen. Holy Family, pray for us. Who in your family are you praying for? Say their name in a comment. Pray all nine days in the Saint Match app. Search Saint Match on the App Store.",
+ "spoken_text": "On December 26, 2021, Pope Francis said that even in the Holy Family things did not all go well. There were unexpected problems, anxiety, suffering. Day 2 of the Novena for Mental Health. Lord Jesus, may our families draw ever closer to you and to one another. We lift up all families, particularly those with members facing mental health challenges. May family members help remove the stigma surrounding mental health challenges, both within their families and in their communities. Comfort, hold, lead to safety, and heal families affected by every form of trauma, mental health challenge, and mental illness. You know every family's specific situation, wounds and needs, and you can restore and make all things new. Lord, pour your grace into their hearts, minds, souls, and bodies, filling them with light and peace amid their suffering. Help all families, unite their suffering to your Passion and Death, mindful of the resurrection to new life to come. Amen. Holy Family, pray for us. Who in your family are you praying for? Say their name in a comment. Pray all nine days in the Saint Match app. Search Saint Match on the App Store.",
+ "spoken_respell": {},
+ "pauses": {
+  "sentence_end": 0.3,
+  "mid_sentence": 0.1,
+  "before_plug": 0.7
+ },
+ "total_duration_s": 74.182,
+ "wav_duration_s": 74.512,
+ "beats": [
+  {
+   "beat": "01",
+   "text": "On December 26, 2021, Pope Francis said that even in the Holy Family things did not all go well. There were unexpected problems, anxiety, suffering.",
+   "start_s": 0.08,
+   "end_s": 9.932,
+   "words": 25
+  },
+  {
+   "beat": "02",
+   "text": "Day 2 of the Novena for Mental Health.",
+   "start_s": 10.595,
+   "end_s": 12.72,
+   "words": 8
+  },
+  {
+   "beat": "03",
+   "text": "Lord Jesus, may our families draw ever closer to you and to one another.",
+   "start_s": 13.373,
+   "end_s": 18.145,
+   "words": 14
+  },
+  {
+   "beat": "04",
+   "text": "We lift up all families, particularly those with members facing mental health challenges.",
+   "start_s": 18.809,
+   "end_s": 23.366,
+   "words": 13
+  },
+  {
+   "beat": "05",
+   "text": "May family members help remove the stigma surrounding mental health challenges, both within their families and in their communities.",
+   "start_s": 24.03,
+   "end_s": 30.859,
+   "words": 19
+  },
+  {
+   "beat": "06",
+   "text": "Comfort, hold, lead to safety, and heal families affected by every form of trauma, mental health challenge, and mental illness.",
+   "start_s": 31.523,
+   "end_s": 39.114,
+   "words": 20
+  },
+  {
+   "beat": "07",
+   "text": "You know every family's specific situation, wounds and needs, and you can restore and make all things new.",
+   "start_s": 39.777,
+   "end_s": 45.448,
+   "words": 18
+  },
+  {
+   "beat": "08",
+   "text": "Lord, pour your grace into their hearts, minds, souls, and bodies, filling them with light and peace amid their suffering.",
+   "start_s": 46.111,
+   "end_s": 53.873,
+   "words": 20
+  },
+  {
+   "beat": "09",
+   "text": "Help all families, unite their suffering to your Passion and Death, mindful of the resurrection to new life to come.",
+   "start_s": 54.548,
+   "end_s": 61.639,
+   "words": 20
+  },
+  {
+   "beat": "10",
+   "text": "Amen. Holy Family, pray for us.",
+   "start_s": 62.291,
+   "end_s": 64.905,
+   "words": 6
+  },
+  {
+   "beat": "11",
+   "text": "Who in your family are you praying for? Say their name in a comment.",
+   "start_s": 65.591,
+   "end_s": 68.739,
+   "words": 14
+  },
+  {
+   "beat": "12",
+   "text": "Pray all nine days in the Saint Match app.",
+   "start_s": 69.802,
+   "end_s": 71.7,
+   "words": 9
+  },
+  {
+   "beat": "13",
+   "text": "Search Saint Match on the App Store.",
+   "start_s": 72.364,
+   "end_s": 74.182,
+   "words": 7
+  }
+ ]
+}
