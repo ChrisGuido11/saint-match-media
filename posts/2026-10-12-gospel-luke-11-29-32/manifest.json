@@ -1,13 +1,21 @@
 {
   "folder": "2026-10-12-gospel-luke-11-29-32",
   "file": "luke-11-29-32-final.mp4",
-  "md5": "5bb59687d24e63c423b3a84b20238697",
-  "bytes": 22868380,
+  "md5": "3931ac9aad434c35899c08f9f0c3cbcd",
+  "bytes": 24740432,
   "duration_s": 50.033,
   "width": 1080,
   "height": 1920,
   "fps": 30,
   "voice": "en-US-AndrewMultilingualNeural +10%",
   "motion": "Ken Burns budget window",
-  "endcard": "appstore-endcard.png"
+  "endcard": "appstore-endcard.png",
+  "rebuilt": "2026-10-12 PT: Jesus recast (beats 02,03,04,08 new, mouth visible); beat-06 dropped, beat-05 held through its VO; same VO, captions, end card",
+  "stills_md5": {
+    "beat-02": "6092d66f",
+    "beat-03": "76d48db0",
+    "beat-04": "d0dbbdf2",
+    "beat-08": "b1de53c6"
+  },
+  "backup": "_backup-2026-10-12/"
 }
