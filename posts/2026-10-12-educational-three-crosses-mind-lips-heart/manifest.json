@@ -1,13 +1,25 @@
 {
-  "folder": "2026-10-12-educational-three-crosses-mind-lips-heart",
-  "file": "three-crosses-mind-lips-heart-final.mp4",
-  "md5": "54f34f35410cefc208d932979aca9bd2",
-  "bytes": 14726620,
-  "duration_s": 46.8,
-  "width": 1080,
-  "height": 1920,
-  "fps": 30,
-  "voice": "en-US-AndrewMultilingualNeural +10%",
-  "motion": "Ken Burns fallback, Imagine clips missing",
-  "endcard": "appstore-endcard.png"
+ "folder": "2026-10-12-educational-three-crosses-mind-lips-heart",
+ "file": "three-crosses-mind-lips-heart-v2-final.mp4",
+ "md5": "e0984784567b638cf565b299396efb08",
+ "bytes": 26991429,
+ "duration_s": 55.936,
+ "width": 1080,
+ "height": 1920,
+ "fps": 30,
+ "style": "style-v3",
+ "voice": "ElevenLabs Luis WGINef1wh4Hi6O62bfO8",
+ "motion": "Ken Burns (no Imagine)",
+ "play_order": [
+  "01",
+  "02",
+  "03",
+  "04",
+  "08",
+  "05",
+  "06",
+  "07"
+ ],
+ "endcard": "appstore-endcard.png",
+ "note": "v1 diagram/Jude style rejected by Chris Oct 11; moved to rejected-diagram-v1/"
 }
