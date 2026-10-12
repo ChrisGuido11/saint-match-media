@@ -1,0 +1,2 @@
+ElevenLabs voice v3 not used: ELEVENLABS_API_KEY not set
+Fell back to tools/gen_vo_free.py (edge-tts en-US-AndrewMultilingualNeural +10%).
