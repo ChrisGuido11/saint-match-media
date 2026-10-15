@@ -1,6 +1,14 @@
 {
-  "file": "saint-callistus-final.mp4",
-  "md5": "8f29bc1a962d785bb43d3d17538c6f64",
-  "bytes": 39367497,
-  "duration_s": 58.633333
+  "folder": "2026-10-14-saint-callistus",
+  "file": "saint-callistus-r2.mp4",
+  "md5": "bf885ae4d3faee424e3e0d78a820ca05",
+  "bytes": 29112764,
+  "duration_s": 46.485,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural +10%",
+  "motion": "Ken Burns (Imagine budget window, educational only until Oct 15)",
+  "endcard": "appstore-endcard.png",
+  "note": "Rerender 2026-10-14 PT. The October 13 file saint-callistus-final.mp4 remains. Piano bed file was not on this machine. Reel is the nobed encode."
 }

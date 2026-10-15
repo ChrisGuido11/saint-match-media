@@ -1,6 +1,14 @@
 {
-  "file": "luke-11-42-46-final.mp4",
-  "md5": "ea619d3049d723500dcf265064a3d703",
-  "bytes": 31001903,
-  "duration_s": 55.733333
+  "folder": "2026-10-14-gospel-luke-11-42-46",
+  "file": "luke-11-42-46-r2.mp4",
+  "md5": "9ee519ba25f65d1496511d1805789f6a",
+  "bytes": 27031586,
+  "duration_s": 51.904,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "voice": "en-US-AndrewMultilingualNeural +10%",
+  "motion": "Ken Burns budget window",
+  "endcard": "appstore-endcard.png",
+  "note": "Rerender 2026-10-14 PT. The October 13 file luke-11-42-46-final.mp4 remains. Piano bed file was not on this machine. Reel is the nobed encode."
 }
