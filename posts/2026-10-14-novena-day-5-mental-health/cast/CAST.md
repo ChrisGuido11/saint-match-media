@@ -1,2 +1,5 @@
+# Cast
+
 LOCKED LOOK | pray-er | woman in her thirties; warm olive-tan skin; dark brown hair in a low bun; no beard; plain oatmeal knit cardigan over a deep green dress; no head covering
-LOCKED LOOK | kateri | young woman about twenty; olive-tan skin; dark hair; smallpox scars on her face; plain dark wool dress; no head covering; no halo
+
+Copied from posts/_cast/novena-pray-er.png. The young woman on beats 04 and 05 is a one-off. Kateri is named and not drawn. Beat 01 worshippers are one-offs, not the pray-er.

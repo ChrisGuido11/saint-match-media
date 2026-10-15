@@ -1,14 +1,6 @@
 {
-  "folder": "2026-10-14-educational-priest-washes-hands",
   "file": "priest-washes-hands-final.mp4",
-  "md5": "7f8b35298919ebc1c64a57606ccd9b3a",
-  "bytes": 20793168,
-  "duration_s": 43.712,
-  "width": 1080,
-  "height": 1920,
-  "fps": 30,
-  "voice": "en-US-AndrewMultilingualNeural +10%",
-  "motion": "Ken Burns budget window",
-  "endcard": "appstore-endcard.png",
-  "note": "Catch-up 2026-10-13 PT. Spoken prayer matches GIRM 145 parenthesis. Piano bed missing. ELEVENLABS_API_KEY unset."
+  "md5": "d2b6727bd0e96e827172f786f606e4b5",
+  "bytes": 30505144,
+  "duration_s": 57.633333
 }

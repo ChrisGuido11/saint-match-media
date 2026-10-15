@@ -1,14 +1,6 @@
 {
-  "folder": "2026-10-14-novena-day-5-mental-health",
-  "file": "novena-day-5-mental-health-r2.mp4",
-  "md5": "e00610673e712ed0345293a10760ebfd",
-  "bytes": 33774116,
-  "duration_s": 61.44,
-  "width": 1080,
-  "height": 1920,
-  "fps": 30,
-  "voice": "en-US-AndrewMultilingualNeural +10%",
-  "motion": "Ken Burns (Imagine budget window, educational only until Oct 15)",
-  "endcard": "appstore-endcard.png",
-  "note": "Rerender 2026-10-14 PT. The October 13 file novena-day-5-mental-health-final.mp4 remains. Piano bed file was not on this machine. Reel is the nobed encode. Voice is Andrew only."
+  "file": "novena-day-5-mental-health-final.mp4",
+  "md5": "3f5ca10b1b1f597797c2dc72b59d4e86",
+  "bytes": 37173730,
+  "duration_s": 62.266667
 }
