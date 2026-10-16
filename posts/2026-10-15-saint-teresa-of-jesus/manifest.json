@@ -1,20 +1,19 @@
 {
   "file": "saint-teresa-of-jesus-final.mp4",
-  "md5": "2fcdb58db0b7dbf04b7a91864eb57bbd",
-  "bytes": 30691234,
-  "duration_s": 55.467,
-  "voice": "Luis speed 1.00",
-  "wav_s": 55.066,
-  "replaces_md5": "f6500013e3a02e014a5729453fbbf758",
+  "md5": "92ea61670131d3f76d06255b94f9b310",
+  "bytes": 30200774,
+  "duration_s": 55.872,
+  "voice": "Luis reused from hosted reel md5 2fcdb58db0b7dbf04b7a91864eb57bbd, not a new ElevenLabs request",
+  "replaces_md5": "2fcdb58db0b7dbf04b7a91864eb57bbd",
   "stills": {
     "01": "stills/beat-01.png",
     "02": "stills/beat-02.png",
-    "03": "stills/beat-03-v2.png",
+    "03": "stills/beat-03-v3.png",
     "04": "stills/beat-04-v2.png",
     "05": "stills/beat-05.png",
     "06": "stills/beat-06-v2.png",
     "07": "stills/beat-07-v2.png",
     "08": "stills/beat-08.png"
   },
-  "note": "Remake speaks A city can misread a vision. Beats 03, 04, 06, 07 are v2 so Teresa keeps one dress. Old mp4 replaced."
+  "note": "Beat 03 remade to the rust-brown dress and light head cloth. Other beats kept. Piano bed missing, nobed encode. Ken Burns fallback."
 }
