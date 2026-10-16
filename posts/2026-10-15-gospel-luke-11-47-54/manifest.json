@@ -1,6 +1,21 @@
 {
   "file": "luke-11-47-54-final.mp4",
-  "md5": "861e088812e446cc112e20154d56ae6b",
-  "bytes": 39288405,
-  "duration_s": 68.333333
+  "md5": "6a468cf99f62283ed70850f33f86181b",
+  "bytes": 38780281,
+  "duration_s": 68.778,
+  "voice": "Luis reused from hosted reel md5 861e088812e446cc112e20154d56ae6b, not a new ElevenLabs request",
+  "replaces_md5": "861e088812e446cc112e20154d56ae6b",
+  "stills": {
+    "01": "stills/beat-01-v5.png",
+    "02": "stills/beat-02-v5.png",
+    "03": "stills/beat-03-v5.png",
+    "04": "stills/beat-04-v5.png",
+    "05": "stills/beat-05-v5.png",
+    "06": "stills/beat-06-v5.png",
+    "07": "stills/beat-07-v5.png",
+    "08": "stills/beat-08-v5.png",
+    "09": "stills/beat-09-v5.png",
+    "10": "stills/beat-10-v5.png"
+  },
+  "note": "Jesus beats remade cream-white robe only. Priest opener beats 01 and 10 and Zechariah beat 06 kept from the prior hosted stills, saved again as v5. Unspoken hook and send burned. Piano bed missing, nobed. Ken Burns fallback."
 }
