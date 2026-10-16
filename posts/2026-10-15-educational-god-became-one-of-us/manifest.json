@@ -1,10 +1,19 @@
 {
   "file": "god-became-one-of-us-final.mp4",
-  "md5": "5d04620bd2952f0471bab3ceaae8c91f",
-  "bytes": 28213840,
-  "duration_s": 57.813,
-  "voice": "Luis speed 1.00",
-  "wav_s": 57.388,
-  "replaces_md5": "3407562a059ff5650090b70b36d71b76",
-  "note": "Remake opens Why, of everything God made, did he become a human? Send is spoken before the end card. Stills unchanged."
+  "md5": "2a0f81b7be1c3257c90e68bc70c5cfd2",
+  "bytes": 29602522,
+  "duration_s": 58.218,
+  "voice": "Luis reused from hosted reel md5 5d04620bd2952f0471bab3ceaae8c91f, not a new ElevenLabs request",
+  "replaces_md5": "5d04620bd2952f0471bab3ceaae8c91f",
+  "stills": {
+    "01": "stills/beat-01-v3.png",
+    "02": "stills/beat-02-v3.png",
+    "03": "stills/beat-03-v3.png",
+    "04": "stills/beat-04-v3.png",
+    "05": "stills/beat-05-v3.png",
+    "06": "stills/beat-06-v3.png",
+    "07": "stills/beat-07-v3.png",
+    "08": "stills/beat-08-v3.png"
+  },
+  "note": "Jesus remade cream-white robe only, no teal cloak, no gold sash. Spoken Why question unchanged. Piano bed missing, nobed. Ken Burns fallback."
 }
