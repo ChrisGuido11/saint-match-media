@@ -1,6 +1,21 @@
 {
   "file": "luke-12-1-7-final.mp4",
-  "md5": "fb3bbdd3eec9d63a32d6f6699bd3eeac",
-  "bytes": 37711411,
-  "duration_s": 65.834
+  "md5": "046ac8bbd6dc62edaf75ebdbf0e9b2e2",
+  "bytes": 35387883,
+  "duration_s": 67.584,
+  "voice": "Luis ElevenLabs library WGINef1wh4Hi6O62bfO8 eleven_multilingual_v2 speed 1.20, one request",
+  "wav_s": 64.847,
+  "stills": {
+    "01": "stills/beat-01-v5.png",
+    "02": "stills/beat-02-v5.png",
+    "03": "stills/beat-03-v5.png",
+    "04": "stills/beat-04-v5.png",
+    "05": "stills/beat-05-v5.png",
+    "06": "stills/beat-06-v5.png",
+    "07": "stills/beat-07-v5.png",
+    "08": "stills/beat-08-v5.png",
+    "09": "stills/beat-09-v5.png",
+    "10": "stills/beat-10-v5.png"
+  },
+  "note": "Full Luke 12:1-7. No short form. En dash in leaven phrase spoken as hyphen-minus because the voice script rejects U+2013. Unspoken hook and send burned. Piano bed missing, nobed. Ken Burns fallback. Clean stills also saved as beat-NN-v5.png."
 }
